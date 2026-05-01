@@ -1,0 +1,40 @@
+{
+  "Bellcanada_k3": {
+    "k": 3,
+    "method": "LocalSearch",
+    "nodes": 48,
+    "objective": 492.3494513222418,
+    "rr_nodes": [
+      31,
+      40,
+      43
+    ],
+    "topology": "Bell Canada"
+  },
+  "Canerie_k3": {
+    "k": 3,
+    "method": "LocalSearch",
+    "nodes": 32,
+    "objective": 2304.155482081428,
+    "rr_nodes": [
+      2,
+      18,
+      27
+    ],
+    "topology": "Canerie"
+  },
+  "Cogentco_k5": {
+    "k": 5,
+    "method": "LocalSearch",
+    "nodes": 197,
+    "objective": 5379.376766334366,
+    "rr_nodes": [
+      8,
+      36,
+      85,
+      102,
+      164
+    ],
+    "topology": "Cogent "
+  }
+}

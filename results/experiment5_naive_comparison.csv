@@ -1,0 +1,3906 @@
+topology,nodes,k,method,objective,pct_above_best,time_sec
+ARPANET,4,1,Greedy,994.66,0.0,0.0
+ARPANET,4,1,LocalSearch,994.66,0.0,0.0
+ARPANET,4,1,Betweenness,994.66,0.0,0.012
+ARPANET,4,1,HighDegree,994.66,0.0,0.0
+ARPANET,4,1,Random,994.66,0.0,0.0
+ARPANET,4,3,Greedy,0.0,0.0,0.0
+ARPANET,4,3,LocalSearch,0.0,0.0,0.0
+ARPANET,4,3,Betweenness,948.05,0.0,0.0
+ARPANET,4,3,HighDegree,948.05,0.0,0.0
+ARPANET,4,3,Random,0.0,0.0,0.0
+Renam,5,1,Greedy,160.67,0.0,0.0
+Renam,5,1,LocalSearch,160.67,0.0,0.0
+Renam,5,1,Betweenness,160.67,0.0,0.0
+Renam,5,1,HighDegree,160.67,0.0,0.0
+Renam,5,1,Random,160.67,0.0,0.0
+Renam,5,3,Greedy,13.29,0.0,0.0
+Renam,5,3,LocalSearch,13.29,0.0,0.0
+Renam,5,3,Betweenness,13.29,0.0,0.0
+Renam,5,3,HighDegree,13.29,0.0,0.0
+Renam,5,3,Random,13.29,0.0,0.0
+DataXchange,6,1,Greedy,1324.07,0.0,0.0
+DataXchange,6,1,LocalSearch,1324.07,0.0,0.0
+DataXchange,6,1,Betweenness,1872.12,41.39,0.0
+DataXchange,6,1,HighDegree,1872.12,41.39,0.0
+DataXchange,6,1,Random,1324.07,0.0,0.0
+DataXchange,6,3,Greedy,0.0,0.0,0.0
+DataXchange,6,3,LocalSearch,0.0,0.0,0.0
+DataXchange,6,3,Betweenness,4.32,0.0,0.0
+DataXchange,6,3,HighDegree,4.32,0.0,0.0
+DataXchange,6,3,Random,0.0,0.0,0.0
+DataXchange,6,5,Greedy,0.0,0.0,0.0
+DataXchange,6,5,LocalSearch,0.0,0.0,0.0
+DataXchange,6,5,Betweenness,0.0,0.0,0.0
+DataXchange,6,5,HighDegree,4.32,0.0,0.0
+DataXchange,6,5,Random,0.0,0.0,0.0
+Epoch,6,1,Greedy,4473.05,0.0,0.0
+Epoch,6,1,LocalSearch,4473.05,0.0,0.0
+Epoch,6,1,Betweenness,5692.05,27.25,0.0
+Epoch,6,1,HighDegree,5692.05,27.25,0.0
+Epoch,6,1,Random,4473.05,0.0,0.0
+Epoch,6,3,Greedy,0.0,0.0,0.0
+Epoch,6,3,LocalSearch,0.0,0.0,0.0
+Epoch,6,3,Betweenness,491.79,0.0,0.0
+Epoch,6,3,HighDegree,491.79,0.0,0.0
+Epoch,6,3,Random,0.0,0.0,0.0
+Epoch,6,5,Greedy,0.0,0.0,0.0
+Epoch,6,5,LocalSearch,0.0,0.0,0.0
+Epoch,6,5,Betweenness,0.0,0.0,0.0
+Epoch,6,5,HighDegree,0.0,0.0,0.0
+Epoch,6,5,Random,0.0,0.0,0.0
+Layer42,6,1,Greedy,7837.78,0.0,0.0
+Layer42,6,1,LocalSearch,7837.78,0.0,0.0
+Layer42,6,1,Betweenness,8700.81,11.01,0.0
+Layer42,6,1,HighDegree,8700.81,11.01,0.0
+Layer42,6,1,Random,7837.78,0.0,0.0
+Layer42,6,3,Greedy,0.0,0.0,0.0
+Layer42,6,3,LocalSearch,0.0,0.0,0.0
+Layer42,6,3,Betweenness,550.78,0.0,0.0
+Layer42,6,3,HighDegree,550.78,0.0,0.0
+Layer42,6,3,Random,0.0,0.0,0.0
+Layer42,6,5,Greedy,0.0,0.0,0.0
+Layer42,6,5,LocalSearch,0.0,0.0,0.0
+Layer42,6,5,Betweenness,0.0,0.0,0.0
+Layer42,6,5,HighDegree,0.0,0.0,0.0
+Layer42,6,5,Random,0.0,0.0,0.0
+MREN,6,1,Greedy,103.42,0.0,0.0
+MREN,6,1,LocalSearch,103.42,0.0,0.0
+MREN,6,1,Betweenness,103.42,0.0,0.0
+MREN,6,1,HighDegree,103.42,0.0,0.0
+MREN,6,1,Random,103.42,0.0,0.0
+MREN,6,3,Greedy,24.33,0.0,0.0
+MREN,6,3,LocalSearch,24.33,0.0,0.0
+MREN,6,3,Betweenness,37.69,54.88,0.0
+MREN,6,3,HighDegree,37.69,54.88,0.0
+MREN,6,3,Random,24.33,0.0,0.0
+MREN,6,5,Greedy,0.0,0.0,0.0
+MREN,6,5,LocalSearch,0.0,0.0,0.0
+MREN,6,5,Betweenness,30.04,0.0,0.0
+MREN,6,5,HighDegree,30.04,0.0,0.0
+MREN,6,5,Random,0.0,0.0,0.0
+NapNet,6,1,Greedy,1867.26,0.0,0.0
+NapNet,6,1,LocalSearch,1867.26,0.0,0.0
+NapNet,6,1,Betweenness,1867.26,0.0,0.0
+NapNet,6,1,HighDegree,1867.26,0.0,0.0
+NapNet,6,1,Random,1867.26,0.0,0.0
+NapNet,6,3,Greedy,0.0,0.0,0.0
+NapNet,6,3,LocalSearch,0.0,0.0,0.0
+NapNet,6,3,Betweenness,1867.26,0.0,0.0
+NapNet,6,3,HighDegree,1867.26,0.0,0.0
+NapNet,6,3,Random,0.0,0.0,0.0
+NapNet,6,5,Greedy,0.0,0.0,0.0
+NapNet,6,5,LocalSearch,0.0,0.0,0.0
+NapNet,6,5,Betweenness,1364.12,0.0,0.0
+NapNet,6,5,HighDegree,1364.12,0.0,0.0
+NapNet,6,5,Random,0.0,0.0,0.0
+TelecomSerbia,6,1,Greedy,330.14,0.0,0.0
+TelecomSerbia,6,1,LocalSearch,330.14,0.0,0.0
+TelecomSerbia,6,1,Betweenness,493.88,49.6,0.0
+TelecomSerbia,6,1,HighDegree,493.88,49.6,0.0
+TelecomSerbia,6,1,Random,330.14,0.0,0.0
+TelecomSerbia,6,3,Greedy,19.77,0.0,0.0
+TelecomSerbia,6,3,LocalSearch,19.77,0.0,0.0
+TelecomSerbia,6,3,Betweenness,127.6,545.43,0.0
+TelecomSerbia,6,3,HighDegree,127.6,545.43,0.0
+TelecomSerbia,6,3,Random,19.77,0.0,0.0
+TelecomSerbia,6,5,Greedy,0.0,0.0,0.0
+TelecomSerbia,6,5,LocalSearch,0.0,0.0,0.0
+TelecomSerbia,6,5,Betweenness,19.77,0.0,0.0
+TelecomSerbia,6,5,HighDegree,19.77,0.0,0.0
+TelecomSerbia,6,5,Random,0.0,0.0,0.0
+BASNET,7,1,Greedy,429.35,0.0,0.0
+BASNET,7,1,LocalSearch,429.35,0.0,0.0
+BASNET,7,1,Betweenness,429.35,0.0,0.0
+BASNET,7,1,HighDegree,429.35,0.0,0.0
+BASNET,7,1,Random,429.35,0.0,0.0
+BASNET,7,3,Greedy,136.1,0.0,0.0
+BASNET,7,3,LocalSearch,136.1,0.0,0.0
+BASNET,7,3,Betweenness,307.34,125.82,0.0
+BASNET,7,3,HighDegree,307.34,125.82,0.0
+BASNET,7,3,Random,136.1,0.0,0.0
+BASNET,7,5,Greedy,14.09,0.0,0.0
+BASNET,7,5,LocalSearch,14.09,0.0,0.0
+BASNET,7,5,Betweenness,173.3,1130.01,0.0
+BASNET,7,5,HighDegree,173.3,1130.01,0.0
+BASNET,7,5,Random,14.09,0.0,0.0
+GetNet,7,1,Greedy,8135.16,0.0,0.0
+GetNet,7,1,LocalSearch,8135.16,0.0,0.0
+GetNet,7,1,Betweenness,11078.9,36.19,0.0
+GetNet,7,1,HighDegree,11078.9,36.19,0.0
+GetNet,7,1,Random,8135.16,0.0,0.0
+GetNet,7,3,Greedy,0.0,0.0,0.0
+GetNet,7,3,LocalSearch,0.0,0.0,0.0
+GetNet,7,3,Betweenness,0.0,0.0,0.0
+GetNet,7,3,HighDegree,0.0,0.0,0.0
+GetNet,7,3,Random,0.0,0.0,0.0
+GetNet,7,5,Greedy,0.0,0.0,0.0
+GetNet,7,5,LocalSearch,0.0,0.0,0.0
+GetNet,7,5,Betweenness,0.0,0.0,0.0
+GetNet,7,5,HighDegree,0.0,0.0,0.0
+GetNet,7,5,Random,0.0,0.0,0.0
+Heanet,7,1,Greedy,391.5,0.0,0.0
+Heanet,7,1,LocalSearch,391.5,0.0,0.0
+Heanet,7,1,Betweenness,391.5,0.0,0.0
+Heanet,7,1,HighDegree,391.5,0.0,0.0
+Heanet,7,1,Random,391.5,0.0,0.0
+Heanet,7,3,Greedy,0.0,0.0,0.0
+Heanet,7,3,LocalSearch,0.0,0.0,0.0
+Heanet,7,3,Betweenness,61.66,0.0,0.0
+Heanet,7,3,HighDegree,61.66,0.0,0.0
+Heanet,7,3,Random,0.0,0.0,0.0
+Heanet,7,5,Greedy,0.0,0.0,0.0
+Heanet,7,5,LocalSearch,0.0,0.0,0.0
+Heanet,7,5,Betweenness,0.0,0.0,0.0
+Heanet,7,5,HighDegree,0.0,0.0,0.0
+Heanet,7,5,Random,0.0,0.0,0.0
+Netrail,7,1,Greedy,3350.11,0.0,0.0
+Netrail,7,1,LocalSearch,3350.11,0.0,0.0
+Netrail,7,1,Betweenness,3570.89,6.59,0.0
+Netrail,7,1,HighDegree,3570.89,6.59,0.0
+Netrail,7,1,Random,3350.11,0.0,0.0
+Netrail,7,3,Greedy,0.0,0.0,0.0
+Netrail,7,3,LocalSearch,0.0,0.0,0.0
+Netrail,7,3,Betweenness,2550.0,0.0,0.0
+Netrail,7,3,HighDegree,2550.0,0.0,0.0
+Netrail,7,3,Random,0.0,0.0,0.0
+Netrail,7,5,Greedy,0.0,0.0,0.0
+Netrail,7,5,LocalSearch,0.0,0.0,0.0
+Netrail,7,5,Betweenness,0.0,0.0,0.0
+Netrail,7,5,HighDegree,0.0,0.0,0.0
+Netrail,7,5,Random,0.0,0.0,0.0
+NORDU,7,1,Greedy,1880.14,0.0,0.0
+NORDU,7,1,LocalSearch,1880.14,0.0,0.0
+NORDU,7,1,Betweenness,1880.14,0.0,0.0
+NORDU,7,1,HighDegree,1880.14,0.0,0.0
+NORDU,7,1,Random,1880.14,0.0,0.0
+NORDU,7,3,Greedy,292.52,0.0,0.0
+NORDU,7,3,LocalSearch,292.52,0.0,0.0
+NORDU,7,3,Betweenness,1550.53,430.05,0.0
+NORDU,7,3,HighDegree,1550.53,430.05,0.0
+NORDU,7,3,Random,333.26,13.93,0.0
+NORDU,7,5,Greedy,0.0,0.0,0.0
+NORDU,7,5,LocalSearch,0.0,0.0,0.0
+NORDU,7,5,Betweenness,292.52,0.0,0.0
+NORDU,7,5,HighDegree,292.52,0.0,0.0
+NORDU,7,5,Random,0.0,0.0,0.0
+Sanren,7,1,Greedy,1745.89,0.0,0.0
+Sanren,7,1,LocalSearch,1745.89,0.0,0.0
+Sanren,7,1,Betweenness,1755.03,0.52,0.0
+Sanren,7,1,HighDegree,1755.03,0.52,0.0
+Sanren,7,1,Random,1745.89,0.0,0.0
+Sanren,7,3,Greedy,91.56,0.0,0.0
+Sanren,7,3,LocalSearch,91.56,0.0,0.0
+Sanren,7,3,Betweenness,1167.63,1175.22,0.0
+Sanren,7,3,HighDegree,1167.63,1175.22,0.0
+Sanren,7,3,Random,225.74,146.54,0.0
+Sanren,7,5,Greedy,17.16,34.21,0.0
+Sanren,7,5,LocalSearch,12.78,0.0,0.0
+Sanren,7,5,Betweenness,440.13,3342.66,0.0
+Sanren,7,5,HighDegree,440.13,3342.66,0.0
+Sanren,7,5,Random,12.78,0.0,0.0
+GlobalNetRu,8,1,Greedy,2272.08,0.0,0.0
+GlobalNetRu,8,1,LocalSearch,2272.08,0.0,0.0
+GlobalNetRu,8,1,Betweenness,2272.08,0.0,0.0
+GlobalNetRu,8,1,HighDegree,2272.08,0.0,0.0
+GlobalNetRu,8,1,Random,2272.08,0.0,0.0
+GlobalNetRu,8,3,Greedy,213.75,0.0,0.0
+GlobalNetRu,8,3,LocalSearch,213.75,0.0,0.0
+GlobalNetRu,8,3,Betweenness,449.78,110.42,0.0
+GlobalNetRu,8,3,HighDegree,449.78,110.42,0.0
+GlobalNetRu,8,3,Random,213.75,0.0,0.0
+GlobalNetRu,8,5,Greedy,0.0,0.0,0.0
+GlobalNetRu,8,5,LocalSearch,0.0,0.0,0.0
+GlobalNetRu,8,5,Betweenness,379.33,0.0,0.0
+GlobalNetRu,8,5,HighDegree,379.33,0.0,0.0
+GlobalNetRu,8,5,Random,0.0,0.0,0.0
+Hibernia Atlantic (Ireland),8,1,Greedy,503.46,0.0,0.0
+Hibernia Atlantic (Ireland),8,1,LocalSearch,503.46,0.0,0.0
+Hibernia Atlantic (Ireland),8,1,Betweenness,612.98,21.75,0.0
+Hibernia Atlantic (Ireland),8,1,HighDegree,612.98,21.75,0.0
+Hibernia Atlantic (Ireland),8,1,Random,503.46,0.0,0.0
+Hibernia Atlantic (Ireland),8,3,Greedy,0.0,0.0,0.0
+Hibernia Atlantic (Ireland),8,3,LocalSearch,0.0,0.0,0.0
+Hibernia Atlantic (Ireland),8,3,Betweenness,78.25,0.0,0.0
+Hibernia Atlantic (Ireland),8,3,HighDegree,78.25,0.0,0.0
+Hibernia Atlantic (Ireland),8,3,Random,0.0,0.0,0.0
+Hibernia Atlantic (Ireland),8,5,Greedy,0.0,0.0,0.0
+Hibernia Atlantic (Ireland),8,5,LocalSearch,0.0,0.0,0.0
+Hibernia Atlantic (Ireland),8,5,Betweenness,78.25,0.0,0.0
+Hibernia Atlantic (Ireland),8,5,HighDegree,78.25,0.0,0.0
+Hibernia Atlantic (Ireland),8,5,Random,0.0,0.0,0.0
+ARPANET,9,1,Greedy,8422.5,0.0,0.0
+ARPANET,9,1,LocalSearch,8422.5,0.0,0.0
+ARPANET,9,1,Betweenness,8422.5,0.0,0.0
+ARPANET,9,1,HighDegree,8422.5,0.0,0.0
+ARPANET,9,1,Random,8422.5,0.0,0.0
+ARPANET,9,3,Greedy,1.02,0.0,0.0
+ARPANET,9,3,LocalSearch,1.02,0.0,0.0
+ARPANET,9,3,Betweenness,2.05,100.0,0.0
+ARPANET,9,3,HighDegree,2.05,100.0,0.0
+ARPANET,9,3,Random,1.02,0.0,0.0
+ARPANET,9,5,Greedy,0.0,0.0,0.0
+ARPANET,9,5,LocalSearch,0.0,0.0,0.0
+ARPANET,9,5,Betweenness,1.02,0.0,0.0
+ARPANET,9,5,HighDegree,2.05,0.0,0.0
+ARPANET,9,5,Random,0.0,0.0,0.0
+GlobalCenter,9,1,Greedy,5558.09,0.0,0.0
+GlobalCenter,9,1,LocalSearch,5558.09,0.0,0.0
+GlobalCenter,9,1,Betweenness,5558.09,0.0,0.0
+GlobalCenter,9,1,HighDegree,5558.09,0.0,0.0
+GlobalCenter,9,1,Random,5558.09,0.0,0.0
+GlobalCenter,9,3,Greedy,0.0,0.0,0.0
+GlobalCenter,9,3,LocalSearch,0.0,0.0,0.0
+GlobalCenter,9,3,Betweenness,1120.6,0.0,0.0
+GlobalCenter,9,3,HighDegree,1120.6,0.0,0.0
+GlobalCenter,9,3,Random,0.0,0.0,0.0
+GlobalCenter,9,5,Greedy,0.0,0.0,0.0
+GlobalCenter,9,5,LocalSearch,0.0,0.0,0.0
+GlobalCenter,9,5,Betweenness,1120.6,0.0,0.0
+GlobalCenter,9,5,HighDegree,1120.6,0.0,0.0
+GlobalCenter,9,5,Random,0.0,0.0,0.0
+GridNet,9,1,Greedy,5176.68,0.0,0.0
+GridNet,9,1,LocalSearch,5176.68,0.0,0.0
+GridNet,9,1,Betweenness,12435.7,140.23,0.0
+GridNet,9,1,HighDegree,12435.7,140.23,0.0
+GridNet,9,1,Random,5176.68,0.0,0.0
+GridNet,9,3,Greedy,0.0,0.0,0.0
+GridNet,9,3,LocalSearch,0.0,0.0,0.0
+GridNet,9,3,Betweenness,772.59,0.0,0.0
+GridNet,9,3,HighDegree,772.59,0.0,0.0
+GridNet,9,3,Random,0.0,0.0,0.0
+GridNet,9,5,Greedy,0.0,0.0,0.0
+GridNet,9,5,LocalSearch,0.0,0.0,0.0
+GridNet,9,5,Betweenness,0.0,0.0,0.0
+GridNet,9,5,HighDegree,0.0,0.0,0.0
+GridNet,9,5,Random,0.0,0.0,0.0
+NORDU,9,1,Greedy,1557.5,0.0,0.0
+NORDU,9,1,LocalSearch,1557.5,0.0,0.0
+NORDU,9,1,Betweenness,1557.5,0.0,0.002
+NORDU,9,1,HighDegree,1557.5,0.0,0.0
+NORDU,9,1,Random,1557.5,0.0,0.0
+NORDU,9,3,Greedy,271.58,0.0,0.0
+NORDU,9,3,LocalSearch,271.58,0.0,0.0
+NORDU,9,3,Betweenness,1471.76,441.92,0.0
+NORDU,9,3,HighDegree,1557.5,473.49,0.0
+NORDU,9,3,Random,402.28,48.13,0.0
+NORDU,9,5,Greedy,42.55,0.0,0.0
+NORDU,9,5,LocalSearch,42.55,0.0,0.0
+NORDU,9,5,Betweenness,316.55,643.94,0.001
+NORDU,9,5,HighDegree,1328.47,3022.16,0.0
+NORDU,9,5,Random,359.73,745.45,0.0
+AI3,10,1,Greedy,49.69,0.0,0.0
+AI3,10,1,LocalSearch,49.69,0.0,0.0
+AI3,10,1,Betweenness,49.69,0.0,0.0
+AI3,10,1,HighDegree,49.69,0.0,0.0
+AI3,10,1,Random,49.69,0.0,0.0
+AI3,10,3,Greedy,16.74,0.0,0.0
+AI3,10,3,LocalSearch,16.74,0.0,0.0
+AI3,10,3,Betweenness,18.1,8.14,0.0
+AI3,10,3,HighDegree,18.1,8.14,0.0
+AI3,10,3,Random,16.74,0.0,0.0
+AI3,10,5,Greedy,3.52,0.0,0.0
+AI3,10,5,LocalSearch,3.52,0.0,0.0
+AI3,10,5,Betweenness,18.1,414.34,0.0
+AI3,10,5,HighDegree,18.1,414.34,0.0
+AI3,10,5,Random,4.26,21.12,0.0
+CESNET,10,1,Greedy,432.38,0.0,0.0
+CESNET,10,1,LocalSearch,432.38,0.0,0.0
+CESNET,10,1,Betweenness,432.38,0.0,0.0
+CESNET,10,1,HighDegree,432.38,0.0,0.0
+CESNET,10,1,Random,432.38,0.0,0.0
+CESNET,10,3,Greedy,73.09,0.0,0.0
+CESNET,10,3,LocalSearch,73.09,0.0,0.0
+CESNET,10,3,Betweenness,104.35,42.77,0.0
+CESNET,10,3,HighDegree,104.35,42.77,0.0
+CESNET,10,3,Random,79.81,9.2,0.0
+CESNET,10,5,Greedy,26.03,0.0,0.0
+CESNET,10,5,LocalSearch,26.03,0.0,0.0
+CESNET,10,5,Betweenness,91.76,252.56,0.0
+CESNET,10,5,HighDegree,91.76,252.56,0.0
+CESNET,10,5,Random,38.46,47.77,0.0
+NSFCNET,10,1,Greedy,0.0,0.0,0.0
+NSFCNET,10,1,LocalSearch,0.0,0.0,0.0
+NSFCNET,10,1,Betweenness,61.52,0.0,0.0
+NSFCNET,10,1,HighDegree,61.52,0.0,0.0
+NSFCNET,10,1,Random,0.0,0.0,0.0
+NSFCNET,10,3,Greedy,0.0,0.0,0.0
+NSFCNET,10,3,LocalSearch,0.0,0.0,0.0
+NSFCNET,10,3,Betweenness,61.52,0.0,0.0
+NSFCNET,10,3,HighDegree,61.52,0.0,0.0
+NSFCNET,10,3,Random,0.0,0.0,0.0
+NSFCNET,10,5,Greedy,0.0,0.0,0.0
+NSFCNET,10,5,LocalSearch,0.0,0.0,0.0
+NSFCNET,10,5,Betweenness,61.52,0.0,0.0
+NSFCNET,10,5,HighDegree,61.52,0.0,0.0
+NSFCNET,10,5,Random,0.0,0.0,0.0
+Abilene,11,1,Greedy,5686.51,0.0,0.0
+Abilene,11,1,LocalSearch,5686.51,0.0,0.0
+Abilene,11,1,Betweenness,5686.51,0.0,0.001
+Abilene,11,1,HighDegree,5686.51,0.0,0.0
+Abilene,11,1,Random,5686.51,0.0,0.0
+Abilene,11,3,Greedy,218.99,9.23,0.0
+Abilene,11,3,LocalSearch,200.49,0.0,0.0
+Abilene,11,3,Betweenness,218.99,9.23,0.0
+Abilene,11,3,HighDegree,5686.51,2736.3,0.0
+Abilene,11,3,Random,218.99,9.23,0.0
+Abilene,11,5,Greedy,0.0,0.0,0.0
+Abilene,11,5,LocalSearch,0.0,0.0,0.0
+Abilene,11,5,Betweenness,0.0,0.0,0.0
+Abilene,11,5,HighDegree,269.12,0.0,0.0
+Abilene,11,5,Random,0.0,0.0,0.0
+Itnet,11,1,Greedy,312.6,0.0,0.0
+Itnet,11,1,LocalSearch,312.6,0.0,0.0
+Itnet,11,1,Betweenness,312.6,0.0,0.0
+Itnet,11,1,HighDegree,312.6,0.0,0.0
+Itnet,11,1,Random,312.6,0.0,0.0
+Itnet,11,3,Greedy,169.32,0.0,0.0
+Itnet,11,3,LocalSearch,169.32,0.0,0.0
+Itnet,11,3,Betweenness,218.46,29.02,0.001
+Itnet,11,3,HighDegree,218.46,29.02,0.0
+Itnet,11,3,Random,192.78,13.85,0.0
+Itnet,11,5,Greedy,79.51,0.0,0.0
+Itnet,11,5,LocalSearch,79.51,0.0,0.0
+Itnet,11,5,Betweenness,98.63,24.04,0.0
+Itnet,11,5,HighDegree,98.63,24.04,0.0
+Itnet,11,5,Random,103.49,30.16,0.0
+Singaren,11,1,Greedy,38.23,0.0,0.0
+Singaren,11,1,LocalSearch,38.23,0.0,0.0
+Singaren,11,1,Betweenness,38.23,0.0,0.0
+Singaren,11,1,HighDegree,38.23,0.0,0.0
+Singaren,11,1,Random,38.23,0.0,0.0
+Singaren,11,3,Greedy,19.11,0.0,0.0
+Singaren,11,3,LocalSearch,19.11,0.0,0.0
+Singaren,11,3,Betweenness,37.35,95.43,0.0
+Singaren,11,3,HighDegree,37.35,95.43,0.0
+Singaren,11,3,Random,19.21,0.52,0.0
+Singaren,11,5,Greedy,8.34,0.0,0.0
+Singaren,11,5,LocalSearch,8.34,0.0,0.0
+Singaren,11,5,Betweenness,34.6,315.07,0.0
+Singaren,11,5,HighDegree,34.6,315.07,0.0
+Singaren,11,5,Random,11.67,40.01,0.0
+Sprint,11,1,Greedy,4420.46,0.0,0.0
+Sprint,11,1,LocalSearch,4420.46,0.0,0.0
+Sprint,11,1,Betweenness,13443.7,204.12,0.0
+Sprint,11,1,HighDegree,13443.7,204.12,0.0
+Sprint,11,1,Random,4420.46,0.0,0.0
+Sprint,11,3,Greedy,0.0,0.0,0.0
+Sprint,11,3,LocalSearch,0.0,0.0,0.0
+Sprint,11,3,Betweenness,0.0,0.0,0.0
+Sprint,11,3,HighDegree,596.54,0.0,0.0
+Sprint,11,3,Random,0.0,0.0,0.0
+Sprint,11,5,Greedy,0.0,0.0,0.0
+Sprint,11,5,LocalSearch,0.0,0.0,0.0
+Sprint,11,5,Betweenness,0.0,0.0,0.0
+Sprint,11,5,HighDegree,596.54,0.0,0.0
+Sprint,11,5,Random,0.0,0.0,0.0
+Janet External,12,1,Greedy,0.37,0.0,0.0
+Janet External,12,1,LocalSearch,0.37,0.0,0.0
+Janet External,12,1,Betweenness,24.59,6474.11,0.0
+Janet External,12,1,HighDegree,24.59,6474.11,0.0
+Janet External,12,1,Random,0.37,0.0,0.0
+Janet External,12,3,Greedy,0.0,0.0,0.0
+Janet External,12,3,LocalSearch,0.0,0.0,0.0
+Janet External,12,3,Betweenness,14.13,0.0,0.0
+Janet External,12,3,HighDegree,14.13,0.0,0.0
+Janet External,12,3,Random,0.0,0.0,0.0
+Janet External,12,5,Greedy,0.0,0.0,0.0
+Janet External,12,5,LocalSearch,0.0,0.0,0.0
+Janet External,12,5,Betweenness,0.0,0.0,0.0
+Janet External,12,5,HighDegree,0.0,0.0,0.0
+Janet External,12,5,Random,0.0,0.0,0.0
+T-lex,12,1,Greedy,57.01,0.0,0.0
+T-lex,12,1,LocalSearch,57.01,0.0,0.0
+T-lex,12,1,Betweenness,65.75,15.33,0.0
+T-lex,12,1,HighDegree,65.75,15.33,0.0
+T-lex,12,1,Random,57.01,0.0,0.0
+T-lex,12,3,Greedy,26.4,30.68,0.0
+T-lex,12,3,LocalSearch,20.2,0.0,0.0
+T-lex,12,3,Betweenness,36.58,81.09,0.0
+T-lex,12,3,HighDegree,36.58,81.09,0.0
+T-lex,12,3,Random,22.1,9.4,0.0
+T-lex,12,5,Greedy,11.91,98.13,0.0
+T-lex,12,5,LocalSearch,6.01,0.0,0.0
+T-lex,12,5,Betweenness,35.92,497.52,0.0
+T-lex,12,5,HighDegree,35.92,497.52,0.0
+T-lex,12,5,Random,7.49,24.65,0.0
+CESNET,13,1,Greedy,564.9,0.0,0.0
+CESNET,13,1,LocalSearch,564.9,0.0,0.0
+CESNET,13,1,Betweenness,564.9,0.0,0.0
+CESNET,13,1,HighDegree,564.9,0.0,0.0
+CESNET,13,1,Random,564.9,0.0,0.0
+CESNET,13,3,Greedy,76.87,0.0,0.0
+CESNET,13,3,LocalSearch,76.87,0.0,0.0
+CESNET,13,3,Betweenness,244.58,218.18,0.0
+CESNET,13,3,HighDegree,244.58,218.18,0.0
+CESNET,13,3,Random,77.17,0.39,0.0
+CESNET,13,5,Greedy,17.52,0.0,0.0
+CESNET,13,5,LocalSearch,17.52,0.0,0.0
+CESNET,13,5,Betweenness,30.15,72.11,0.0
+CESNET,13,5,HighDegree,30.15,72.11,0.0
+CESNET,13,5,Random,24.02,37.11,0.0
+CESNET,13,1,Greedy,513.12,0.0,0.0
+CESNET,13,1,LocalSearch,513.12,0.0,0.0
+CESNET,13,1,Betweenness,513.12,0.0,0.0
+CESNET,13,1,HighDegree,513.12,0.0,0.0
+CESNET,13,1,Random,513.12,0.0,0.0
+CESNET,13,3,Greedy,78.79,0.0,0.0
+CESNET,13,3,LocalSearch,78.79,0.0,0.0
+CESNET,13,3,Betweenness,96.56,22.56,0.0
+CESNET,13,3,HighDegree,96.56,22.56,0.0
+CESNET,13,3,Random,84.75,7.57,0.0
+CESNET,13,5,Greedy,41.51,0.0,0.0
+CESNET,13,5,LocalSearch,41.51,0.0,0.0
+CESNET,13,5,Betweenness,86.32,107.97,0.0
+CESNET,13,5,HighDegree,86.32,107.97,0.0
+CESNET,13,5,Random,48.72,17.38,0.0
+EEnet,13,1,Greedy,385.0,0.0,0.0
+EEnet,13,1,LocalSearch,385.0,0.0,0.0
+EEnet,13,1,Betweenness,400.19,3.95,0.0
+EEnet,13,1,HighDegree,400.19,3.95,0.0
+EEnet,13,1,Random,385.0,0.0,0.0
+EEnet,13,3,Greedy,134.13,18.45,0.0
+EEnet,13,3,LocalSearch,113.24,0.0,0.0
+EEnet,13,3,Betweenness,182.45,61.12,0.0
+EEnet,13,3,HighDegree,203.89,80.06,0.0
+EEnet,13,3,Random,150.71,33.09,0.0
+EEnet,13,5,Greedy,54.64,61.9,0.0
+EEnet,13,5,LocalSearch,33.75,0.0,0.0
+EEnet,13,5,Betweenness,145.63,331.53,0.0
+EEnet,13,5,HighDegree,174.82,418.04,0.0
+EEnet,13,5,Random,57.75,71.13,0.0
+Hibernia Atlantic (Canada),13,1,Greedy,5407.06,0.0,0.0
+Hibernia Atlantic (Canada),13,1,LocalSearch,5407.06,0.0,0.0
+Hibernia Atlantic (Canada),13,1,Betweenness,6731.25,24.49,0.0
+Hibernia Atlantic (Canada),13,1,HighDegree,6731.25,24.49,0.0
+Hibernia Atlantic (Canada),13,1,Random,5407.06,0.0,0.0
+Hibernia Atlantic (Canada),13,3,Greedy,0.0,0.0,0.0
+Hibernia Atlantic (Canada),13,3,LocalSearch,0.0,0.0,0.0
+Hibernia Atlantic (Canada),13,3,Betweenness,732.9,0.0,0.0
+Hibernia Atlantic (Canada),13,3,HighDegree,732.9,0.0,0.0
+Hibernia Atlantic (Canada),13,3,Random,0.0,0.0,0.0
+Hibernia Atlantic (Canada),13,5,Greedy,0.0,0.0,0.0
+Hibernia Atlantic (Canada),13,5,LocalSearch,0.0,0.0,0.0
+Hibernia Atlantic (Canada),13,5,Betweenness,732.9,0.0,0.0
+Hibernia Atlantic (Canada),13,5,HighDegree,732.9,0.0,0.0
+Hibernia Atlantic (Canada),13,5,Random,0.0,0.0,0.0
+KREONET,13,1,Greedy,412.4,0.0,0.0
+KREONET,13,1,LocalSearch,412.4,0.0,0.0
+KREONET,13,1,Betweenness,412.4,0.0,0.0
+KREONET,13,1,HighDegree,412.4,0.0,0.0
+KREONET,13,1,Random,412.4,0.0,0.0
+KREONET,13,3,Greedy,148.69,0.0,0.0
+KREONET,13,3,LocalSearch,148.69,0.0,0.0
+KREONET,13,3,Betweenness,148.69,0.0,0.0
+KREONET,13,3,HighDegree,148.69,0.0,0.0
+KREONET,13,3,Random,148.91,0.15,0.0
+KREONET,13,5,Greedy,44.66,0.0,0.0
+KREONET,13,5,LocalSearch,44.66,0.0,0.0
+KREONET,13,5,Betweenness,146.03,226.96,0.0
+KREONET,13,5,HighDegree,146.03,226.96,0.0
+KREONET,13,5,Random,44.79,0.29,0.0
+Navigata ,13,1,Greedy,8960.05,0.0,0.0
+Navigata ,13,1,LocalSearch,8960.05,0.0,0.0
+Navigata ,13,1,Betweenness,11343.2,26.6,0.0
+Navigata ,13,1,HighDegree,11343.2,26.6,0.0
+Navigata ,13,1,Random,8960.05,0.0,0.0
+Navigata ,13,3,Greedy,712.56,0.0,0.0
+Navigata ,13,3,LocalSearch,712.56,0.0,0.0
+Navigata ,13,3,Betweenness,712.56,0.0,0.0
+Navigata ,13,3,HighDegree,1196.2,67.87,0.0
+Navigata ,13,3,Random,712.56,0.0,0.0
+Navigata ,13,5,Greedy,149.97,0.0,0.0
+Navigata ,13,5,LocalSearch,149.97,0.0,0.0
+Navigata ,13,5,Betweenness,712.56,375.14,0.0
+Navigata ,13,5,HighDegree,712.56,375.14,0.0
+Navigata ,13,5,Random,245.77,63.88,0.0
+NSF,13,1,Greedy,5405.01,0.0,0.0
+NSF,13,1,LocalSearch,5405.01,0.0,0.0
+NSF,13,1,Betweenness,6512.69,20.49,0.001
+NSF,13,1,HighDegree,6512.69,20.49,0.0
+NSF,13,1,Random,5405.01,0.0,0.0
+NSF,13,3,Greedy,138.16,0.0,0.0
+NSF,13,3,LocalSearch,138.16,0.0,0.0
+NSF,13,3,Betweenness,4685.6,3291.35,0.0
+NSF,13,3,HighDegree,4685.6,3291.35,0.0
+NSF,13,3,Random,138.16,0.0,0.0
+NSF,13,5,Greedy,0.0,0.0,0.0
+NSF,13,5,LocalSearch,0.0,0.0,0.0
+NSF,13,5,Betweenness,0.0,0.0,0.0
+NSF,13,5,HighDegree,0.0,0.0,0.0
+NSF,13,5,Random,0.0,0.0,0.0
+UniNet,13,1,Greedy,69.03,0.0,0.0
+UniNet,13,1,LocalSearch,69.03,0.0,0.0
+UniNet,13,1,Betweenness,69.03,0.0,0.0
+UniNet,13,1,HighDegree,69.03,0.0,0.0
+UniNet,13,1,Random,69.03,0.0,0.0
+UniNet,13,3,Greedy,0.0,0.0,0.0
+UniNet,13,3,LocalSearch,0.0,0.0,0.0
+UniNet,13,3,Betweenness,44.95,0.0,0.0
+UniNet,13,3,HighDegree,44.95,0.0,0.0
+UniNet,13,3,Random,0.0,0.0,0.0
+UniNet,13,5,Greedy,0.0,0.0,0.0
+UniNet,13,5,LocalSearch,0.0,0.0,0.0
+UniNet,13,5,Betweenness,44.95,0.0,0.0
+UniNet,13,5,HighDegree,44.95,0.0,0.0
+UniNet,13,5,Random,0.0,0.0,0.0
+Compuserve,14,1,Greedy,1907.83,0.0,0.0
+Compuserve,14,1,LocalSearch,1907.83,0.0,0.0
+Compuserve,14,1,Betweenness,1907.83,0.0,0.0
+Compuserve,14,1,HighDegree,1907.83,0.0,0.0
+Compuserve,14,1,Random,1907.83,0.0,0.0
+Compuserve,14,3,Greedy,0.0,0.0,0.0
+Compuserve,14,3,LocalSearch,0.0,0.0,0.0
+Compuserve,14,3,Betweenness,1907.83,0.0,0.0
+Compuserve,14,3,HighDegree,1907.83,0.0,0.0
+Compuserve,14,3,Random,635.62,0.0,0.0
+Compuserve,14,5,Greedy,0.0,0.0,0.0
+Compuserve,14,5,LocalSearch,0.0,0.0,0.0
+Compuserve,14,5,Betweenness,1907.83,0.0,0.0
+Compuserve,14,5,HighDegree,1907.83,0.0,0.0
+Compuserve,14,5,Random,0.0,0.0,0.0
+ILAN,14,1,Greedy,124.49,0.0,0.0
+ILAN,14,1,LocalSearch,124.49,0.0,0.0
+ILAN,14,1,Betweenness,130.17,4.56,0.0
+ILAN,14,1,HighDegree,130.17,4.56,0.0
+ILAN,14,1,Random,124.49,0.0,0.0
+ILAN,14,3,Greedy,32.01,0.0,0.0
+ILAN,14,3,LocalSearch,32.01,0.0,0.0
+ILAN,14,3,Betweenness,110.01,243.68,0.0
+ILAN,14,3,HighDegree,110.01,243.68,0.0
+ILAN,14,3,Random,32.2,0.59,0.0
+ILAN,14,5,Greedy,12.13,98.88,0.0
+ILAN,14,5,LocalSearch,6.1,0.0,0.0
+ILAN,14,5,Betweenness,109.86,1701.72,0.0
+ILAN,14,5,HighDegree,109.86,1701.72,0.0
+ILAN,14,5,Random,20.33,233.4,0.0
+NORDU,14,1,Greedy,1717.26,0.0,0.0
+NORDU,14,1,LocalSearch,1717.26,0.0,0.0
+NORDU,14,1,Betweenness,1717.26,0.0,0.001
+NORDU,14,1,HighDegree,1717.26,0.0,0.0
+NORDU,14,1,Random,1717.26,0.0,0.0
+NORDU,14,3,Greedy,634.88,0.0,0.0
+NORDU,14,3,LocalSearch,634.88,0.0,0.0
+NORDU,14,3,Betweenness,837.17,31.86,0.0
+NORDU,14,3,HighDegree,837.17,31.86,0.0
+NORDU,14,3,Random,641.41,1.03,0.0
+NORDU,14,5,Greedy,234.56,0.0,0.0
+NORDU,14,5,LocalSearch,234.56,0.0,0.0
+NORDU,14,5,Betweenness,731.47,211.85,0.0
+NORDU,14,5,HighDegree,731.47,211.85,0.0
+NORDU,14,5,Random,386.33,64.7,0.0
+Claranet,15,1,Greedy,4480.87,0.0,0.0
+Claranet,15,1,LocalSearch,4480.87,0.0,0.0
+Claranet,15,1,Betweenness,4480.87,0.0,0.0
+Claranet,15,1,HighDegree,4480.87,0.0,0.0
+Claranet,15,1,Random,4480.87,0.0,0.0
+Claranet,15,3,Greedy,496.48,25.2,0.0
+Claranet,15,3,LocalSearch,396.56,0.0,0.0
+Claranet,15,3,Betweenness,502.1,26.61,0.0
+Claranet,15,3,HighDegree,502.1,26.61,0.0
+Claranet,15,3,Random,502.1,26.61,0.0
+Claranet,15,5,Greedy,103.95,0.0,0.0
+Claranet,15,5,LocalSearch,103.95,0.0,0.0
+Claranet,15,5,Betweenness,211.18,103.16,0.0
+Claranet,15,5,HighDegree,211.18,103.16,0.0
+Claranet,15,5,Random,196.59,89.13,0.0
+euNetworks ,15,1,Greedy,0.0,0.0,0.0
+euNetworks ,15,1,LocalSearch,0.0,0.0,0.0
+euNetworks ,15,1,Betweenness,2067.31,0.0,0.0
+euNetworks ,15,1,HighDegree,2067.31,0.0,0.0
+euNetworks ,15,1,Random,0.0,0.0,0.0
+euNetworks ,15,3,Greedy,0.0,0.0,0.0
+euNetworks ,15,3,LocalSearch,0.0,0.0,0.0
+euNetworks ,15,3,Betweenness,872.63,0.0,0.0
+euNetworks ,15,3,HighDegree,285.24,0.0,0.0
+euNetworks ,15,3,Random,0.0,0.0,0.0
+euNetworks ,15,5,Greedy,0.0,0.0,0.0
+euNetworks ,15,5,LocalSearch,0.0,0.0,0.0
+euNetworks ,15,5,Betweenness,285.24,0.0,0.0
+euNetworks ,15,5,HighDegree,285.24,0.0,0.0
+euNetworks ,15,5,Random,0.0,0.0,0.0
+Hibernia Atlantic (UK),15,1,Greedy,1157.26,0.0,0.0
+Hibernia Atlantic (UK),15,1,LocalSearch,1157.26,0.0,0.0
+Hibernia Atlantic (UK),15,1,Betweenness,2406.54,107.95,0.0
+Hibernia Atlantic (UK),15,1,HighDegree,2406.54,107.95,0.0
+Hibernia Atlantic (UK),15,1,Random,1157.26,0.0,0.0
+Hibernia Atlantic (UK),15,3,Greedy,97.51,25.44,0.0
+Hibernia Atlantic (UK),15,3,LocalSearch,77.73,0.0,0.0
+Hibernia Atlantic (UK),15,3,Betweenness,2158.71,2677.08,0.0
+Hibernia Atlantic (UK),15,3,HighDegree,77.73,0.0,0.0
+Hibernia Atlantic (UK),15,3,Random,77.73,0.0,0.0
+Hibernia Atlantic (UK),15,5,Greedy,3.53,0.0,0.0
+Hibernia Atlantic (UK),15,5,LocalSearch,3.53,0.0,0.0
+Hibernia Atlantic (UK),15,5,Betweenness,997.44,28159.09,0.0
+Hibernia Atlantic (UK),15,5,HighDegree,69.85,1878.87,0.0
+Hibernia Atlantic (UK),15,5,Random,11.42,223.43,0.0
+PADI2,15,1,Greedy,0.0,0.0,0.0
+PADI2,15,1,LocalSearch,0.0,0.0,0.0
+PADI2,15,1,Betweenness,29.7,0.0,0.0
+PADI2,15,1,HighDegree,29.7,0.0,0.0
+PADI2,15,1,Random,0.0,0.0,0.0
+PADI2,15,3,Greedy,0.0,0.0,0.0
+PADI2,15,3,LocalSearch,0.0,0.0,0.0
+PADI2,15,3,Betweenness,0.0,0.0,0.0
+PADI2,15,3,HighDegree,28.71,0.0,0.0
+PADI2,15,3,Random,0.0,0.0,0.0
+PADI2,15,5,Greedy,0.0,0.0,0.0
+PADI2,15,5,LocalSearch,0.0,0.0,0.0
+PADI2,15,5,Betweenness,0.0,0.0,0.0
+PADI2,15,5,HighDegree,14.82,0.0,0.0
+PADI2,15,5,Random,0.0,0.0,0.0
+SpiraLight,15,1,Greedy,741.72,0.0,0.0
+SpiraLight,15,1,LocalSearch,741.72,0.0,0.0
+SpiraLight,15,1,Betweenness,909.6,22.63,0.0
+SpiraLight,15,1,HighDegree,909.6,22.63,0.0
+SpiraLight,15,1,Random,764.42,3.06,0.0
+SpiraLight,15,3,Greedy,49.17,470.16,0.0
+SpiraLight,15,3,LocalSearch,8.62,0.0,0.0
+SpiraLight,15,3,Betweenness,142.88,1556.83,0.0
+SpiraLight,15,3,HighDegree,775.34,8890.78,0.0
+SpiraLight,15,3,Random,8.62,0.0,0.0
+SpiraLight,15,5,Greedy,0.0,0.0,0.0
+SpiraLight,15,5,LocalSearch,0.0,0.0,0.001
+SpiraLight,15,5,Betweenness,142.88,0.0,0.0
+SpiraLight,15,5,HighDegree,775.34,0.0,0.0
+SpiraLight,15,5,Random,0.0,0.0,0.0
+Airtel,16,1,Greedy,43179.85,0.0,0.0
+Airtel,16,1,LocalSearch,43179.85,0.0,0.0
+Airtel,16,1,Betweenness,58963.22,36.55,0.0
+Airtel,16,1,HighDegree,43179.85,0.0,0.0
+Airtel,16,1,Random,43179.85,0.0,0.0
+Airtel,16,3,Greedy,10510.57,0.0,0.0
+Airtel,16,3,LocalSearch,10510.57,0.0,0.0
+Airtel,16,3,Betweenness,10510.57,0.0,0.0
+Airtel,16,3,HighDegree,10510.57,0.0,0.0
+Airtel,16,3,Random,10511.1,0.01,0.0
+Airtel,16,5,Greedy,3343.09,0.0,0.0
+Airtel,16,5,LocalSearch,3343.09,0.0,0.0
+Airtel,16,5,Betweenness,4716.28,41.08,0.0
+Airtel,16,5,HighDegree,4716.28,41.08,0.0
+Airtel,16,5,Random,3693.09,10.47,0.0
+GARR,16,1,Greedy,1632.2,0.0,0.0
+GARR,16,1,LocalSearch,1632.2,0.0,0.0
+GARR,16,1,Betweenness,1822.54,11.66,0.0
+GARR,16,1,HighDegree,1822.54,11.66,0.0
+GARR,16,1,Random,1632.2,0.0,0.0
+GARR,16,3,Greedy,263.92,0.0,0.0
+GARR,16,3,LocalSearch,263.92,0.0,0.0
+GARR,16,3,Betweenness,263.92,0.0,0.0
+GARR,16,3,HighDegree,263.92,0.0,0.0
+GARR,16,3,Random,265.04,0.43,0.0
+GARR,16,5,Greedy,77.49,6.53,0.0
+GARR,16,5,LocalSearch,72.74,0.0,0.0
+GARR,16,5,Betweenness,146.75,101.75,0.0
+GARR,16,5,HighDegree,146.75,101.75,0.0
+GARR,16,5,Random,100.06,37.56,0.0
+GRENA,16,1,Greedy,782.7,0.0,0.0
+GRENA,16,1,LocalSearch,782.7,0.0,0.0
+GRENA,16,1,Betweenness,813.44,3.93,0.0
+GRENA,16,1,HighDegree,813.44,3.93,0.0
+GRENA,16,1,Random,782.7,0.0,0.0
+GRENA,16,3,Greedy,100.84,63.37,0.0
+GRENA,16,3,LocalSearch,61.73,0.0,0.0
+GRENA,16,3,Betweenness,106.57,72.65,0.0
+GRENA,16,3,HighDegree,61.73,0.0,0.0
+GRENA,16,3,Random,61.73,0.0,0.0
+GRENA,16,5,Greedy,25.68,14.99,0.0
+GRENA,16,5,LocalSearch,22.33,0.0,0.0
+GRENA,16,5,Betweenness,98.75,342.18,0.0
+GRENA,16,5,HighDegree,61.73,176.39,0.0
+GRENA,16,5,Random,27.09,21.32,0.0
+Hostway International,16,1,Greedy,26228.07,0.0,0.0
+Hostway International,16,1,LocalSearch,26228.07,0.0,0.0
+Hostway International,16,1,Betweenness,37182.42,41.77,0.001
+Hostway International,16,1,HighDegree,37182.42,41.77,0.0
+Hostway International,16,1,Random,26228.07,0.0,0.0
+Hostway International,16,3,Greedy,1891.07,782.94,0.0
+Hostway International,16,3,LocalSearch,214.18,0.0,0.0
+Hostway International,16,3,Betweenness,37182.42,17260.5,0.0
+Hostway International,16,3,HighDegree,37182.42,17260.5,0.0
+Hostway International,16,3,Random,214.18,0.0,0.0
+Hostway International,16,5,Greedy,0.0,0.0,0.0
+Hostway International,16,5,LocalSearch,0.0,0.0,0.0
+Hostway International,16,5,Betweenness,2073.29,0.0,0.0
+Hostway International,16,5,HighDegree,35323.31,0.0,0.0
+Hostway International,16,5,Random,0.0,0.0,0.0
+KentMan,16,1,Greedy,212.18,0.0,0.0
+KentMan,16,1,LocalSearch,212.18,0.0,0.0
+KentMan,16,1,Betweenness,236.82,11.61,0.0
+KentMan,16,1,HighDegree,236.82,11.61,0.0
+KentMan,16,1,Random,212.18,0.0,0.0
+KentMan,16,3,Greedy,16.37,102.93,0.0
+KentMan,16,3,LocalSearch,8.07,0.0,0.0
+KentMan,16,3,Betweenness,13.58,68.38,0.0
+KentMan,16,3,HighDegree,13.58,68.38,0.0
+KentMan,16,3,Random,12.72,57.7,0.0
+KentMan,16,5,Greedy,3.75,78.53,0.0
+KentMan,16,5,LocalSearch,2.1,0.0,0.0
+KentMan,16,5,Betweenness,4.52,114.82,0.0
+KentMan,16,5,HighDegree,12.92,514.55,0.0
+KentMan,16,5,Random,2.1,0.0,0.0
+MARWAN,16,1,Greedy,662.65,0.0,0.0
+MARWAN,16,1,LocalSearch,662.65,0.0,0.0
+MARWAN,16,1,Betweenness,662.65,0.0,0.0
+MARWAN,16,1,HighDegree,662.65,0.0,0.0
+MARWAN,16,1,Random,662.65,0.0,0.0
+MARWAN,16,3,Greedy,30.9,0.0,0.0
+MARWAN,16,3,LocalSearch,30.9,0.0,0.0
+MARWAN,16,3,Betweenness,662.65,2044.57,0.0
+MARWAN,16,3,HighDegree,662.65,2044.57,0.0
+MARWAN,16,3,Random,30.9,0.0,0.0
+MARWAN,16,5,Greedy,1.47,0.0,0.0
+MARWAN,16,5,LocalSearch,1.47,0.0,0.0
+MARWAN,16,5,Betweenness,644.81,43727.93,0.0
+MARWAN,16,5,HighDegree,30.9,2000.22,0.0
+MARWAN,16,5,Random,12.23,731.33,0.0
+peer1,16,1,Greedy,12619.83,0.0,0.0
+peer1,16,1,LocalSearch,12619.83,0.0,0.0
+peer1,16,1,Betweenness,12619.83,0.0,0.0
+peer1,16,1,HighDegree,15503.96,22.85,0.0
+peer1,16,1,Random,12619.83,0.0,0.0
+peer1,16,3,Greedy,0.0,0.0,0.0
+peer1,16,3,LocalSearch,0.0,0.0,0.0
+peer1,16,3,Betweenness,10724.38,0.0,0.0
+peer1,16,3,HighDegree,10724.38,0.0,0.0
+peer1,16,3,Random,0.0,0.0,0.0
+peer1,16,5,Greedy,0.0,0.0,0.0
+peer1,16,5,LocalSearch,0.0,0.0,0.0
+peer1,16,5,Betweenness,10724.38,0.0,0.0
+peer1,16,5,HighDegree,10724.38,0.0,0.0
+peer1,16,5,Random,0.0,0.0,0.0
+RHnet,16,1,Greedy,627.79,0.0,0.0
+RHnet,16,1,LocalSearch,627.79,0.0,0.0
+RHnet,16,1,Betweenness,627.79,0.0,0.0
+RHnet,16,1,HighDegree,627.79,0.0,0.0
+RHnet,16,1,Random,627.79,0.0,0.0
+RHnet,16,3,Greedy,18.2,0.0,0.0
+RHnet,16,3,LocalSearch,18.2,0.0,0.0
+RHnet,16,3,Betweenness,627.79,3349.34,0.0
+RHnet,16,3,HighDegree,627.79,3349.34,0.0
+RHnet,16,3,Random,18.2,0.0,0.0
+RHnet,16,5,Greedy,0.0,0.0,0.0
+RHnet,16,5,LocalSearch,0.0,0.0,0.0
+RHnet,16,5,Betweenness,46.67,0.0,0.0
+RHnet,16,5,HighDegree,46.67,0.0,0.0
+RHnet,16,5,Random,18.2,0.0,0.0
+FatMan,17,1,Greedy,642.26,0.0,0.0
+FatMan,17,1,LocalSearch,642.26,0.0,0.0
+FatMan,17,1,Betweenness,642.26,0.0,0.0
+FatMan,17,1,HighDegree,642.26,0.0,0.0
+FatMan,17,1,Random,642.26,0.0,0.0
+FatMan,17,3,Greedy,123.28,0.0,0.0
+FatMan,17,3,LocalSearch,123.28,0.0,0.0
+FatMan,17,3,Betweenness,367.62,198.2,0.0
+FatMan,17,3,HighDegree,367.62,198.2,0.0
+FatMan,17,3,Random,123.28,0.0,0.0
+FatMan,17,5,Greedy,13.11,0.0,0.0
+FatMan,17,5,LocalSearch,13.11,0.0,0.0
+FatMan,17,5,Betweenness,123.28,840.28,0.0
+FatMan,17,5,HighDegree,238.12,1716.18,0.0
+FatMan,17,5,Random,13.11,0.0,0.0
+GoodNet,17,1,Greedy,8736.7,0.0,0.0
+GoodNet,17,1,LocalSearch,8736.7,0.0,0.0
+GoodNet,17,1,Betweenness,10690.35,22.36,0.0
+GoodNet,17,1,HighDegree,12401.22,41.94,0.0
+GoodNet,17,1,Random,8736.7,0.0,0.0
+GoodNet,17,3,Greedy,244.51,0.0,0.0
+GoodNet,17,3,LocalSearch,244.51,0.0,0.0
+GoodNet,17,3,Betweenness,244.51,0.0,0.0
+GoodNet,17,3,HighDegree,244.51,0.0,0.0
+GoodNet,17,3,Random,534.44,118.58,0.0
+GoodNet,17,5,Greedy,1.59,0.0,0.0
+GoodNet,17,5,LocalSearch,1.59,0.0,0.0
+GoodNet,17,5,Betweenness,244.51,15267.67,0.0
+GoodNet,17,5,HighDegree,244.51,15267.67,0.0
+GoodNet,17,5,Random,21.31,1239.51,0.0
+Nextgen ,17,1,Greedy,4486.08,0.0,0.0
+Nextgen ,17,1,LocalSearch,4486.08,0.0,0.0
+Nextgen ,17,1,Betweenness,4486.08,0.0,0.0
+Nextgen ,17,1,HighDegree,4938.87,10.09,0.0
+Nextgen ,17,1,Random,4486.08,0.0,0.0
+Nextgen ,17,3,Greedy,450.53,5.16,0.0
+Nextgen ,17,3,LocalSearch,428.4,0.0,0.0
+Nextgen ,17,3,Betweenness,3289.43,667.83,0.0
+Nextgen ,17,3,HighDegree,1350.03,215.13,0.0
+Nextgen ,17,3,Random,428.4,0.0,0.0
+Nextgen ,17,5,Greedy,2.28,0.0,0.0
+Nextgen ,17,5,LocalSearch,2.28,0.0,0.0
+Nextgen ,17,5,Betweenness,1297.24,56697.93,0.0
+Nextgen ,17,5,HighDegree,2.28,0.0,0.0
+Nextgen ,17,5,Random,2.28,0.0,0.0
+ANS,18,1,Greedy,10806.61,0.0,0.0
+ANS,18,1,LocalSearch,10806.61,0.0,0.0
+ANS,18,1,Betweenness,10806.61,0.0,0.001
+ANS,18,1,HighDegree,11864.38,9.79,0.0
+ANS,18,1,Random,10806.61,0.0,0.0
+ANS,18,3,Greedy,1036.82,33.05,0.0
+ANS,18,3,LocalSearch,779.25,0.0,0.0
+ANS,18,3,Betweenness,9778.06,1154.81,0.0
+ANS,18,3,HighDegree,9778.06,1154.81,0.0
+ANS,18,3,Random,779.25,0.0,0.0
+ANS,18,5,Greedy,0.0,0.0,0.0
+ANS,18,5,LocalSearch,0.0,0.0,0.0
+ANS,18,5,Betweenness,3971.69,0.0,0.0
+ANS,18,5,HighDegree,3971.69,0.0,0.0
+ANS,18,5,Random,8.27,0.0,0.0
+ARPANET,18,1,Greedy,23268.29,0.0,0.0
+ARPANET,18,1,LocalSearch,23268.29,0.0,0.0
+ARPANET,18,1,Betweenness,23268.29,0.0,0.0
+ARPANET,18,1,HighDegree,24538.53,5.46,0.0
+ARPANET,18,1,Random,23268.29,0.0,0.0
+ARPANET,18,3,Greedy,11.71,0.0,0.0
+ARPANET,18,3,LocalSearch,11.71,0.0,0.0
+ARPANET,18,3,Betweenness,278.54,2277.65,0.0
+ARPANET,18,3,HighDegree,270.17,2206.24,0.0
+ARPANET,18,3,Random,11.71,0.0,0.0
+ARPANET,18,5,Greedy,0.0,0.0,0.0
+ARPANET,18,5,LocalSearch,0.0,0.0,0.0
+ARPANET,18,5,Betweenness,258.46,0.0,0.0
+ARPANET,18,5,HighDegree,258.46,0.0,0.0
+ARPANET,18,5,Random,0.0,0.0,0.0
+BSONetworkSolutions,18,1,Greedy,3452.82,0.0,0.0
+BSONetworkSolutions,18,1,LocalSearch,3452.82,0.0,0.0
+BSONetworkSolutions,18,1,Betweenness,3644.77,5.56,0.0
+BSONetworkSolutions,18,1,HighDegree,3485.57,0.95,0.0
+BSONetworkSolutions,18,1,Random,3452.82,0.0,0.0
+BSONetworkSolutions,18,3,Greedy,778.78,0.0,0.0
+BSONetworkSolutions,18,3,LocalSearch,778.78,0.0,0.0
+BSONetworkSolutions,18,3,Betweenness,2552.63,227.77,0.0
+BSONetworkSolutions,18,3,HighDegree,2552.63,227.77,0.0
+BSONetworkSolutions,18,3,Random,778.78,0.0,0.0
+BSONetworkSolutions,18,5,Greedy,125.65,0.0,0.0
+BSONetworkSolutions,18,5,LocalSearch,125.65,0.0,0.0
+BSONetworkSolutions,18,5,Betweenness,619.2,392.78,0.0
+BSONetworkSolutions,18,5,HighDegree,619.2,392.78,0.0
+BSONetworkSolutions,18,5,Random,125.65,0.0,0.0
+Hibernia Atlantic (N. Ireland),18,1,Greedy,636.82,0.0,0.0
+Hibernia Atlantic (N. Ireland),18,1,LocalSearch,636.82,0.0,0.0
+Hibernia Atlantic (N. Ireland),18,1,Betweenness,644.52,1.21,0.001
+Hibernia Atlantic (N. Ireland),18,1,HighDegree,3067.05,381.62,0.0
+Hibernia Atlantic (N. Ireland),18,1,Random,636.82,0.0,0.0
+Hibernia Atlantic (N. Ireland),18,3,Greedy,147.95,203.84,0.0
+Hibernia Atlantic (N. Ireland),18,3,LocalSearch,48.69,0.0,0.0
+Hibernia Atlantic (N. Ireland),18,3,Betweenness,447.16,818.31,0.0
+Hibernia Atlantic (N. Ireland),18,3,HighDegree,272.91,460.45,0.0
+Hibernia Atlantic (N. Ireland),18,3,Random,48.69,0.0,0.0
+Hibernia Atlantic (N. Ireland),18,5,Greedy,17.17,44.45,0.0
+Hibernia Atlantic (N. Ireland),18,5,LocalSearch,11.89,0.0,0.0
+Hibernia Atlantic (N. Ireland),18,5,Betweenness,196.18,1550.01,0.0
+Hibernia Atlantic (N. Ireland),18,5,HighDegree,109.68,822.47,0.0
+Hibernia Atlantic (N. Ireland),18,5,Random,11.89,0.0,0.0
+Highwinds,18,1,Greedy,13239.65,0.0,0.0
+Highwinds,18,1,LocalSearch,13239.65,0.0,0.0
+Highwinds,18,1,Betweenness,13239.65,0.0,0.0
+Highwinds,18,1,HighDegree,13239.65,0.0,0.0
+Highwinds,18,1,Random,13239.65,0.0,0.0
+Highwinds,18,3,Greedy,59.6,0.0,0.0
+Highwinds,18,3,LocalSearch,59.6,0.0,0.0
+Highwinds,18,3,Betweenness,13239.65,22114.33,0.0
+Highwinds,18,3,HighDegree,11159.54,18624.19,0.0
+Highwinds,18,3,Random,59.6,0.0,0.0
+Highwinds,18,5,Greedy,0.0,0.0,0.0
+Highwinds,18,5,LocalSearch,0.0,0.0,0.0
+Highwinds,18,5,Betweenness,11159.54,0.0,0.001
+Highwinds,18,5,HighDegree,11159.54,0.0,0.0
+Highwinds,18,5,Random,0.0,0.0,0.0
+IBM,18,1,Greedy,11261.92,0.0,0.0
+IBM,18,1,LocalSearch,11261.92,0.0,0.0
+IBM,18,1,Betweenness,11261.92,0.0,0.0
+IBM,18,1,HighDegree,11261.92,0.0,0.0
+IBM,18,1,Random,11261.92,0.0,0.0
+IBM,18,3,Greedy,424.09,0.0,0.0
+IBM,18,3,LocalSearch,424.09,0.0,0.0
+IBM,18,3,Betweenness,11261.92,2555.54,0.0
+IBM,18,3,HighDegree,11261.92,2555.54,0.0
+IBM,18,3,Random,424.09,0.0,0.0
+IBM,18,5,Greedy,40.49,0.0,0.0
+IBM,18,5,LocalSearch,40.49,0.0,0.0
+IBM,18,5,Betweenness,1236.68,2954.52,0.0
+IBM,18,5,HighDegree,11261.92,27716.13,0.0
+IBM,18,5,Random,205.35,407.2,0.0
+JGN2plus-Japan,18,1,Greedy,2000.85,0.0,0.0
+JGN2plus-Japan,18,1,LocalSearch,2000.85,0.0,0.0
+JGN2plus-Japan,18,1,Betweenness,2100.58,4.98,0.0
+JGN2plus-Japan,18,1,HighDegree,2100.58,4.98,0.0
+JGN2plus-Japan,18,1,Random,2000.85,0.0,0.0
+JGN2plus-Japan,18,3,Greedy,587.87,0.0,0.0
+JGN2plus-Japan,18,3,LocalSearch,587.87,0.0,0.0
+JGN2plus-Japan,18,3,Betweenness,1433.05,143.77,0.0
+JGN2plus-Japan,18,3,HighDegree,736.65,25.31,0.0
+JGN2plus-Japan,18,3,Random,682.33,16.07,0.0
+JGN2plus-Japan,18,5,Greedy,207.47,0.0,0.0
+JGN2plus-Japan,18,5,LocalSearch,207.47,0.0,0.0
+JGN2plus-Japan,18,5,Betweenness,720.36,247.22,0.0
+JGN2plus-Japan,18,5,HighDegree,486.27,134.39,0.0
+JGN2plus-Japan,18,5,Random,314.09,51.39,0.0
+NORDU,18,1,Greedy,11.64,0.0,0.0
+NORDU,18,1,LocalSearch,11.64,0.0,0.0
+NORDU,18,1,Betweenness,2413.79,20643.8,0.0
+NORDU,18,1,HighDegree,2413.79,20643.8,0.0
+NORDU,18,1,Random,11.64,0.0,0.0
+NORDU,18,3,Greedy,0.0,0.0,0.0
+NORDU,18,3,LocalSearch,0.0,0.0,0.0
+NORDU,18,3,Betweenness,365.99,0.0,0.0
+NORDU,18,3,HighDegree,365.99,0.0,0.0
+NORDU,18,3,Random,0.0,0.0,0.0
+NORDU,18,5,Greedy,0.0,0.0,0.0
+NORDU,18,5,LocalSearch,0.0,0.0,0.0
+NORDU,18,5,Betweenness,0.0,0.0,0.0
+NORDU,18,5,HighDegree,154.51,0.0,0.0
+NORDU,18,5,Random,0.0,0.0,0.0
+Pacific-Wave,18,1,Greedy,7789.41,0.0,0.0
+Pacific-Wave,18,1,LocalSearch,7789.41,0.0,0.0
+Pacific-Wave,18,1,Betweenness,9901.6,27.12,0.0
+Pacific-Wave,18,1,HighDegree,9901.6,27.12,0.0
+Pacific-Wave,18,1,Random,7789.41,0.0,0.0
+Pacific-Wave,18,3,Greedy,477.97,0.0,0.0
+Pacific-Wave,18,3,LocalSearch,477.97,0.0,0.0
+Pacific-Wave,18,3,Betweenness,668.14,39.79,0.0
+Pacific-Wave,18,3,HighDegree,668.14,39.79,0.0
+Pacific-Wave,18,3,Random,478.35,0.08,0.0
+Pacific-Wave,18,5,Greedy,206.32,0.0,0.0
+Pacific-Wave,18,5,LocalSearch,206.32,0.0,0.0
+Pacific-Wave,18,5,Betweenness,668.14,223.84,0.0
+Pacific-Wave,18,5,HighDegree,668.14,223.84,0.0
+Pacific-Wave,18,5,Random,378.74,83.57,0.0
+Sago,18,1,Greedy,2796.18,0.0,0.0
+Sago,18,1,LocalSearch,2796.18,0.0,0.0
+Sago,18,1,Betweenness,2796.18,0.0,0.0
+Sago,18,1,HighDegree,2796.18,0.0,0.0
+Sago,18,1,Random,2796.18,0.0,0.0
+Sago,18,3,Greedy,21.81,0.0,0.0
+Sago,18,3,LocalSearch,21.81,0.0,0.0
+Sago,18,3,Betweenness,1516.25,6852.16,0.0
+Sago,18,3,HighDegree,2172.66,9861.89,0.0
+Sago,18,3,Random,21.81,0.0,0.0
+Sago,18,5,Greedy,0.0,0.0,0.0
+Sago,18,5,LocalSearch,0.0,0.0,0.0
+Sago,18,5,Betweenness,623.52,0.0,0.0
+Sago,18,5,HighDegree,2172.66,0.0,0.0
+Sago,18,5,Random,0.0,0.0,0.0
+AARNET,19,1,Greedy,6103.62,0.0,0.0
+AARNET,19,1,LocalSearch,6103.62,0.0,0.0
+AARNET,19,1,Betweenness,6449.51,5.67,0.0
+AARNET,19,1,HighDegree,6449.51,5.67,0.0
+AARNET,19,1,Random,6103.62,0.0,0.0
+AARNET,19,3,Greedy,1128.17,162.04,0.0
+AARNET,19,3,LocalSearch,430.54,0.0,0.0
+AARNET,19,3,Betweenness,2894.19,572.22,0.001
+AARNET,19,3,HighDegree,3464.12,704.6,0.0
+AARNET,19,3,Random,430.54,0.0,0.0
+AARNET,19,5,Greedy,103.99,11.23,0.0
+AARNET,19,5,LocalSearch,93.49,0.0,0.0
+AARNET,19,5,Betweenness,1774.47,1797.97,0.0
+AARNET,19,5,HighDegree,3370.63,3505.23,0.0
+AARNET,19,5,Random,208.24,122.73,0.0
+EasyNet ,19,1,Greedy,20146.74,0.0,0.0
+EasyNet ,19,1,LocalSearch,20146.74,0.0,0.0
+EasyNet ,19,1,Betweenness,20146.74,0.0,0.0
+EasyNet ,19,1,HighDegree,20146.74,0.0,0.0
+EasyNet ,19,1,Random,20146.74,0.0,0.0
+EasyNet ,19,3,Greedy,604.65,0.0,0.0
+EasyNet ,19,3,LocalSearch,604.65,0.0,0.0
+EasyNet ,19,3,Betweenness,20146.74,3231.96,0.0
+EasyNet ,19,3,HighDegree,1125.04,86.06,0.0
+EasyNet ,19,3,Random,809.42,33.87,0.0
+EasyNet ,19,5,Greedy,92.17,0.0,0.0
+EasyNet ,19,5,LocalSearch,92.17,0.0,0.0
+EasyNet ,19,5,Betweenness,1125.04,1120.66,0.0
+EasyNet ,19,5,HighDegree,1037.04,1025.19,0.0
+EasyNet ,19,5,Random,721.43,682.75,0.0
+InternetMCI,19,1,Greedy,11029.43,0.0,0.0
+InternetMCI,19,1,LocalSearch,11029.43,0.0,0.0
+InternetMCI,19,1,Betweenness,11113.38,0.76,0.0
+InternetMCI,19,1,HighDegree,11113.38,0.76,0.0
+InternetMCI,19,1,Random,11029.43,0.0,0.0
+InternetMCI,19,3,Greedy,20.13,0.0,0.0
+InternetMCI,19,3,LocalSearch,20.13,0.0,0.0
+InternetMCI,19,3,Betweenness,1607.25,7885.88,0.0
+InternetMCI,19,3,HighDegree,9526.25,47232.59,0.0
+InternetMCI,19,3,Random,20.13,0.0,0.0
+InternetMCI,19,5,Greedy,0.0,0.0,0.0
+InternetMCI,19,5,LocalSearch,0.0,0.0,0.0
+InternetMCI,19,5,Betweenness,20.13,0.0,0.0
+InternetMCI,19,5,HighDegree,9526.25,0.0,0.0
+InternetMCI,19,5,Random,0.0,0.0,0.0
+Noel Communications ,19,1,Greedy,1099.58,0.0,0.0
+Noel Communications ,19,1,LocalSearch,1099.58,0.0,0.0
+Noel Communications ,19,1,Betweenness,1099.58,0.0,0.0
+Noel Communications ,19,1,HighDegree,1099.58,0.0,0.0
+Noel Communications ,19,1,Random,1099.58,0.0,0.0
+Noel Communications ,19,3,Greedy,70.12,0.0,0.0
+Noel Communications ,19,3,LocalSearch,70.12,0.0,0.0
+Noel Communications ,19,3,Betweenness,73.87,5.36,0.0
+Noel Communications ,19,3,HighDegree,73.87,5.36,0.0
+Noel Communications ,19,3,Random,70.12,0.0,0.0
+Noel Communications ,19,5,Greedy,0.0,0.0,0.0
+Noel Communications ,19,5,LocalSearch,0.0,0.0,0.0
+Noel Communications ,19,5,Betweenness,22.81,0.0,0.0
+Noel Communications ,19,5,HighDegree,73.87,0.0,0.0
+Noel Communications ,19,5,Random,22.81,0.0,0.0
+RedIris,19,1,Greedy,1976.65,0.0,0.0
+RedIris,19,1,LocalSearch,1976.65,0.0,0.001
+RedIris,19,1,Betweenness,2036.02,3.0,0.0
+RedIris,19,1,HighDegree,2036.02,3.0,0.0
+RedIris,19,1,Random,2036.02,3.0,0.0
+RedIris,19,3,Greedy,155.29,0.0,0.0
+RedIris,19,3,LocalSearch,155.29,0.0,0.0
+RedIris,19,3,Betweenness,191.9,23.58,0.0
+RedIris,19,3,HighDegree,1211.35,680.06,0.0
+RedIris,19,3,Random,155.29,0.0,0.0
+RedIris,19,5,Greedy,47.47,74.27,0.0
+RedIris,19,5,LocalSearch,27.24,0.0,0.0
+RedIris,19,5,Betweenness,105.3,286.6,0.0
+RedIris,19,5,HighDegree,106.44,290.77,0.0
+RedIris,19,5,Random,46.72,71.54,0.0
+Restena,19,1,Greedy,24.28,0.0,0.0
+Restena,19,1,LocalSearch,24.28,0.0,0.0
+Restena,19,1,Betweenness,24.33,0.22,0.001
+Restena,19,1,HighDegree,24.33,0.22,0.0
+Restena,19,1,Random,24.28,0.0,0.0
+Restena,19,3,Greedy,7.82,0.31,0.0
+Restena,19,3,LocalSearch,7.79,0.0,0.0
+Restena,19,3,Betweenness,22.15,184.21,0.0
+Restena,19,3,HighDegree,22.15,184.21,0.0
+Restena,19,3,Random,10.38,33.23,0.0
+Restena,19,5,Greedy,3.33,0.0,0.0
+Restena,19,5,LocalSearch,3.33,0.0,0.001
+Restena,19,5,Betweenness,18.54,456.2,0.0
+Restena,19,5,HighDegree,18.54,456.2,0.0
+Restena,19,5,Random,4.73,41.87,0.0
+Savvis,19,1,Greedy,9275.62,0.0,0.0
+Savvis,19,1,LocalSearch,9275.62,0.0,0.0
+Savvis,19,1,Betweenness,9275.62,0.0,0.0
+Savvis,19,1,HighDegree,9275.62,0.0,0.0
+Savvis,19,1,Random,9275.62,0.0,0.0
+Savvis,19,3,Greedy,322.09,0.0,0.0
+Savvis,19,3,LocalSearch,322.09,0.0,0.0
+Savvis,19,3,Betweenness,7076.86,2097.2,0.0
+Savvis,19,3,HighDegree,1224.4,280.15,0.0
+Savvis,19,3,Random,322.09,0.0,0.0
+Savvis,19,5,Greedy,65.77,0.0,0.0
+Savvis,19,5,LocalSearch,65.77,0.0,0.0
+Savvis,19,5,Betweenness,388.73,491.05,0.0
+Savvis,19,5,HighDegree,191.42,191.05,0.0
+Savvis,19,5,Random,65.77,0.0,0.0
+BT Asia-Pacific,20,1,Greedy,13316.13,0.0,0.0
+BT Asia-Pacific,20,1,LocalSearch,13316.13,0.0,0.0
+BT Asia-Pacific,20,1,Betweenness,15128.62,13.61,0.0
+BT Asia-Pacific,20,1,HighDegree,15128.62,13.61,0.0
+BT Asia-Pacific,20,1,Random,15128.62,13.61,0.0
+BT Asia-Pacific,20,3,Greedy,4403.53,99.7,0.0
+BT Asia-Pacific,20,3,LocalSearch,2205.05,0.0,0.0
+BT Asia-Pacific,20,3,Betweenness,2205.05,0.0,0.0
+BT Asia-Pacific,20,3,HighDegree,4796.33,117.52,0.0
+BT Asia-Pacific,20,3,Random,2205.05,0.0,0.0
+BT Asia-Pacific,20,5,Greedy,1063.7,134.84,0.0
+BT Asia-Pacific,20,5,LocalSearch,452.95,0.0,0.0
+BT Asia-Pacific,20,5,Betweenness,1699.83,275.28,0.0
+BT Asia-Pacific,20,5,HighDegree,4435.77,879.31,0.0
+BT Asia-Pacific,20,5,Random,1468.74,224.26,0.0
+Electric Lightwave,20,1,Greedy,12852.19,0.0,0.0
+Electric Lightwave,20,1,LocalSearch,12852.19,0.0,0.0
+Electric Lightwave,20,1,Betweenness,12852.19,0.0,0.0
+Electric Lightwave,20,1,HighDegree,13629.67,6.05,0.0
+Electric Lightwave,20,1,Random,12852.19,0.0,0.0
+Electric Lightwave,20,3,Greedy,1447.37,0.0,0.0
+Electric Lightwave,20,3,LocalSearch,1447.37,0.0,0.0
+Electric Lightwave,20,3,Betweenness,1958.19,35.29,0.0
+Electric Lightwave,20,3,HighDegree,2768.68,91.29,0.0
+Electric Lightwave,20,3,Random,1886.08,30.31,0.0
+Electric Lightwave,20,5,Greedy,275.38,0.0,0.0
+Electric Lightwave,20,5,LocalSearch,275.38,0.0,0.0
+Electric Lightwave,20,5,Betweenness,1238.38,349.69,0.0
+Electric Lightwave,20,5,HighDegree,1238.38,349.69,0.0
+Electric Lightwave,20,5,Random,727.55,164.2,0.0
+Janet Lense,20,1,Greedy,270.5,0.0,0.0
+Janet Lense,20,1,LocalSearch,270.5,0.0,0.0
+Janet Lense,20,1,Betweenness,270.5,0.0,0.0
+Janet Lense,20,1,HighDegree,270.5,0.0,0.0
+Janet Lense,20,1,Random,270.5,0.0,0.0
+Janet Lense,20,3,Greedy,18.0,0.0,0.0
+Janet Lense,20,3,LocalSearch,18.0,0.0,0.0
+Janet Lense,20,3,Betweenness,93.2,417.73,0.0
+Janet Lense,20,3,HighDegree,93.2,417.73,0.0
+Janet Lense,20,3,Random,59.35,229.7,0.0
+Janet Lense,20,5,Greedy,0.0,0.0,0.0
+Janet Lense,20,5,LocalSearch,0.0,0.0,0.0
+Janet Lense,20,5,Betweenness,0.0,0.0,0.0
+Janet Lense,20,5,HighDegree,0.0,0.0,0.0
+Janet Lense,20,5,Random,0.0,0.0,0.0
+MARNET,20,1,Greedy,41.94,0.0,0.0
+MARNET,20,1,LocalSearch,41.94,0.0,0.0
+MARNET,20,1,Betweenness,42.0,0.16,0.0
+MARNET,20,1,HighDegree,42.0,0.16,0.0
+MARNET,20,1,Random,41.94,0.0,0.0
+MARNET,20,3,Greedy,5.07,0.0,0.0
+MARNET,20,3,LocalSearch,5.07,0.0,0.0
+MARNET,20,3,Betweenness,41.28,714.05,0.0
+MARNET,20,3,HighDegree,41.28,714.05,0.0
+MARNET,20,3,Random,5.15,1.64,0.0
+MARNET,20,5,Greedy,1.57,0.0,0.0
+MARNET,20,5,LocalSearch,1.57,0.0,0.0
+MARNET,20,5,Betweenness,27.38,1646.01,0.0
+MARNET,20,5,HighDegree,41.2,2526.94,0.0
+MARNET,20,5,Random,4.43,182.55,0.0
+Oxford,20,1,Greedy,345.64,0.0,0.0
+Oxford,20,1,LocalSearch,345.64,0.0,0.0
+Oxford,20,1,Betweenness,345.64,0.0,0.0
+Oxford,20,1,HighDegree,345.64,0.0,0.0
+Oxford,20,1,Random,345.64,0.0,0.0
+Oxford,20,3,Greedy,30.34,0.0,0.0
+Oxford,20,3,LocalSearch,30.34,0.0,0.0
+Oxford,20,3,Betweenness,229.68,657.12,0.001
+Oxford,20,3,HighDegree,35.98,18.62,0.0
+Oxford,20,3,Random,30.34,0.0,0.0
+Oxford,20,5,Greedy,6.41,0.0,0.0
+Oxford,20,5,LocalSearch,6.41,0.0,0.0
+Oxford,20,5,Betweenness,196.42,2965.02,0.0
+Oxford,20,5,HighDegree,19.5,204.33,0.0
+Oxford,20,5,Random,24.27,278.71,0.0
+Quest ,20,1,Greedy,31610.08,0.0,0.0
+Quest ,20,1,LocalSearch,31610.08,0.0,0.0
+Quest ,20,1,Betweenness,34144.17,8.02,0.0
+Quest ,20,1,HighDegree,34144.17,8.02,0.0
+Quest ,20,1,Random,31610.08,0.0,0.0
+Quest ,20,3,Greedy,3245.24,12.01,0.0
+Quest ,20,3,LocalSearch,2897.34,0.0,0.0
+Quest ,20,3,Betweenness,9687.91,234.37,0.0
+Quest ,20,3,HighDegree,22243.02,667.7,0.0
+Quest ,20,3,Random,2897.34,0.0,0.0
+Quest ,20,5,Greedy,720.09,90.6,0.0
+Quest ,20,5,LocalSearch,377.8,0.0,0.0
+Quest ,20,5,Betweenness,1325.46,250.83,0.0
+Quest ,20,5,HighDegree,2519.54,566.89,0.0
+Quest ,20,5,Random,2177.26,476.29,0.0
+TWAREN,20,1,Greedy,190.41,0.0,0.0
+TWAREN,20,1,LocalSearch,190.41,0.0,0.0
+TWAREN,20,1,Betweenness,361.26,89.73,0.0
+TWAREN,20,1,HighDegree,361.26,89.73,0.0
+TWAREN,20,1,Random,190.41,0.0,0.0
+TWAREN,20,3,Greedy,36.85,23.66,0.0
+TWAREN,20,3,LocalSearch,29.8,0.0,0.0
+TWAREN,20,3,Betweenness,30.09,0.99,0.0
+TWAREN,20,3,HighDegree,30.09,0.99,0.0
+TWAREN,20,3,Random,29.96,0.53,0.0
+TWAREN,20,5,Greedy,14.57,0.0,0.0
+TWAREN,20,5,LocalSearch,14.57,0.0,0.0
+TWAREN,20,5,Betweenness,20.2,38.59,0.0
+TWAREN,20,5,HighDegree,20.2,38.59,0.0
+TWAREN,20,5,Random,15.26,4.73,0.0
+ATMnet,21,1,Greedy,12661.74,0.0,0.0
+ATMnet,21,1,LocalSearch,12661.74,0.0,0.0
+ATMnet,21,1,Betweenness,13527.21,6.84,0.0
+ATMnet,21,1,HighDegree,13527.21,6.84,0.0
+ATMnet,21,1,Random,12737.85,0.6,0.0
+ATMnet,21,3,Greedy,1381.36,0.0,0.0
+ATMnet,21,3,LocalSearch,1381.36,0.0,0.0
+ATMnet,21,3,Betweenness,9747.84,605.67,0.0
+ATMnet,21,3,HighDegree,10925.11,690.89,0.0
+ATMnet,21,3,Random,1664.68,20.51,0.0
+ATMnet,21,5,Greedy,265.92,0.0,0.0
+ATMnet,21,5,LocalSearch,265.92,0.0,0.001
+ATMnet,21,5,Betweenness,5306.01,1895.33,0.0
+ATMnet,21,5,HighDegree,764.31,187.42,0.0
+ATMnet,21,5,Random,512.65,92.78,0.0
+BELNET,21,1,Greedy,457.02,0.0,0.0
+BELNET,21,1,LocalSearch,457.02,0.0,0.0
+BELNET,21,1,Betweenness,464.36,1.61,0.0
+BELNET,21,1,HighDegree,464.36,1.61,0.0
+BELNET,21,1,Random,464.36,1.61,0.0
+BELNET,21,3,Greedy,90.36,0.0,0.0
+BELNET,21,3,LocalSearch,90.36,0.0,0.0
+BELNET,21,3,Betweenness,333.43,269.02,0.0
+BELNET,21,3,HighDegree,333.43,269.02,0.0
+BELNET,21,3,Random,110.78,22.6,0.0
+BELNET,21,5,Greedy,33.39,0.67,0.0
+BELNET,21,5,LocalSearch,33.17,0.0,0.001
+BELNET,21,5,Betweenness,197.72,496.06,0.0
+BELNET,21,5,HighDegree,133.94,303.78,0.0
+BELNET,21,5,Random,60.46,82.26,0.0
+BELNET,21,1,Greedy,457.02,0.0,0.001
+BELNET,21,1,LocalSearch,457.02,0.0,0.0
+BELNET,21,1,Betweenness,464.36,1.61,0.0
+BELNET,21,1,HighDegree,464.36,1.61,0.0
+BELNET,21,1,Random,464.36,1.61,0.0
+BELNET,21,3,Greedy,90.36,0.0,0.0
+BELNET,21,3,LocalSearch,90.36,0.0,0.0
+BELNET,21,3,Betweenness,333.43,269.02,0.0
+BELNET,21,3,HighDegree,333.43,269.02,0.0
+BELNET,21,3,Random,110.78,22.6,0.0
+BELNET,21,5,Greedy,33.39,0.67,0.0
+BELNET,21,5,LocalSearch,33.17,0.0,0.001
+BELNET,21,5,Betweenness,197.72,496.06,0.0
+BELNET,21,5,HighDegree,133.94,303.78,0.0
+BELNET,21,5,Random,60.46,82.26,0.0
+BELNET,21,1,Greedy,374.92,0.0,0.0
+BELNET,21,1,LocalSearch,374.92,0.0,0.0
+BELNET,21,1,Betweenness,374.92,0.0,0.0
+BELNET,21,1,HighDegree,374.92,0.0,0.0
+BELNET,21,1,Random,374.92,0.0,0.0
+BELNET,21,3,Greedy,81.23,0.0,0.0
+BELNET,21,3,LocalSearch,81.23,0.0,0.0
+BELNET,21,3,Betweenness,374.92,361.53,0.0
+BELNET,21,3,HighDegree,248.28,205.64,0.0
+BELNET,21,3,Random,81.23,0.0,0.0
+BELNET,21,5,Greedy,24.33,0.0,0.0
+BELNET,21,5,LocalSearch,24.33,0.0,0.0
+BELNET,21,5,Betweenness,187.34,669.95,0.0
+BELNET,21,5,HighDegree,181.62,646.43,0.0
+BELNET,21,5,Random,25.32,4.04,0.0
+GTS Romania,21,1,Greedy,1980.71,0.0,0.0
+GTS Romania,21,1,LocalSearch,1980.71,0.0,0.0
+GTS Romania,21,1,Betweenness,1980.71,0.0,0.0
+GTS Romania,21,1,HighDegree,1980.71,0.0,0.0
+GTS Romania,21,1,Random,1980.71,0.0,0.0
+GTS Romania,21,3,Greedy,181.85,0.0,0.001
+GTS Romania,21,3,LocalSearch,181.85,0.0,0.0
+GTS Romania,21,3,Betweenness,181.85,0.0,0.0
+GTS Romania,21,3,HighDegree,181.85,0.0,0.0
+GTS Romania,21,3,Random,181.85,0.0,0.0
+GTS Romania,21,5,Greedy,74.89,0.0,0.0
+GTS Romania,21,5,LocalSearch,74.89,0.0,0.0
+GTS Romania,21,5,Betweenness,174.64,133.19,0.0
+GTS Romania,21,5,HighDegree,174.64,133.19,0.0
+GTS Romania,21,5,Random,102.88,37.37,0.0
+HARNET,21,1,Greedy,146.64,0.0,0.0
+HARNET,21,1,LocalSearch,146.64,0.0,0.0
+HARNET,21,1,Betweenness,146.64,0.0,0.0
+HARNET,21,1,HighDegree,154.9,5.63,0.0
+HARNET,21,1,Random,152.96,4.31,0.0
+HARNET,21,3,Greedy,33.69,80.74,0.0
+HARNET,21,3,LocalSearch,18.64,0.0,0.0
+HARNET,21,3,Betweenness,38.22,105.01,0.0
+HARNET,21,3,HighDegree,38.22,105.01,0.0
+HARNET,21,3,Random,25.95,39.21,0.0
+HARNET,21,5,Greedy,8.5,7.18,0.0
+HARNET,21,5,LocalSearch,7.93,0.0,0.0
+HARNET,21,5,Betweenness,28.01,253.4,0.0
+HARNET,21,5,HighDegree,8.5,7.18,0.0
+HARNET,21,5,Random,12.6,59.01,0.0
+Packet Exchange,21,1,Greedy,27496.98,0.0,0.0
+Packet Exchange,21,1,LocalSearch,27496.98,0.0,0.0
+Packet Exchange,21,1,Betweenness,27496.98,0.0,0.0
+Packet Exchange,21,1,HighDegree,51413.87,86.98,0.0
+Packet Exchange,21,1,Random,27496.98,0.0,0.0
+Packet Exchange,21,3,Greedy,3622.03,0.0,0.0
+Packet Exchange,21,3,LocalSearch,3622.03,0.0,0.0
+Packet Exchange,21,3,Betweenness,6069.89,67.58,0.0
+Packet Exchange,21,3,HighDegree,3622.03,0.0,0.0
+Packet Exchange,21,3,Random,3636.13,0.39,0.0
+Packet Exchange,21,5,Greedy,638.41,69.55,0.0
+Packet Exchange,21,5,LocalSearch,376.53,0.0,0.0
+Packet Exchange,21,5,Betweenness,6069.89,1512.07,0.0
+Packet Exchange,21,5,HighDegree,931.67,147.44,0.0
+Packet Exchange,21,5,Random,376.53,0.0,0.0
+Azrena,22,1,Greedy,119.88,0.0,0.0
+Azrena,22,1,LocalSearch,119.88,0.0,0.0
+Azrena,22,1,Betweenness,119.88,0.0,0.0
+Azrena,22,1,HighDegree,119.88,0.0,0.0
+Azrena,22,1,Random,124.04,3.48,0.0
+Azrena,22,3,Greedy,38.52,0.0,0.0
+Azrena,22,3,LocalSearch,38.52,0.0,0.0
+Azrena,22,3,Betweenness,94.46,145.23,0.0
+Azrena,22,3,HighDegree,95.6,148.21,0.0
+Azrena,22,3,Random,47.13,22.35,0.0
+Azrena,22,5,Greedy,21.24,1.29,0.0
+Azrena,22,5,LocalSearch,20.97,0.0,0.0
+Azrena,22,5,Betweenness,31.01,47.92,0.0
+Azrena,22,5,HighDegree,31.01,47.92,0.0
+Azrena,22,5,Random,21.59,2.98,0.0
+Bandcon ,22,1,Greedy,0.0,0.0,0.0
+Bandcon ,22,1,LocalSearch,0.0,0.0,0.0
+Bandcon ,22,1,Betweenness,27941.6,0.0,0.0
+Bandcon ,22,1,HighDegree,29307.26,0.0,0.0
+Bandcon ,22,1,Random,0.0,0.0,0.0
+Bandcon ,22,3,Greedy,0.0,0.0,0.0
+Bandcon ,22,3,LocalSearch,0.0,0.0,0.0
+Bandcon ,22,3,Betweenness,3482.6,0.0,0.0
+Bandcon ,22,3,HighDegree,26911.99,0.0,0.0
+Bandcon ,22,3,Random,0.0,0.0,0.0
+Bandcon ,22,5,Greedy,0.0,0.0,0.0
+Bandcon ,22,5,LocalSearch,0.0,0.0,0.0
+Bandcon ,22,5,Betweenness,109.74,0.0,0.0
+Bandcon ,22,5,HighDegree,24568.74,0.0,0.0
+Bandcon ,22,5,Random,0.0,0.0,0.0
+BELNET,22,1,Greedy,209.88,0.0,0.0
+BELNET,22,1,LocalSearch,209.88,0.0,0.0
+BELNET,22,1,Betweenness,209.88,0.0,0.0
+BELNET,22,1,HighDegree,209.88,0.0,0.0
+BELNET,22,1,Random,209.88,0.0,0.0
+BELNET,22,3,Greedy,24.53,0.0,0.0
+BELNET,22,3,LocalSearch,24.53,0.0,0.0
+BELNET,22,3,Betweenness,209.88,755.64,0.0
+BELNET,22,3,HighDegree,209.88,755.64,0.0
+BELNET,22,3,Random,29.19,19.0,0.0
+BELNET,22,5,Greedy,2.96,0.0,0.0
+BELNET,22,5,LocalSearch,2.96,0.0,0.0
+BELNET,22,5,Betweenness,70.79,2287.81,0.0
+BELNET,22,5,HighDegree,209.88,6979.22,0.0
+BELNET,22,5,Random,10.27,246.45,0.0
+GARR,22,1,Greedy,2146.84,0.0,0.0
+GARR,22,1,LocalSearch,2146.84,0.0,0.0
+GARR,22,1,Betweenness,2933.31,36.63,0.0
+GARR,22,1,HighDegree,2933.31,36.63,0.0
+GARR,22,1,Random,2146.84,0.0,0.0
+GARR,22,3,Greedy,271.29,0.0,0.0
+GARR,22,3,LocalSearch,271.29,0.0,0.0
+GARR,22,3,Betweenness,324.57,19.64,0.0
+GARR,22,3,HighDegree,324.57,19.64,0.0
+GARR,22,3,Random,273.22,0.71,0.0
+GARR,22,5,Greedy,143.69,0.0,0.0
+GARR,22,5,LocalSearch,143.69,0.0,0.0
+GARR,22,5,Betweenness,176.45,22.8,0.0
+GARR,22,5,HighDegree,176.45,22.8,0.0
+GARR,22,5,Random,177.16,23.3,0.0
+GARR,22,1,Greedy,2066.45,0.0,0.0
+GARR,22,1,LocalSearch,2066.45,0.0,0.0
+GARR,22,1,Betweenness,2809.16,35.94,0.0
+GARR,22,1,HighDegree,2809.16,35.94,0.0
+GARR,22,1,Random,2066.45,0.0,0.0
+GARR,22,3,Greedy,281.57,0.0,0.0
+GARR,22,3,LocalSearch,281.57,0.0,0.0
+GARR,22,3,Betweenness,281.57,0.0,0.0
+GARR,22,3,HighDegree,281.57,0.0,0.0
+GARR,22,3,Random,281.57,0.0,0.0
+GARR,22,5,Greedy,140.06,0.0,0.0
+GARR,22,5,LocalSearch,140.06,0.0,0.0
+GARR,22,5,Betweenness,173.92,24.18,0.0
+GARR,22,5,HighDegree,173.92,24.18,0.0
+GARR,22,5,Random,201.34,43.76,0.0
+Hibernia Atlantic (US),22,1,Greedy,4589.7,0.0,0.0
+Hibernia Atlantic (US),22,1,LocalSearch,4589.7,0.0,0.0
+Hibernia Atlantic (US),22,1,Betweenness,4589.7,0.0,0.0
+Hibernia Atlantic (US),22,1,HighDegree,4589.7,0.0,0.0
+Hibernia Atlantic (US),22,1,Random,4589.7,0.0,0.0
+Hibernia Atlantic (US),22,3,Greedy,0.0,0.0,0.0
+Hibernia Atlantic (US),22,3,LocalSearch,0.0,0.0,0.0
+Hibernia Atlantic (US),22,3,Betweenness,4589.7,0.0,0.0
+Hibernia Atlantic (US),22,3,HighDegree,4589.7,0.0,0.0
+Hibernia Atlantic (US),22,3,Random,782.08,0.0,0.0
+Hibernia Atlantic (US),22,5,Greedy,0.0,0.0,0.0
+Hibernia Atlantic (US),22,5,LocalSearch,0.0,0.0,0.0
+Hibernia Atlantic (US),22,5,Betweenness,4589.7,0.0,0.0
+Hibernia Atlantic (US),22,5,HighDegree,782.08,0.0,0.0
+Hibernia Atlantic (US),22,5,Random,0.0,0.0,0.0
+AboveNet,23,1,Greedy,12026.5,0.0,0.0
+AboveNet,23,1,LocalSearch,12026.5,0.0,0.0
+AboveNet,23,1,Betweenness,12026.5,0.0,0.0
+AboveNet,23,1,HighDegree,12026.5,0.0,0.0
+AboveNet,23,1,Random,12026.5,0.0,0.0
+AboveNet,23,3,Greedy,1549.74,0.0,0.0
+AboveNet,23,3,LocalSearch,1549.74,0.0,0.001
+AboveNet,23,3,Betweenness,8686.18,460.49,0.0
+AboveNet,23,3,HighDegree,8686.18,460.49,0.0
+AboveNet,23,3,Random,4716.35,204.33,0.0
+AboveNet,23,5,Greedy,75.54,0.0,0.0
+AboveNet,23,5,LocalSearch,75.54,0.0,0.0
+AboveNet,23,5,Betweenness,8613.64,11303.01,0.0
+AboveNet,23,5,HighDegree,4716.35,6143.66,0.0
+AboveNet,23,5,Random,178.64,136.48,0.0
+ACOnet,23,1,Greedy,22.42,0.0,0.0
+ACOnet,23,1,LocalSearch,22.42,0.0,0.0
+ACOnet,23,1,Betweenness,22.42,0.0,0.0
+ACOnet,23,1,HighDegree,22.42,0.0,0.0
+ACOnet,23,1,Random,22.42,0.0,0.0
+ACOnet,23,3,Greedy,4.5,0.0,0.0
+ACOnet,23,3,LocalSearch,4.5,0.0,0.0
+ACOnet,23,3,Betweenness,22.42,398.38,0.0
+ACOnet,23,3,HighDegree,22.42,398.38,0.0
+ACOnet,23,3,Random,4.5,0.0,0.0
+ACOnet,23,5,Greedy,0.0,0.0,0.0
+ACOnet,23,5,LocalSearch,0.0,0.0,0.0
+ACOnet,23,5,Betweenness,22.42,0.0,0.0
+ACOnet,23,5,HighDegree,22.42,0.0,0.0
+ACOnet,23,5,Random,0.94,0.0,0.0
+BELNET,23,1,Greedy,27.76,0.0,0.0
+BELNET,23,1,LocalSearch,27.76,0.0,0.0
+BELNET,23,1,Betweenness,27.76,0.0,0.0
+BELNET,23,1,HighDegree,27.76,0.0,0.0
+BELNET,23,1,Random,27.76,0.0,0.0
+BELNET,23,3,Greedy,6.99,0.0,0.0
+BELNET,23,3,LocalSearch,6.99,0.0,0.0
+BELNET,23,3,Betweenness,27.76,297.06,0.0
+BELNET,23,3,HighDegree,27.76,297.06,0.0
+BELNET,23,3,Random,15.64,123.67,0.0
+BELNET,23,5,Greedy,0.0,0.0,0.0
+BELNET,23,5,LocalSearch,0.0,0.0,0.0
+BELNET,23,5,Betweenness,27.76,0.0,0.0
+BELNET,23,5,HighDegree,27.76,0.0,0.0
+BELNET,23,5,Random,4.76,0.0,0.0
+BELNET,23,1,Greedy,27.76,0.0,0.0
+BELNET,23,1,LocalSearch,27.76,0.0,0.0
+BELNET,23,1,Betweenness,27.76,0.0,0.0
+BELNET,23,1,HighDegree,27.76,0.0,0.0
+BELNET,23,1,Random,27.76,0.0,0.0
+BELNET,23,3,Greedy,6.99,0.0,0.0
+BELNET,23,3,LocalSearch,6.99,0.0,0.001
+BELNET,23,3,Betweenness,27.76,297.06,0.0
+BELNET,23,3,HighDegree,27.76,297.06,0.0
+BELNET,23,3,Random,15.64,123.67,0.0
+BELNET,23,5,Greedy,0.0,0.0,0.0
+BELNET,23,5,LocalSearch,0.0,0.0,0.0
+BELNET,23,5,Betweenness,27.76,0.0,0.0
+BELNET,23,5,HighDegree,27.76,0.0,0.0
+BELNET,23,5,Random,4.76,0.0,0.0
+BELNET,23,1,Greedy,26.61,0.0,0.0
+BELNET,23,1,LocalSearch,26.61,0.0,0.0
+BELNET,23,1,Betweenness,26.61,0.0,0.0
+BELNET,23,1,HighDegree,26.61,0.0,0.0
+BELNET,23,1,Random,26.61,0.0,0.0
+BELNET,23,3,Greedy,0.0,0.0,0.0
+BELNET,23,3,LocalSearch,0.0,0.0,0.0
+BELNET,23,3,Betweenness,26.61,0.0,0.0
+BELNET,23,3,HighDegree,26.61,0.0,0.0
+BELNET,23,3,Random,7.55,0.0,0.0
+BELNET,23,5,Greedy,0.0,0.0,0.0
+BELNET,23,5,LocalSearch,0.0,0.0,0.0
+BELNET,23,5,Betweenness,26.61,0.0,0.0
+BELNET,23,5,HighDegree,26.61,0.0,0.0
+BELNET,23,5,Random,7.55,0.0,0.0
+BELNET,23,1,Greedy,26.61,0.0,0.0
+BELNET,23,1,LocalSearch,26.61,0.0,0.0
+BELNET,23,1,Betweenness,26.61,0.0,0.0
+BELNET,23,1,HighDegree,26.61,0.0,0.0
+BELNET,23,1,Random,26.61,0.0,0.0
+BELNET,23,3,Greedy,0.0,0.0,0.0
+BELNET,23,3,LocalSearch,0.0,0.0,0.0
+BELNET,23,3,Betweenness,26.61,0.0,0.001
+BELNET,23,3,HighDegree,26.61,0.0,0.0
+BELNET,23,3,Random,7.55,0.0,0.0
+BELNET,23,5,Greedy,0.0,0.0,0.0
+BELNET,23,5,LocalSearch,0.0,0.0,0.0
+BELNET,23,5,Betweenness,26.61,0.0,0.0
+BELNET,23,5,HighDegree,26.61,0.0,0.0
+BELNET,23,5,Random,7.55,0.0,0.0
+CESNET,23,1,Greedy,1064.32,0.0,0.0
+CESNET,23,1,LocalSearch,1064.32,0.0,0.0
+CESNET,23,1,Betweenness,1064.32,0.0,0.0
+CESNET,23,1,HighDegree,1064.32,0.0,0.0
+CESNET,23,1,Random,1064.32,0.0,0.0
+CESNET,23,3,Greedy,96.13,0.0,0.0
+CESNET,23,3,LocalSearch,96.13,0.0,0.0
+CESNET,23,3,Betweenness,161.75,68.25,0.001
+CESNET,23,3,HighDegree,161.75,68.25,0.0
+CESNET,23,3,Random,97.43,1.35,0.0
+CESNET,23,5,Greedy,50.73,8.47,0.0
+CESNET,23,5,LocalSearch,46.77,0.0,0.0
+CESNET,23,5,Betweenness,46.77,0.0,0.0
+CESNET,23,5,HighDegree,69.53,48.67,0.0
+CESNET,23,5,Random,56.73,21.29,0.0
+FCCN,23,1,Greedy,1489.35,0.0,0.0
+FCCN,23,1,LocalSearch,1489.35,0.0,0.0
+FCCN,23,1,Betweenness,1858.82,24.81,0.0
+FCCN,23,1,HighDegree,1858.82,24.81,0.0
+FCCN,23,1,Random,1489.35,0.0,0.0
+FCCN,23,3,Greedy,461.34,86.03,0.0
+FCCN,23,3,LocalSearch,248.0,0.0,0.001
+FCCN,23,3,Betweenness,468.81,89.04,0.0
+FCCN,23,3,HighDegree,468.81,89.04,0.0
+FCCN,23,3,Random,263.61,6.3,0.0
+FCCN,23,5,Greedy,95.02,14.7,0.0
+FCCN,23,5,LocalSearch,82.84,0.0,0.0
+FCCN,23,5,Betweenness,449.38,442.45,0.0
+FCCN,23,5,HighDegree,448.92,441.9,0.0
+FCCN,23,5,Random,118.56,43.12,0.0
+GARR,23,1,Greedy,2079.12,0.0,0.0
+GARR,23,1,LocalSearch,2079.12,0.0,0.0
+GARR,23,1,Betweenness,2859.69,37.54,0.0
+GARR,23,1,HighDegree,2859.69,37.54,0.0
+GARR,23,1,Random,2079.12,0.0,0.0
+GARR,23,3,Greedy,261.12,0.0,0.0
+GARR,23,3,LocalSearch,261.12,0.0,0.001
+GARR,23,3,Betweenness,261.12,0.0,0.0
+GARR,23,3,HighDegree,261.12,0.0,0.0
+GARR,23,3,Random,369.88,41.65,0.0
+GARR,23,5,Greedy,132.1,0.0,0.0
+GARR,23,5,LocalSearch,132.1,0.0,0.0
+GARR,23,5,Betweenness,162.75,23.21,0.0
+GARR,23,5,HighDegree,162.75,23.21,0.0
+GARR,23,5,Random,152.35,15.34,0.0
+GARR,23,1,Greedy,2283.14,0.0,0.0
+GARR,23,1,LocalSearch,2283.14,0.0,0.0
+GARR,23,1,Betweenness,3038.89,33.1,0.0
+GARR,23,1,HighDegree,3038.89,33.1,0.0
+GARR,23,1,Random,2283.14,0.0,0.0
+GARR,23,3,Greedy,292.24,0.0,0.0
+GARR,23,3,LocalSearch,292.24,0.0,0.0
+GARR,23,3,Betweenness,292.24,0.0,0.0
+GARR,23,3,HighDegree,292.24,0.0,0.0
+GARR,23,3,Random,446.71,52.86,0.0
+GARR,23,5,Greedy,146.9,0.0,0.0
+GARR,23,5,LocalSearch,146.9,0.0,0.0
+GARR,23,5,Betweenness,177.56,20.87,0.0
+GARR,23,5,HighDegree,177.56,20.87,0.0
+GARR,23,5,Random,166.06,13.04,0.0
+iSTAR,23,1,Greedy,12857.67,0.0,0.0
+iSTAR,23,1,LocalSearch,12857.67,0.0,0.0
+iSTAR,23,1,Betweenness,12900.93,0.34,0.0
+iSTAR,23,1,HighDegree,13306.66,3.49,0.0
+iSTAR,23,1,Random,12857.67,0.0,0.0
+iSTAR,23,3,Greedy,871.88,13.33,0.0
+iSTAR,23,3,LocalSearch,769.32,0.0,0.0
+iSTAR,23,3,Betweenness,1678.52,118.18,0.0
+iSTAR,23,3,HighDegree,1433.87,86.38,0.0
+iSTAR,23,3,Random,795.23,3.37,0.0
+iSTAR,23,5,Greedy,326.07,0.0,0.0
+iSTAR,23,5,LocalSearch,326.07,0.0,0.0
+iSTAR,23,5,Betweenness,526.7,61.53,0.001
+iSTAR,23,5,HighDegree,526.7,61.53,0.0
+iSTAR,23,5,Random,329.47,1.04,0.0
+KentMan,23,1,Greedy,0.0,0.0,0.0
+KentMan,23,1,LocalSearch,0.0,0.0,0.0
+KentMan,23,1,Betweenness,484.02,0.0,0.0
+KentMan,23,1,HighDegree,484.02,0.0,0.0
+KentMan,23,1,Random,306.61,0.0,0.0
+KentMan,23,3,Greedy,0.0,0.0,0.0
+KentMan,23,3,LocalSearch,0.0,0.0,0.0
+KentMan,23,3,Betweenness,20.52,0.0,0.0
+KentMan,23,3,HighDegree,20.52,0.0,0.0
+KentMan,23,3,Random,20.18,0.0,0.0
+KentMan,23,5,Greedy,0.0,0.0,0.0
+KentMan,23,5,LocalSearch,0.0,0.0,0.0
+KentMan,23,5,Betweenness,12.09,0.0,0.0
+KentMan,23,5,HighDegree,17.25,0.0,0.0
+KentMan,23,5,Random,0.0,0.0,0.0
+YorkDataServices,23,1,Greedy,183.67,0.0,0.0
+YorkDataServices,23,1,LocalSearch,183.67,0.0,0.0
+YorkDataServices,23,1,Betweenness,183.67,0.0,0.0
+YorkDataServices,23,1,HighDegree,183.67,0.0,0.0
+YorkDataServices,23,1,Random,183.67,0.0,0.0
+YorkDataServices,23,3,Greedy,0.0,0.0,0.0
+YorkDataServices,23,3,LocalSearch,0.0,0.0,0.0
+YorkDataServices,23,3,Betweenness,183.67,0.0,0.0
+YorkDataServices,23,3,HighDegree,183.67,0.0,0.0
+YorkDataServices,23,3,Random,54.6,0.0,0.0
+YorkDataServices,23,5,Greedy,0.0,0.0,0.0
+YorkDataServices,23,5,LocalSearch,0.0,0.0,0.0
+YorkDataServices,23,5,Betweenness,183.67,0.0,0.0
+YorkDataServices,23,5,HighDegree,183.67,0.0,0.0
+YorkDataServices,23,5,Random,54.6,0.0,0.0
+BT Europe,24,1,Greedy,3100.3,0.0,0.0
+BT Europe,24,1,LocalSearch,3100.3,0.0,0.0
+BT Europe,24,1,Betweenness,3100.3,0.0,0.0
+BT Europe,24,1,HighDegree,3100.3,0.0,0.0
+BT Europe,24,1,Random,3100.3,0.0,0.0
+BT Europe,24,3,Greedy,247.13,0.0,0.0
+BT Europe,24,3,LocalSearch,247.13,0.0,0.0
+BT Europe,24,3,Betweenness,3100.3,1154.52,0.0
+BT Europe,24,3,HighDegree,3100.3,1154.52,0.0
+BT Europe,24,3,Random,247.13,0.0,0.0
+BT Europe,24,5,Greedy,68.32,0.0,0.0
+BT Europe,24,5,LocalSearch,68.32,0.0,0.0
+BT Europe,24,5,Betweenness,414.17,506.21,0.0
+BT Europe,24,5,HighDegree,414.17,506.21,0.0
+BT Europe,24,5,Random,141.5,107.1,0.0
+GARR,24,1,Greedy,2482.72,0.0,0.0
+GARR,24,1,LocalSearch,2482.72,0.0,0.0
+GARR,24,1,Betweenness,3421.59,37.82,0.0
+GARR,24,1,HighDegree,3421.59,37.82,0.0
+GARR,24,1,Random,2482.72,0.0,0.0
+GARR,24,3,Greedy,315.32,5.02,0.0
+GARR,24,3,LocalSearch,300.26,0.0,0.0
+GARR,24,3,Betweenness,300.26,0.0,0.0
+GARR,24,3,HighDegree,300.26,0.0,0.0
+GARR,24,3,Random,301.67,0.47,0.0
+GARR,24,5,Greedy,140.35,0.0,0.0
+GARR,24,5,LocalSearch,140.35,0.0,0.0
+GARR,24,5,Betweenness,154.03,9.75,0.0
+GARR,24,5,HighDegree,154.03,9.75,0.0
+GARR,24,5,Random,168.31,19.92,0.0
+Hurricane Electric ,24,1,Greedy,24014.0,0.0,0.0
+Hurricane Electric ,24,1,LocalSearch,24014.0,0.0,0.0
+Hurricane Electric ,24,1,Betweenness,24014.0,0.0,0.0
+Hurricane Electric ,24,1,HighDegree,24014.0,0.0,0.0
+Hurricane Electric ,24,1,Random,24014.0,0.0,0.0
+Hurricane Electric ,24,3,Greedy,9242.08,20.85,0.0
+Hurricane Electric ,24,3,LocalSearch,7647.31,0.0,0.0
+Hurricane Electric ,24,3,Betweenness,20337.82,165.95,0.0
+Hurricane Electric ,24,3,HighDegree,20337.82,165.95,0.0
+Hurricane Electric ,24,3,Random,9242.08,20.85,0.0
+Hurricane Electric ,24,5,Greedy,580.81,0.0,0.0
+Hurricane Electric ,24,5,LocalSearch,580.81,0.0,0.0
+Hurricane Electric ,24,5,Betweenness,12940.41,2127.99,0.001
+Hurricane Electric ,24,5,HighDegree,12940.41,2127.99,0.0
+Hurricane Electric ,24,5,Random,6044.69,940.73,0.0
+PsiNet,24,1,Greedy,15810.62,0.0,0.0
+PsiNet,24,1,LocalSearch,15810.62,0.0,0.0
+PsiNet,24,1,Betweenness,19781.78,25.12,0.0
+PsiNet,24,1,HighDegree,22040.11,39.4,0.0
+PsiNet,24,1,Random,15810.62,0.0,0.0
+PsiNet,24,3,Greedy,2391.68,2.67,0.0
+PsiNet,24,3,LocalSearch,2329.51,0.0,0.0
+PsiNet,24,3,Betweenness,11677.77,401.3,0.0
+PsiNet,24,3,HighDegree,4588.64,96.98,0.0
+PsiNet,24,3,Random,2586.52,11.03,0.0
+PsiNet,24,5,Greedy,567.03,13.87,0.0
+PsiNet,24,5,LocalSearch,497.97,0.0,0.001
+PsiNet,24,5,Betweenness,3615.35,626.02,0.0
+PsiNet,24,5,HighDegree,3872.04,677.57,0.0
+PsiNet,24,5,Random,592.01,18.89,0.0
+Renater,24,1,Greedy,2041.91,0.0,0.0
+Renater,24,1,LocalSearch,2041.91,0.0,0.0
+Renater,24,1,Betweenness,2041.91,0.0,0.001
+Renater,24,1,HighDegree,2041.91,0.0,0.0
+Renater,24,1,Random,2041.91,0.0,0.0
+Renater,24,3,Greedy,545.12,0.0,0.0
+Renater,24,3,LocalSearch,545.12,0.0,0.0
+Renater,24,3,Betweenness,723.83,32.78,0.0
+Renater,24,3,HighDegree,645.27,18.37,0.0
+Renater,24,3,Random,596.39,9.41,0.0
+Renater,24,5,Greedy,201.84,0.0,0.0
+Renater,24,5,LocalSearch,201.84,0.0,0.0
+Renater,24,5,Betweenness,497.28,146.38,0.0
+Renater,24,5,HighDegree,375.6,86.09,0.0
+Renater,24,5,Random,271.38,34.45,0.0
+Renater,24,1,Greedy,2677.42,0.0,0.0
+Renater,24,1,LocalSearch,2677.42,0.0,0.0
+Renater,24,1,Betweenness,2677.42,0.0,0.0
+Renater,24,1,HighDegree,2677.42,0.0,0.0
+Renater,24,1,Random,2677.42,0.0,0.0
+Renater,24,3,Greedy,371.65,4.34,0.0
+Renater,24,3,LocalSearch,356.19,0.0,0.0
+Renater,24,3,Betweenness,378.46,6.25,0.001
+Renater,24,3,HighDegree,645.37,81.19,0.0
+Renater,24,3,Random,449.07,26.07,0.0
+Renater,24,5,Greedy,152.19,11.3,0.0
+Renater,24,5,LocalSearch,136.73,0.0,0.0
+Renater,24,5,Betweenness,164.59,20.38,0.0
+Renater,24,5,HighDegree,302.01,120.88,0.0
+Renater,24,5,Random,187.21,36.92,0.0
+URAN,24,1,Greedy,2298.5,0.0,0.0
+URAN,24,1,LocalSearch,2298.5,0.0,0.0
+URAN,24,1,Betweenness,2298.5,0.0,0.0
+URAN,24,1,HighDegree,2298.5,0.0,0.0
+URAN,24,1,Random,2298.5,0.0,0.0
+URAN,24,3,Greedy,549.54,9.49,0.0
+URAN,24,3,LocalSearch,501.92,0.0,0.0
+URAN,24,3,Betweenness,1338.45,166.66,0.0
+URAN,24,3,HighDegree,549.54,9.49,0.0
+URAN,24,3,Random,705.98,40.65,0.0
+URAN,24,5,Greedy,152.73,0.0,0.0
+URAN,24,5,LocalSearch,152.73,0.0,0.0
+URAN,24,5,Betweenness,540.76,254.06,0.0
+URAN,24,5,HighDegree,216.62,41.83,0.0
+URAN,24,5,Random,214.91,40.71,0.0
+Vision Net,24,1,Greedy,2914.3,0.0,0.0
+Vision Net,24,1,LocalSearch,2914.3,0.0,0.0
+Vision Net,24,1,Betweenness,2914.3,0.0,0.001
+Vision Net,24,1,HighDegree,3281.96,12.62,0.0
+Vision Net,24,1,Random,2914.3,0.0,0.0
+Vision Net,24,3,Greedy,925.42,96.89,0.0
+Vision Net,24,3,LocalSearch,470.03,0.0,0.0
+Vision Net,24,3,Betweenness,2027.93,331.45,0.0
+Vision Net,24,3,HighDegree,2032.84,332.5,0.0
+Vision Net,24,3,Random,592.76,26.11,0.0
+Vision Net,24,5,Greedy,79.07,0.0,0.0
+Vision Net,24,5,LocalSearch,79.07,0.0,0.0
+Vision Net,24,5,Betweenness,1670.6,2012.74,0.0
+Vision Net,24,5,HighDegree,769.08,872.62,0.0
+Vision Net,24,5,Random,199.14,151.84,0.0
+Xeex,24,1,Greedy,6361.8,0.0,0.0
+Xeex,24,1,LocalSearch,6361.8,0.0,0.0
+Xeex,24,1,Betweenness,6361.8,0.0,0.0
+Xeex,24,1,HighDegree,6361.8,0.0,0.0
+Xeex,24,1,Random,6361.8,0.0,0.0
+Xeex,24,3,Greedy,1797.01,50.14,0.0
+Xeex,24,3,LocalSearch,1196.9,0.0,0.001
+Xeex,24,3,Betweenness,3789.71,216.63,0.0
+Xeex,24,3,HighDegree,3578.15,198.95,0.0
+Xeex,24,3,Random,2180.75,82.2,0.0
+Xeex,24,5,Greedy,229.04,0.0,0.0
+Xeex,24,5,LocalSearch,229.04,0.0,0.0
+Xeex,24,5,Betweenness,3515.62,1434.91,0.0
+Xeex,24,5,HighDegree,3016.57,1217.03,0.0
+Xeex,24,5,Random,341.26,48.99,0.0
+AGIS,25,1,Greedy,17454.55,0.0,0.0
+AGIS,25,1,LocalSearch,17454.55,0.0,0.0
+AGIS,25,1,Betweenness,19207.97,10.05,0.0
+AGIS,25,1,HighDegree,19207.97,10.05,0.0
+AGIS,25,1,Random,18805.45,7.74,0.0
+AGIS,25,3,Greedy,2391.93,100.51,0.0
+AGIS,25,3,LocalSearch,1192.91,0.0,0.0
+AGIS,25,3,Betweenness,5154.19,332.07,0.0
+AGIS,25,3,HighDegree,5008.45,319.85,0.0
+AGIS,25,3,Random,1446.29,21.24,0.0
+AGIS,25,5,Greedy,690.48,34.81,0.0
+AGIS,25,5,LocalSearch,512.2,0.0,0.0
+AGIS,25,5,Betweenness,784.33,53.13,0.0
+AGIS,25,5,HighDegree,904.16,76.53,0.0
+AGIS,25,5,Random,871.79,70.21,0.0
+AMRES,25,1,Greedy,1053.05,0.0,0.0
+AMRES,25,1,LocalSearch,1053.05,0.0,0.0
+AMRES,25,1,Betweenness,1107.06,5.13,0.0
+AMRES,25,1,HighDegree,1107.06,5.13,0.0
+AMRES,25,1,Random,1107.06,5.13,0.0
+AMRES,25,3,Greedy,214.23,28.98,0.0
+AMRES,25,3,LocalSearch,166.09,0.0,0.0
+AMRES,25,3,Betweenness,325.19,95.79,0.001
+AMRES,25,3,HighDegree,193.58,16.55,0.0
+AMRES,25,3,Random,199.81,20.3,0.0
+AMRES,25,5,Greedy,113.09,22.07,0.0
+AMRES,25,5,LocalSearch,92.64,0.0,0.001
+AMRES,25,5,Betweenness,254.12,174.31,0.0
+AMRES,25,5,HighDegree,153.05,65.21,0.0
+AMRES,25,5,Random,103.05,11.24,0.0
+ARPANET,25,1,Greedy,26131.29,0.0,0.0
+ARPANET,25,1,LocalSearch,26131.29,0.0,0.0
+ARPANET,25,1,Betweenness,27063.28,3.57,0.0
+ARPANET,25,1,HighDegree,37721.15,44.35,0.0
+ARPANET,25,1,Random,26180.82,0.19,0.0
+ARPANET,25,3,Greedy,821.34,50.32,0.0
+ARPANET,25,3,LocalSearch,546.41,0.0,0.0
+ARPANET,25,3,Betweenness,831.25,52.13,0.0
+ARPANET,25,3,HighDegree,546.41,0.0,0.0
+ARPANET,25,3,Random,747.96,36.89,0.0
+ARPANET,25,5,Greedy,243.47,36.38,0.0
+ARPANET,25,5,LocalSearch,178.53,0.0,0.0
+ARPANET,25,5,Betweenness,647.03,262.43,0.0
+ARPANET,25,5,HighDegree,546.41,206.07,0.0
+ARPANET,25,5,Random,330.14,84.93,0.0
+ATT North America,25,1,Greedy,9030.26,0.0,0.0
+ATT North America,25,1,LocalSearch,9030.26,0.0,0.0
+ATT North America,25,1,Betweenness,10230.85,13.3,0.0
+ATT North America,25,1,HighDegree,10230.85,13.3,0.0
+ATT North America,25,1,Random,9030.26,0.0,0.0
+ATT North America,25,3,Greedy,1117.77,2.68,0.0
+ATT North America,25,3,LocalSearch,1088.63,0.0,0.0
+ATT North America,25,3,Betweenness,1131.64,3.95,0.001
+ATT North America,25,3,HighDegree,1131.64,3.95,0.0
+ATT North America,25,3,Random,1183.42,8.71,0.0
+ATT North America,25,5,Greedy,536.78,6.79,0.0
+ATT North America,25,5,LocalSearch,502.68,0.0,0.001
+ATT North America,25,5,Betweenness,784.7,56.1,0.0
+ATT North America,25,5,HighDegree,783.77,55.92,0.0
+ATT North America,25,5,Random,708.9,41.03,0.0
+KAREN,25,1,Greedy,2785.81,0.0,0.0
+KAREN,25,1,LocalSearch,2785.81,0.0,0.0
+KAREN,25,1,Betweenness,2785.81,0.0,0.001
+KAREN,25,1,HighDegree,4346.48,56.02,0.0
+KAREN,25,1,Random,2785.81,0.0,0.0
+KAREN,25,3,Greedy,269.68,0.0,0.0
+KAREN,25,3,LocalSearch,269.68,0.0,0.001
+KAREN,25,3,Betweenness,1230.03,356.1,0.0
+KAREN,25,3,HighDegree,1230.03,356.1,0.0
+KAREN,25,3,Random,269.68,0.0,0.0
+KAREN,25,5,Greedy,156.75,0.0,0.0
+KAREN,25,5,LocalSearch,156.75,0.0,0.002
+KAREN,25,5,Betweenness,228.29,45.64,0.0
+KAREN,25,5,HighDegree,191.6,22.23,0.0
+KAREN,25,5,Random,191.6,22.23,0.0
+Uni-C,25,1,Greedy,1387.94,0.0,0.0
+Uni-C,25,1,LocalSearch,1387.94,0.0,0.0
+Uni-C,25,1,Betweenness,1579.81,13.82,0.0
+Uni-C,25,1,HighDegree,2215.12,59.6,0.0
+Uni-C,25,1,Random,1387.94,0.0,0.0
+Uni-C,25,3,Greedy,154.06,25.48,0.0
+Uni-C,25,3,LocalSearch,122.78,0.0,0.002
+Uni-C,25,3,Betweenness,779.9,535.21,0.0
+Uni-C,25,3,HighDegree,152.86,24.5,0.0
+Uni-C,25,3,Random,166.18,35.35,0.0
+Uni-C,25,5,Greedy,66.62,3.72,0.0
+Uni-C,25,5,LocalSearch,64.23,0.0,0.0
+Uni-C,25,5,Betweenness,158.59,146.91,0.001
+Uni-C,25,5,HighDegree,124.19,93.36,0.0
+Uni-C,25,5,Random,83.71,30.34,0.0
+VinaREN,25,1,Greedy,13108.33,0.0,0.0
+VinaREN,25,1,LocalSearch,13108.33,0.0,0.0
+VinaREN,25,1,Betweenness,13108.33,0.0,0.0
+VinaREN,25,1,HighDegree,29970.25,128.64,0.0
+VinaREN,25,1,Random,13108.33,0.0,0.0
+VinaREN,25,3,Greedy,2483.42,7.27,0.0
+VinaREN,25,3,LocalSearch,2315.16,0.0,0.0
+VinaREN,25,3,Betweenness,4990.22,115.55,0.0
+VinaREN,25,3,HighDegree,4342.3,87.56,0.0
+VinaREN,25,3,Random,2543.59,9.87,0.0
+VinaREN,25,5,Greedy,1198.99,5.04,0.0
+VinaREN,25,5,LocalSearch,1141.42,0.0,0.0
+VinaREN,25,5,Betweenness,4264.87,273.64,0.0
+VinaREN,25,5,HighDegree,1758.07,54.02,0.0
+VinaREN,25,5,Random,1355.71,18.77,0.0
+FUNET,26,1,Greedy,2701.38,0.0,0.0
+FUNET,26,1,LocalSearch,2701.38,0.0,0.0
+FUNET,26,1,Betweenness,3700.17,36.97,0.0
+FUNET,26,1,HighDegree,2701.38,0.0,0.0
+FUNET,26,1,Random,2701.38,0.0,0.0
+FUNET,26,3,Greedy,58.3,0.0,0.0
+FUNET,26,3,LocalSearch,58.3,0.0,0.0
+FUNET,26,3,Betweenness,158.85,172.45,0.0
+FUNET,26,3,HighDegree,2701.38,4533.28,0.0
+FUNET,26,3,Random,58.3,0.0,0.0
+FUNET,26,5,Greedy,0.0,0.0,0.0
+FUNET,26,5,LocalSearch,0.0,0.0,0.0
+FUNET,26,5,Betweenness,158.85,0.0,0.0
+FUNET,26,5,HighDegree,217.15,0.0,0.0
+FUNET,26,5,Random,0.0,0.0,0.0
+KentMan,26,1,Greedy,341.02,0.0,0.0
+KentMan,26,1,LocalSearch,341.02,0.0,0.0
+KentMan,26,1,Betweenness,566.86,66.22,0.001
+KentMan,26,1,HighDegree,352.5,3.37,0.0
+KentMan,26,1,Random,341.02,0.0,0.0
+KentMan,26,3,Greedy,39.25,98.17,0.0
+KentMan,26,3,LocalSearch,19.81,0.0,0.0
+KentMan,26,3,Betweenness,20.01,1.02,0.0
+KentMan,26,3,HighDegree,20.01,1.02,0.0
+KentMan,26,3,Random,20.02,1.05,0.0
+KentMan,26,5,Greedy,12.21,26.79,0.0
+KentMan,26,5,LocalSearch,9.63,0.0,0.0
+KentMan,26,5,Betweenness,16.78,74.18,0.0
+KentMan,26,5,HighDegree,16.78,74.18,0.0
+KentMan,26,5,Random,13.89,44.26,0.0
+OPTOSUNET,26,1,Greedy,2998.76,0.0,0.0
+OPTOSUNET,26,1,LocalSearch,2998.76,0.0,0.0
+OPTOSUNET,26,1,Betweenness,3672.13,22.46,0.0
+OPTOSUNET,26,1,HighDegree,2998.76,0.0,0.0
+OPTOSUNET,26,1,Random,2998.76,0.0,0.0
+OPTOSUNET,26,3,Greedy,826.99,61.27,0.0
+OPTOSUNET,26,3,LocalSearch,512.8,0.0,0.0
+OPTOSUNET,26,3,Betweenness,1644.89,220.77,0.0
+OPTOSUNET,26,3,HighDegree,1485.74,189.73,0.0
+OPTOSUNET,26,3,Random,701.98,36.89,0.0
+OPTOSUNET,26,5,Greedy,218.55,19.91,0.0
+OPTOSUNET,26,5,LocalSearch,182.26,0.0,0.0
+OPTOSUNET,26,5,Betweenness,1163.75,538.5,0.0
+OPTOSUNET,26,5,HighDegree,1475.56,709.57,0.0
+OPTOSUNET,26,5,Random,231.11,26.8,0.0
+BBNplanet,27,1,Greedy,19182.66,0.0,0.0
+BBNplanet,27,1,LocalSearch,19182.66,0.0,0.0
+BBNplanet,27,1,Betweenness,19182.66,0.0,0.0
+BBNplanet,27,1,HighDegree,19741.37,2.91,0.0
+BBNplanet,27,1,Random,19182.66,0.0,0.0
+BBNplanet,27,3,Greedy,2313.51,16.14,0.0
+BBNplanet,27,3,LocalSearch,1992.01,0.0,0.0
+BBNplanet,27,3,Betweenness,3139.68,57.61,0.0
+BBNplanet,27,3,HighDegree,16202.27,713.36,0.0
+BBNplanet,27,3,Random,2578.27,29.43,0.0
+BBNplanet,27,5,Greedy,1037.82,18.3,0.0
+BBNplanet,27,5,LocalSearch,877.31,0.0,0.001
+BBNplanet,27,5,Betweenness,2521.56,187.42,0.0
+BBNplanet,27,5,HighDegree,6126.95,598.38,0.0
+BBNplanet,27,5,Random,1056.32,20.4,0.0
+GARR,27,1,Greedy,2699.62,0.0,0.0
+GARR,27,1,LocalSearch,2699.62,0.0,0.001
+GARR,27,1,Betweenness,4054.86,50.2,0.0
+GARR,27,1,HighDegree,4054.86,50.2,0.0
+GARR,27,1,Random,2699.62,0.0,0.0
+GARR,27,3,Greedy,361.05,15.41,0.0
+GARR,27,3,LocalSearch,312.83,0.0,0.0
+GARR,27,3,Betweenness,312.83,0.0,0.0
+GARR,27,3,HighDegree,312.83,0.0,0.0
+GARR,27,3,Random,355.01,13.48,0.0
+GARR,27,5,Greedy,146.4,0.0,0.0
+GARR,27,5,LocalSearch,146.4,0.0,0.0
+GARR,27,5,Betweenness,147.91,1.03,0.0
+GARR,27,5,HighDegree,147.91,1.03,0.0
+GARR,27,5,Random,171.53,17.16,0.0
+GEANT,27,1,Greedy,6855.78,0.0,0.0
+GEANT,27,1,LocalSearch,6855.78,0.0,0.0
+GEANT,27,1,Betweenness,6917.86,0.91,0.0
+GEANT,27,1,HighDegree,6917.86,0.91,0.0
+GEANT,27,1,Random,6855.78,0.0,0.0
+GEANT,27,3,Greedy,2580.73,2.22,0.0
+GEANT,27,3,LocalSearch,2524.72,0.0,0.0
+GEANT,27,3,Betweenness,5332.9,111.23,0.0
+GEANT,27,3,HighDegree,5335.69,111.34,0.0
+GEANT,27,3,Random,3012.22,19.31,0.0
+GEANT,27,5,Greedy,368.04,0.0,0.0
+GEANT,27,5,LocalSearch,368.04,0.0,0.0
+GEANT,27,5,Betweenness,4240.89,1052.29,0.0
+GEANT,27,5,HighDegree,4240.89,1052.29,0.0
+GEANT,27,5,Random,1368.35,271.79,0.0
+Integra Telecom ,27,1,Greedy,5315.56,0.0,0.0
+Integra Telecom ,27,1,LocalSearch,5315.56,0.0,0.0
+Integra Telecom ,27,1,Betweenness,5831.91,9.71,0.0
+Integra Telecom ,27,1,HighDegree,5831.91,9.71,0.0
+Integra Telecom ,27,1,Random,5315.56,0.0,0.0
+Integra Telecom ,27,3,Greedy,0.0,0.0,0.0
+Integra Telecom ,27,3,LocalSearch,0.0,0.0,0.002
+Integra Telecom ,27,3,Betweenness,5831.91,0.0,0.0
+Integra Telecom ,27,3,HighDegree,41.33,0.0,0.0
+Integra Telecom ,27,3,Random,0.0,0.0,0.0
+Integra Telecom ,27,5,Greedy,0.0,0.0,0.0
+Integra Telecom ,27,5,LocalSearch,0.0,0.0,0.001
+Integra Telecom ,27,5,Betweenness,41.33,0.0,0.0
+Integra Telecom ,27,5,HighDegree,41.33,0.0,0.0
+Integra Telecom ,27,5,Random,0.0,0.0,0.0
+Darkstrand ,28,1,Greedy,15871.38,0.0,0.0
+Darkstrand ,28,1,LocalSearch,15871.38,0.0,0.0
+Darkstrand ,28,1,Betweenness,16064.1,1.21,0.0
+Darkstrand ,28,1,HighDegree,16064.1,1.21,0.0
+Darkstrand ,28,1,Random,16220.63,2.2,0.0
+Darkstrand ,28,3,Greedy,3304.97,76.35,0.0
+Darkstrand ,28,3,LocalSearch,1874.11,0.0,0.0
+Darkstrand ,28,3,Betweenness,7523.05,301.42,0.001
+Darkstrand ,28,3,HighDegree,4593.81,145.12,0.0
+Darkstrand ,28,3,Random,2035.32,8.6,0.0
+Darkstrand ,28,5,Greedy,1219.46,121.24,0.0
+Darkstrand ,28,5,LocalSearch,551.19,0.0,0.0
+Darkstrand ,28,5,Betweenness,1828.49,231.73,0.001
+Darkstrand ,28,5,HighDegree,3064.9,456.05,0.0
+Darkstrand ,28,5,Random,794.69,44.18,0.0
+Gambia,28,1,Greedy,243.06,0.0,0.0
+Gambia,28,1,LocalSearch,243.06,0.0,0.0
+Gambia,28,1,Betweenness,243.06,0.0,0.0
+Gambia,28,1,HighDegree,243.06,0.0,0.0
+Gambia,28,1,Random,243.06,0.0,0.0
+Gambia,28,3,Greedy,107.28,0.0,0.0
+Gambia,28,3,LocalSearch,107.28,0.0,0.001
+Gambia,28,3,Betweenness,218.46,103.63,0.0
+Gambia,28,3,HighDegree,218.46,103.63,0.0
+Gambia,28,3,Random,148.72,38.63,0.0
+Gambia,28,5,Greedy,73.98,1.66,0.0
+Gambia,28,5,LocalSearch,72.78,0.0,0.001
+Gambia,28,5,Betweenness,157.21,116.01,0.0
+Gambia,28,5,HighDegree,149.72,105.73,0.0
+Gambia,28,5,Random,76.51,5.13,0.0
+KentMan,28,1,Greedy,0.0,0.0,0.0
+KentMan,28,1,LocalSearch,0.0,0.0,0.0
+KentMan,28,1,Betweenness,417.54,0.0,0.001
+KentMan,28,1,HighDegree,417.54,0.0,0.0
+KentMan,28,1,Random,319.85,0.0,0.0
+KentMan,28,3,Greedy,0.0,0.0,0.0
+KentMan,28,3,LocalSearch,0.0,0.0,0.0
+KentMan,28,3,Betweenness,101.9,0.0,0.0
+KentMan,28,3,HighDegree,101.9,0.0,0.0
+KentMan,28,3,Random,0.0,0.0,0.0
+KentMan,28,5,Greedy,0.0,0.0,0.0
+KentMan,28,5,LocalSearch,0.0,0.0,0.0
+KentMan,28,5,Betweenness,19.66,0.0,0.0
+KentMan,28,5,HighDegree,90.09,0.0,0.0
+KentMan,28,5,Random,0.0,0.0,0.0
+Shentel ,28,1,Greedy,1351.6,0.0,0.0
+Shentel ,28,1,LocalSearch,1351.6,0.0,0.0
+Shentel ,28,1,Betweenness,1351.6,0.0,0.0
+Shentel ,28,1,HighDegree,1351.6,0.0,0.0
+Shentel ,28,1,Random,1351.6,0.0,0.0
+Shentel ,28,3,Greedy,0.0,0.0,0.0
+Shentel ,28,3,LocalSearch,0.0,0.0,0.0
+Shentel ,28,3,Betweenness,1351.6,0.0,0.0
+Shentel ,28,3,HighDegree,1351.6,0.0,0.0
+Shentel ,28,3,Random,23.2,0.0,0.0
+Shentel ,28,5,Greedy,0.0,0.0,0.0
+Shentel ,28,5,LocalSearch,0.0,0.0,0.0
+Shentel ,28,5,Betweenness,1351.6,0.0,0.0
+Shentel ,28,5,HighDegree,1351.6,0.0,0.0
+Shentel ,28,5,Random,0.0,0.0,0.0
+ARPANET,29,1,Greedy,25613.91,0.0,0.0
+ARPANET,29,1,LocalSearch,25613.91,0.0,0.0
+ARPANET,29,1,Betweenness,25613.91,0.0,0.0
+ARPANET,29,1,HighDegree,25639.51,0.1,0.0
+ARPANET,29,1,Random,25613.91,0.0,0.0
+ARPANET,29,3,Greedy,1102.55,0.0,0.0
+ARPANET,29,3,LocalSearch,1102.55,0.0,0.0
+ARPANET,29,3,Betweenness,1398.97,26.89,0.0
+ARPANET,29,3,HighDegree,1159.41,5.16,0.0
+ARPANET,29,3,Random,1148.16,4.14,0.0
+ARPANET,29,5,Greedy,610.53,0.0,0.0
+ARPANET,29,5,LocalSearch,610.53,0.0,0.0
+ARPANET,29,5,Betweenness,1159.41,89.9,0.0
+ARPANET,29,5,HighDegree,930.86,52.47,0.0
+ARPANET,29,5,Random,683.87,12.01,0.0
+BizNetworks,29,1,Greedy,2409.33,0.0,0.0
+BizNetworks,29,1,LocalSearch,2409.33,0.0,0.0
+BizNetworks,29,1,Betweenness,2740.72,13.75,0.002
+BizNetworks,29,1,HighDegree,2740.72,13.75,0.0
+BizNetworks,29,1,Random,2409.33,0.0,0.0
+BizNetworks,29,3,Greedy,448.74,0.0,0.0
+BizNetworks,29,3,LocalSearch,448.74,0.0,0.0
+BizNetworks,29,3,Betweenness,1117.67,149.07,0.0
+BizNetworks,29,3,HighDegree,1117.67,149.07,0.0
+BizNetworks,29,3,Random,606.23,35.1,0.0
+BizNetworks,29,5,Greedy,156.79,42.93,0.0
+BizNetworks,29,5,LocalSearch,109.69,0.0,0.0
+BizNetworks,29,5,Betweenness,1083.98,888.19,0.0
+BizNetworks,29,5,HighDegree,788.67,618.97,0.0
+BizNetworks,29,5,Random,109.69,0.0,0.0
+CESNET,29,1,Greedy,1156.32,0.0,0.0
+CESNET,29,1,LocalSearch,1156.32,0.0,0.0
+CESNET,29,1,Betweenness,1156.32,0.0,0.0
+CESNET,29,1,HighDegree,1156.32,0.0,0.0
+CESNET,29,1,Random,1156.32,0.0,0.0
+CESNET,29,3,Greedy,228.34,0.0,0.0
+CESNET,29,3,LocalSearch,228.34,0.0,0.0
+CESNET,29,3,Betweenness,255.28,11.8,0.0
+CESNET,29,3,HighDegree,255.28,11.8,0.0
+CESNET,29,3,Random,247.08,8.21,0.0
+CESNET,29,5,Greedy,77.81,34.84,0.0
+CESNET,29,5,LocalSearch,57.71,0.0,0.0
+CESNET,29,5,Betweenness,64.58,11.92,0.0
+CESNET,29,5,HighDegree,64.58,11.92,0.0
+CESNET,29,5,Random,127.47,120.89,0.0
+Janet Backbone,29,1,Greedy,2232.08,0.0,0.0
+Janet Backbone,29,1,LocalSearch,2232.08,0.0,0.0
+Janet Backbone,29,1,Betweenness,2599.62,16.47,0.001
+Janet Backbone,29,1,HighDegree,2599.62,16.47,0.0
+Janet Backbone,29,1,Random,2232.08,0.0,0.0
+Janet Backbone,29,3,Greedy,394.17,114.22,0.0
+Janet Backbone,29,3,LocalSearch,184.0,0.0,0.0
+Janet Backbone,29,3,Betweenness,440.47,139.39,0.001
+Janet Backbone,29,3,HighDegree,257.59,40.0,0.0
+Janet Backbone,29,3,Random,232.4,26.3,0.0
+Janet Backbone,29,5,Greedy,62.81,70.58,0.0
+Janet Backbone,29,5,LocalSearch,36.82,0.0,0.0
+Janet Backbone,29,5,Betweenness,237.71,545.53,0.0
+Janet Backbone,29,5,HighDegree,237.71,545.53,0.0
+Janet Backbone,29,5,Random,75.31,104.51,0.0
+ARN,30,1,Greedy,2725.79,0.0,0.0
+ARN,30,1,LocalSearch,2725.79,0.0,0.0
+ARN,30,1,Betweenness,2725.79,0.0,0.0
+ARN,30,1,HighDegree,2725.79,0.0,0.0
+ARN,30,1,Random,2725.79,0.0,0.0
+ARN,30,3,Greedy,426.32,0.0,0.0
+ARN,30,3,LocalSearch,426.32,0.0,0.0
+ARN,30,3,Betweenness,426.32,0.0,0.0
+ARN,30,3,HighDegree,426.32,0.0,0.0
+ARN,30,3,Random,432.96,1.56,0.0
+ARN,30,5,Greedy,56.96,0.0,0.0
+ARN,30,5,LocalSearch,56.96,0.0,0.001
+ARN,30,5,Betweenness,56.96,0.0,0.0
+ARN,30,5,HighDegree,56.96,0.0,0.0
+ARN,30,5,Random,69.54,22.08,0.0
+Cynet,30,1,Greedy,98.29,0.0,0.0
+Cynet,30,1,LocalSearch,98.29,0.0,0.0
+Cynet,30,1,Betweenness,98.34,0.05,0.0
+Cynet,30,1,HighDegree,98.34,0.05,0.0
+Cynet,30,1,Random,98.29,0.0,0.0
+Cynet,30,3,Greedy,41.53,0.05,0.0
+Cynet,30,3,LocalSearch,41.5,0.0,0.0
+Cynet,30,3,Betweenness,80.33,93.54,0.0
+Cynet,30,3,HighDegree,80.33,93.54,0.0
+Cynet,30,3,Random,41.53,0.05,0.0
+Cynet,30,5,Greedy,17.95,0.15,0.0
+Cynet,30,5,LocalSearch,17.93,0.0,0.001
+Cynet,30,5,Betweenness,23.56,31.45,0.0
+Cynet,30,5,HighDegree,23.56,31.45,0.0
+Cynet,30,5,Random,23.64,31.9,0.0
+ERNET,30,1,Greedy,11855.72,0.0,0.0
+ERNET,30,1,LocalSearch,11855.72,0.0,0.0
+ERNET,30,1,Betweenness,12645.77,6.66,0.0
+ERNET,30,1,HighDegree,14712.2,24.09,0.0
+ERNET,30,1,Random,11855.72,0.0,0.0
+ERNET,30,3,Greedy,2666.46,27.97,0.0
+ERNET,30,3,LocalSearch,2083.74,0.0,0.0
+ERNET,30,3,Betweenness,2092.9,0.44,0.0
+ERNET,30,3,HighDegree,2673.64,28.31,0.0
+ERNET,30,3,Random,2092.9,0.44,0.0
+ERNET,30,5,Greedy,500.7,1.86,0.0
+ERNET,30,5,LocalSearch,491.53,0.0,0.0
+ERNET,30,5,Betweenness,584.14,18.84,0.0
+ERNET,30,5,HighDegree,584.14,18.84,0.0
+ERNET,30,5,Random,508.72,3.5,0.0
+GTS Hungary,30,1,Greedy,509.1,0.0,0.0
+GTS Hungary,30,1,LocalSearch,509.1,0.0,0.0
+GTS Hungary,30,1,Betweenness,509.1,0.0,0.0
+GTS Hungary,30,1,HighDegree,509.1,0.0,0.0
+GTS Hungary,30,1,Random,509.1,0.0,0.0
+GTS Hungary,30,3,Greedy,158.18,0.0,0.0
+GTS Hungary,30,3,LocalSearch,158.18,0.0,0.0
+GTS Hungary,30,3,Betweenness,374.86,136.98,0.001
+GTS Hungary,30,3,HighDegree,158.18,0.0,0.0
+GTS Hungary,30,3,Random,273.81,73.1,0.0
+GTS Hungary,30,5,Greedy,107.13,0.0,0.0
+GTS Hungary,30,5,LocalSearch,107.13,0.0,0.001
+GTS Hungary,30,5,Betweenness,323.63,202.08,0.0
+GTS Hungary,30,5,HighDegree,144.69,35.05,0.0
+GTS Hungary,30,5,Random,136.89,27.78,0.0
+Renater,30,1,Greedy,925.04,0.0,0.0
+Renater,30,1,LocalSearch,925.04,0.0,0.0
+Renater,30,1,Betweenness,925.04,0.0,0.0
+Renater,30,1,HighDegree,925.04,0.0,0.0
+Renater,30,1,Random,925.04,0.0,0.0
+Renater,30,3,Greedy,251.9,0.0,0.0
+Renater,30,3,LocalSearch,251.9,0.0,0.0
+Renater,30,3,Betweenness,410.8,63.08,0.0
+Renater,30,3,HighDegree,410.8,63.08,0.0
+Renater,30,3,Random,251.9,0.0,0.0
+Renater,30,5,Greedy,136.19,0.0,0.0
+Renater,30,5,LocalSearch,136.19,0.0,0.002
+Renater,30,5,Betweenness,322.2,136.57,0.0
+Renater,30,5,HighDegree,322.2,136.57,0.0
+Renater,30,5,Random,208.08,52.78,0.0
+WIDE,30,1,Greedy,9695.18,0.0,0.0
+WIDE,30,1,LocalSearch,9695.18,0.0,0.0
+WIDE,30,1,Betweenness,9770.46,0.78,0.0
+WIDE,30,1,HighDegree,9770.46,0.78,0.0
+WIDE,30,1,Random,9695.18,0.0,0.0
+WIDE,30,3,Greedy,3782.54,0.0,0.0
+WIDE,30,3,LocalSearch,3782.54,0.0,0.0
+WIDE,30,3,Betweenness,8268.64,118.6,0.0
+WIDE,30,3,HighDegree,8268.64,118.6,0.0
+WIDE,30,3,Random,4915.67,29.96,0.0
+WIDE,30,5,Greedy,2112.93,0.0,0.0
+WIDE,30,5,LocalSearch,2112.93,0.0,0.0
+WIDE,30,5,Betweenness,4383.56,107.46,0.0
+WIDE,30,5,HighDegree,8142.17,285.35,0.0
+WIDE,30,5,Random,3048.14,44.26,0.0
+DIGEX,31,1,Greedy,10026.09,0.0,0.0
+DIGEX,31,1,LocalSearch,10026.09,0.0,0.0
+DIGEX,31,1,Betweenness,12337.05,23.05,0.0
+DIGEX,31,1,HighDegree,23763.9,137.02,0.0
+DIGEX,31,1,Random,10026.09,0.0,0.0
+DIGEX,31,3,Greedy,2121.44,0.0,0.0
+DIGEX,31,3,LocalSearch,2121.44,0.0,0.0
+DIGEX,31,3,Betweenness,7556.05,256.18,0.0
+DIGEX,31,3,HighDegree,3553.99,67.53,0.0
+DIGEX,31,3,Random,2517.77,18.68,0.0
+DIGEX,31,5,Greedy,838.81,6.35,0.0
+DIGEX,31,5,LocalSearch,788.71,0.0,0.001
+DIGEX,31,5,Betweenness,2865.14,263.27,0.0
+DIGEX,31,5,HighDegree,2063.12,161.58,0.0
+DIGEX,31,5,Random,1322.2,67.64,0.0
+IINET ,31,1,Greedy,9688.7,0.0,0.0
+IINET ,31,1,LocalSearch,9688.7,0.0,0.0
+IINET ,31,1,Betweenness,9913.11,2.32,0.0
+IINET ,31,1,HighDegree,9913.11,2.32,0.0
+IINET ,31,1,Random,9688.7,0.0,0.0
+IINET ,31,3,Greedy,2225.4,0.0,0.0
+IINET ,31,3,LocalSearch,2225.4,0.0,0.0
+IINET ,31,3,Betweenness,2325.74,4.51,0.0
+IINET ,31,3,HighDegree,2325.74,4.51,0.0
+IINET ,31,3,Random,2330.96,4.74,0.0
+IINET ,31,5,Greedy,1319.52,3.7,0.0
+IINET ,31,5,LocalSearch,1272.42,0.0,0.0
+IINET ,31,5,Betweenness,1634.55,28.46,0.0
+IINET ,31,5,HighDegree,1634.55,28.46,0.0
+IINET ,31,5,Random,1636.14,28.59,0.0
+RNP,31,1,Greedy,10190.1,0.0,0.0
+RNP,31,1,LocalSearch,10190.1,0.0,0.0
+RNP,31,1,Betweenness,10190.1,0.0,0.001
+RNP,31,1,HighDegree,10190.1,0.0,0.0
+RNP,31,1,Random,10190.1,0.0,0.0
+RNP,31,3,Greedy,2304.29,30.33,0.0
+RNP,31,3,LocalSearch,1767.99,0.0,0.0
+RNP,31,3,Betweenness,8032.3,354.32,0.0
+RNP,31,3,HighDegree,6813.17,285.36,0.0
+RNP,31,3,Random,2174.39,22.99,0.0
+RNP,31,5,Greedy,555.5,0.0,0.0
+RNP,31,5,LocalSearch,555.5,0.0,0.001
+RNP,31,5,Betweenness,2461.49,343.11,0.0
+RNP,31,5,HighDegree,6805.81,1125.17,0.0
+RNP,31,5,Random,942.04,69.58,0.0
+Canerie,32,1,Greedy,15856.1,0.0,0.0
+Canerie,32,1,LocalSearch,15856.1,0.0,0.0
+Canerie,32,1,Betweenness,20873.26,31.64,0.0
+Canerie,32,1,HighDegree,17286.28,9.02,0.0
+Canerie,32,1,Random,15856.1,0.0,0.0
+Canerie,32,3,Greedy,3181.23,38.06,0.0
+Canerie,32,3,LocalSearch,2304.16,0.0,0.001
+Canerie,32,3,Betweenness,9759.85,323.58,0.0
+Canerie,32,3,HighDegree,9759.85,323.58,0.0
+Canerie,32,3,Random,3121.05,35.45,0.0
+Canerie,32,5,Greedy,1396.67,36.84,0.0
+Canerie,32,5,LocalSearch,1020.69,0.0,0.001
+Canerie,32,5,Betweenness,2542.15,149.06,0.0
+Canerie,32,5,HighDegree,2542.15,149.06,0.0
+Canerie,32,5,Random,1616.89,58.41,0.0
+GTS Czech Republic,32,1,Greedy,1434.86,0.0,0.0
+GTS Czech Republic,32,1,LocalSearch,1434.86,0.0,0.0
+GTS Czech Republic,32,1,Betweenness,1434.86,0.0,0.0
+GTS Czech Republic,32,1,HighDegree,1434.86,0.0,0.0
+GTS Czech Republic,32,1,Random,1434.86,0.0,0.0
+GTS Czech Republic,32,3,Greedy,309.45,0.0,0.0
+GTS Czech Republic,32,3,LocalSearch,309.45,0.0,0.0
+GTS Czech Republic,32,3,Betweenness,835.6,170.03,0.0
+GTS Czech Republic,32,3,HighDegree,784.03,153.37,0.0
+GTS Czech Republic,32,3,Random,355.55,14.9,0.0
+GTS Czech Republic,32,5,Greedy,183.16,31.62,0.0
+GTS Czech Republic,32,5,LocalSearch,139.16,0.0,0.0
+GTS Czech Republic,32,5,Betweenness,460.68,231.04,0.0
+GTS Czech Republic,32,5,HighDegree,148.32,6.58,0.0
+GTS Czech Republic,32,5,Random,197.4,41.85,0.0
+BICS,33,1,Greedy,4135.75,0.0,0.001
+BICS,33,1,LocalSearch,4135.75,0.0,0.0
+BICS,33,1,Betweenness,6272.37,51.66,0.0
+BICS,33,1,HighDegree,6272.37,51.66,0.0
+BICS,33,1,Random,4135.75,0.0,0.0
+BICS,33,3,Greedy,1652.68,66.33,0.0
+BICS,33,3,LocalSearch,993.64,0.0,0.0
+BICS,33,3,Betweenness,2201.22,121.53,0.001
+BICS,33,3,HighDegree,4333.34,336.11,0.0
+BICS,33,3,Random,1661.08,67.17,0.0
+BICS,33,5,Greedy,455.95,245.49,0.0
+BICS,33,5,LocalSearch,131.97,0.0,0.001
+BICS,33,5,Betweenness,2201.22,1567.96,0.0
+BICS,33,5,HighDegree,3282.99,2387.66,0.0
+BICS,33,5,Random,765.18,479.81,0.0
+CRL,33,1,Greedy,23481.33,0.0,0.0
+CRL,33,1,LocalSearch,23481.33,0.0,0.0
+CRL,33,1,Betweenness,26165.03,11.43,0.0
+CRL,33,1,HighDegree,26165.03,11.43,0.0
+CRL,33,1,Random,25182.61,7.25,0.0
+CRL,33,3,Greedy,2224.06,17.16,0.0
+CRL,33,3,LocalSearch,1898.35,0.0,0.0
+CRL,33,3,Betweenness,19937.51,950.26,0.0
+CRL,33,3,HighDegree,3591.92,89.21,0.0
+CRL,33,3,Random,2485.81,30.95,0.0
+CRL,33,5,Greedy,1067.93,0.0,0.0
+CRL,33,5,LocalSearch,1067.93,0.0,0.001
+CRL,33,5,Betweenness,1623.43,52.02,0.0
+CRL,33,5,HighDegree,1193.31,11.74,0.0
+CRL,33,5,Random,1265.05,18.46,0.0
+GTS Poland,33,1,Greedy,2847.16,0.0,0.0
+GTS Poland,33,1,LocalSearch,2847.16,0.0,0.0
+GTS Poland,33,1,Betweenness,3060.3,7.49,0.0
+GTS Poland,33,1,HighDegree,3060.3,7.49,0.0
+GTS Poland,33,1,Random,2847.16,0.0,0.0
+GTS Poland,33,3,Greedy,377.6,17.3,0.0
+GTS Poland,33,3,LocalSearch,321.89,0.0,0.0
+GTS Poland,33,3,Betweenness,1797.64,458.46,0.001
+GTS Poland,33,3,HighDegree,1416.64,340.1,0.0
+GTS Poland,33,3,Random,379.48,17.89,0.0
+GTS Poland,33,5,Greedy,155.44,24.65,0.001
+GTS Poland,33,5,LocalSearch,124.7,0.0,0.001
+GTS Poland,33,5,Betweenness,315.54,153.04,0.0
+GTS Poland,33,5,HighDegree,295.74,137.16,0.0
+GTS Poland,33,5,Random,200.28,60.61,0.0
+INS IXC Services ,33,1,Greedy,1915.11,0.0,0.0
+INS IXC Services ,33,1,LocalSearch,1915.11,0.0,0.0
+INS IXC Services ,33,1,Betweenness,1915.11,0.0,0.0
+INS IXC Services ,33,1,HighDegree,3104.26,62.09,0.0
+INS IXC Services ,33,1,Random,1915.11,0.0,0.0
+INS IXC Services ,33,3,Greedy,634.6,23.15,0.0
+INS IXC Services ,33,3,LocalSearch,515.32,0.0,0.0
+INS IXC Services ,33,3,Betweenness,987.43,91.62,0.0
+INS IXC Services ,33,3,HighDegree,1153.27,123.8,0.0
+INS IXC Services ,33,3,Random,889.58,72.63,0.0
+INS IXC Services ,33,5,Greedy,169.95,4.76,0.0
+INS IXC Services ,33,5,LocalSearch,162.22,0.0,0.0
+INS IXC Services ,33,5,Betweenness,946.09,483.22,0.001
+INS IXC Services ,33,5,HighDegree,887.55,447.14,0.0
+INS IXC Services ,33,5,Random,245.07,51.07,0.0
+Renater,33,1,Greedy,2694.26,0.0,0.0
+Renater,33,1,LocalSearch,2694.26,0.0,0.0
+Renater,33,1,Betweenness,4238.72,57.32,0.0
+Renater,33,1,HighDegree,4238.72,57.32,0.0
+Renater,33,1,Random,2694.26,0.0,0.0
+Renater,33,3,Greedy,338.57,46.93,0.0
+Renater,33,3,LocalSearch,230.43,0.0,0.0
+Renater,33,3,Betweenness,376.08,63.2,0.0
+Renater,33,3,HighDegree,1265.36,449.12,0.0
+Renater,33,3,Random,482.65,109.45,0.0
+Renater,33,5,Greedy,79.11,0.0,0.0
+Renater,33,5,LocalSearch,79.11,0.0,0.001
+Renater,33,5,Betweenness,187.12,136.53,0.0
+Renater,33,5,HighDegree,191.52,142.09,0.0
+Renater,33,5,Random,104.57,32.19,0.0
+Renater,33,1,Greedy,2694.26,0.0,0.0
+Renater,33,1,LocalSearch,2694.26,0.0,0.0
+Renater,33,1,Betweenness,4238.72,57.32,0.001
+Renater,33,1,HighDegree,4238.72,57.32,0.0
+Renater,33,1,Random,2694.26,0.0,0.0
+Renater,33,3,Greedy,338.57,46.93,0.0
+Renater,33,3,LocalSearch,230.43,0.0,0.001
+Renater,33,3,Betweenness,376.08,63.2,0.0
+Renater,33,3,HighDegree,1265.36,449.12,0.0
+Renater,33,3,Random,482.65,109.45,0.0
+Renater,33,5,Greedy,79.11,0.0,0.0
+Renater,33,5,LocalSearch,79.11,0.0,0.0
+Renater,33,5,Betweenness,187.12,136.53,0.0
+Renater,33,5,HighDegree,191.52,142.09,0.0
+Renater,33,5,Random,104.57,32.19,0.001
+ARNES,34,1,Greedy,1272.05,0.0,0.0
+ARNES,34,1,LocalSearch,1272.05,0.0,0.0
+ARNES,34,1,Betweenness,1420.47,11.67,0.0
+ARNES,34,1,HighDegree,1420.47,11.67,0.0
+ARNES,34,1,Random,1272.05,0.0,0.0
+ARNES,34,3,Greedy,0.0,0.0,0.0
+ARNES,34,3,LocalSearch,0.0,0.0,0.0
+ARNES,34,3,Betweenness,250.84,0.0,0.0
+ARNES,34,3,HighDegree,250.84,0.0,0.0
+ARNES,34,3,Random,0.0,0.0,0.0
+ARNES,34,5,Greedy,0.0,0.0,0.0
+ARNES,34,5,LocalSearch,0.0,0.0,0.0
+ARNES,34,5,Betweenness,0.0,0.0,0.0
+ARNES,34,5,HighDegree,250.84,0.0,0.0
+ARNES,34,5,Random,0.0,0.0,0.0
+GEANT,34,1,Greedy,5268.43,0.0,0.0
+GEANT,34,1,LocalSearch,5268.43,0.0,0.0
+GEANT,34,1,Betweenness,5268.43,0.0,0.0
+GEANT,34,1,HighDegree,5268.43,0.0,0.0
+GEANT,34,1,Random,5268.43,0.0,0.0
+GEANT,34,3,Greedy,1095.73,0.0,0.0
+GEANT,34,3,LocalSearch,1095.73,0.0,0.0
+GEANT,34,3,Betweenness,5268.43,380.82,0.001
+GEANT,34,3,HighDegree,3404.04,210.67,0.0
+GEANT,34,3,Random,1095.73,0.0,0.0
+GEANT,34,5,Greedy,0.0,0.0,0.0
+GEANT,34,5,LocalSearch,0.0,0.0,0.001
+GEANT,34,5,Betweenness,3404.04,0.0,0.0
+GEANT,34,5,HighDegree,3404.04,0.0,0.0
+GEANT,34,5,Random,1095.73,0.0,0.0
+Xspedius,34,1,Greedy,7964.31,0.0,0.0
+Xspedius,34,1,LocalSearch,7964.31,0.0,0.0
+Xspedius,34,1,Betweenness,9626.95,20.88,0.0
+Xspedius,34,1,HighDegree,9626.95,20.88,0.0
+Xspedius,34,1,Random,7964.31,0.0,0.0
+Xspedius,34,3,Greedy,1414.93,32.69,0.0
+Xspedius,34,3,LocalSearch,1066.37,0.0,0.0
+Xspedius,34,3,Betweenness,2656.6,149.12,0.001
+Xspedius,34,3,HighDegree,2656.6,149.12,0.0
+Xspedius,34,3,Random,1382.81,29.67,0.0
+Xspedius,34,5,Greedy,333.45,0.0,0.0
+Xspedius,34,5,LocalSearch,333.45,0.0,0.0
+Xspedius,34,5,Betweenness,1096.63,228.87,0.027
+Xspedius,34,5,HighDegree,1933.8,479.94,0.0
+Xspedius,34,5,Random,333.45,0.0,0.0
+GTS Slovakia,35,1,Greedy,1309.77,0.0,0.0
+GTS Slovakia,35,1,LocalSearch,1309.77,0.0,0.0
+GTS Slovakia,35,1,Betweenness,2488.19,89.97,0.0
+GTS Slovakia,35,1,HighDegree,2488.19,89.97,0.0
+GTS Slovakia,35,1,Random,1309.77,0.0,0.0
+GTS Slovakia,35,3,Greedy,76.57,0.0,0.0
+GTS Slovakia,35,3,LocalSearch,76.57,0.0,0.0
+GTS Slovakia,35,3,Betweenness,76.74,0.23,0.001
+GTS Slovakia,35,3,HighDegree,76.74,0.23,0.0
+GTS Slovakia,35,3,Random,76.74,0.23,0.0
+GTS Slovakia,35,5,Greedy,53.81,0.0,0.0
+GTS Slovakia,35,5,LocalSearch,53.81,0.0,0.001
+GTS Slovakia,35,5,Betweenness,74.59,38.62,0.0
+GTS Slovakia,35,5,HighDegree,74.59,38.62,0.0
+GTS Slovakia,35,5,Random,58.45,8.62,0.0
+Network USA ,35,1,Greedy,2420.72,0.0,0.0
+Network USA ,35,1,LocalSearch,2420.72,0.0,0.0
+Network USA ,35,1,Betweenness,2600.32,7.42,0.0
+Network USA ,35,1,HighDegree,2600.32,7.42,0.0
+Network USA ,35,1,Random,2439.88,0.79,0.0
+Network USA ,35,3,Greedy,727.8,41.92,0.0
+Network USA ,35,3,LocalSearch,512.83,0.0,0.0
+Network USA ,35,3,Betweenness,1705.04,232.47,0.0
+Network USA ,35,3,HighDegree,1705.04,232.47,0.0
+Network USA ,35,3,Random,544.76,6.23,0.0
+Network USA ,35,5,Greedy,285.51,11.02,0.0
+Network USA ,35,5,LocalSearch,257.17,0.0,0.0
+Network USA ,35,5,Betweenness,1195.88,365.03,0.001
+Network USA ,35,5,HighDegree,1236.06,380.65,0.0
+Network USA ,35,5,Random,346.35,34.68,0.0
+BT North America,36,1,Greedy,17917.24,0.0,0.0
+BT North America,36,1,LocalSearch,17917.24,0.0,0.0
+BT North America,36,1,Betweenness,18383.72,2.6,0.0
+BT North America,36,1,HighDegree,18383.72,2.6,0.0
+BT North America,36,1,Random,18383.72,2.6,0.0
+BT North America,36,3,Greedy,2651.72,46.74,0.0
+BT North America,36,3,LocalSearch,1807.14,0.0,0.002
+BT North America,36,3,Betweenness,3407.46,88.56,0.0
+BT North America,36,3,HighDegree,3197.24,76.92,0.0
+BT North America,36,3,Random,2296.18,27.06,0.0
+BT North America,36,5,Greedy,941.04,27.31,0.0
+BT North America,36,5,LocalSearch,739.15,0.0,0.0
+BT North America,36,5,Betweenness,2054.65,177.97,0.0
+BT North America,36,5,HighDegree,1701.99,130.26,0.0
+BT North America,36,5,Random,1083.16,46.54,0.0
+CWIX,36,1,Greedy,8969.66,0.0,0.0
+CWIX,36,1,LocalSearch,8969.66,0.0,0.0
+CWIX,36,1,Betweenness,9397.04,4.76,0.0
+CWIX,36,1,HighDegree,9397.04,4.76,0.0
+CWIX,36,1,Random,8969.66,0.0,0.0
+CWIX,36,3,Greedy,2270.52,0.0,0.0
+CWIX,36,3,LocalSearch,2270.52,0.0,0.0
+CWIX,36,3,Betweenness,4098.79,80.52,0.0
+CWIX,36,3,HighDegree,2895.82,27.54,0.0
+CWIX,36,3,Random,2896.46,27.57,0.0
+CWIX,36,5,Greedy,915.44,17.53,0.0
+CWIX,36,5,LocalSearch,778.93,0.0,0.001
+CWIX,36,5,Betweenness,3808.82,388.98,0.0
+CWIX,36,5,HighDegree,888.22,14.03,0.0
+CWIX,36,5,Random,983.0,26.2,0.0
+NIIF,36,1,Greedy,986.81,0.0,0.0
+NIIF,36,1,LocalSearch,986.81,0.0,0.0
+NIIF,36,1,Betweenness,988.05,0.13,0.002
+NIIF,36,1,HighDegree,988.05,0.13,0.0
+NIIF,36,1,Random,986.81,0.0,0.0
+NIIF,36,3,Greedy,261.69,0.0,0.0
+NIIF,36,3,LocalSearch,261.69,0.0,0.0
+NIIF,36,3,Betweenness,526.35,101.14,0.001
+NIIF,36,3,HighDegree,307.45,17.49,0.0
+NIIF,36,3,Random,310.89,18.8,0.0
+NIIF,36,5,Greedy,144.66,5.59,0.0
+NIIF,36,5,LocalSearch,137.0,0.0,0.0
+NIIF,36,5,Betweenness,200.76,46.54,0.001
+NIIF,36,5,HighDegree,181.19,32.26,0.0
+NIIF,36,5,Random,184.2,34.45,0.0
+PIONIER,36,1,Greedy,5325.36,0.0,0.0
+PIONIER,36,1,LocalSearch,5325.36,0.0,0.0
+PIONIER,36,1,Betweenness,5840.23,9.67,0.0
+PIONIER,36,1,HighDegree,5799.89,8.91,0.0
+PIONIER,36,1,Random,5325.36,0.0,0.0
+PIONIER,36,3,Greedy,966.04,18.83,0.0
+PIONIER,36,3,LocalSearch,812.98,0.0,0.0
+PIONIER,36,3,Betweenness,2957.72,263.81,0.0
+PIONIER,36,3,HighDegree,1179.0,45.02,0.0
+PIONIER,36,3,Random,923.53,13.6,0.0
+PIONIER,36,5,Greedy,429.64,96.19,0.0
+PIONIER,36,5,LocalSearch,218.99,0.0,0.0
+PIONIER,36,5,Betweenness,1724.94,687.68,0.0
+PIONIER,36,5,HighDegree,794.07,262.61,0.0
+PIONIER,36,5,Random,488.73,123.18,0.0
+Zamren,36,1,Greedy,0.0,0.0,0.0
+Zamren,36,1,LocalSearch,0.0,0.0,0.0
+Zamren,36,1,Betweenness,4861.3,0.0,0.0
+Zamren,36,1,HighDegree,8744.05,0.0,0.0
+Zamren,36,1,Random,4808.87,0.0,0.0
+Zamren,36,3,Greedy,0.0,0.0,0.0
+Zamren,36,3,LocalSearch,0.0,0.0,0.0
+Zamren,36,3,Betweenness,4181.98,0.0,0.0
+Zamren,36,3,HighDegree,552.32,0.0,0.0
+Zamren,36,3,Random,0.0,0.0,0.0
+Zamren,36,5,Greedy,0.0,0.0,0.0
+Zamren,36,5,LocalSearch,0.0,0.0,0.001
+Zamren,36,5,Betweenness,1343.9,0.0,0.0
+Zamren,36,5,HighDegree,433.21,0.0,0.0
+Zamren,36,5,Random,0.0,0.0,0.0
+BREN,37,1,Greedy,1627.39,0.0,0.0
+BREN,37,1,LocalSearch,1627.39,0.0,0.0
+BREN,37,1,Betweenness,1627.39,0.0,0.0
+BREN,37,1,HighDegree,1627.39,0.0,0.0
+BREN,37,1,Random,1627.39,0.0,0.0
+BREN,37,3,Greedy,336.39,23.77,0.0
+BREN,37,3,LocalSearch,271.79,0.0,0.0
+BREN,37,3,Betweenness,809.11,197.7,0.0
+BREN,37,3,HighDegree,504.13,85.48,0.0
+BREN,37,3,Random,271.79,0.0,0.0
+BREN,37,5,Greedy,158.52,25.45,0.0
+BREN,37,5,LocalSearch,126.36,0.0,0.001
+BREN,37,5,Betweenness,394.96,212.56,0.001
+BREN,37,5,HighDegree,186.32,47.45,0.0
+BREN,37,5,Random,137.1,8.5,0.0
+EvoLink,37,1,Greedy,1659.34,0.0,0.0
+EvoLink,37,1,LocalSearch,1659.34,0.0,0.0
+EvoLink,37,1,Betweenness,1866.43,12.48,0.001
+EvoLink,37,1,HighDegree,1866.43,12.48,0.0
+EvoLink,37,1,Random,1696.12,2.22,0.0
+EvoLink,37,3,Greedy,452.01,17.86,0.0
+EvoLink,37,3,LocalSearch,383.51,0.0,0.0
+EvoLink,37,3,Betweenness,1622.23,323.0,0.0
+EvoLink,37,3,HighDegree,867.57,126.22,0.0
+EvoLink,37,3,Random,449.9,17.31,0.0
+EvoLink,37,5,Greedy,228.53,12.98,0.0
+EvoLink,37,5,LocalSearch,202.28,0.0,0.001
+EvoLink,37,5,Betweenness,312.97,54.72,0.0
+EvoLink,37,5,HighDegree,305.5,51.03,0.0
+EvoLink,37,5,Random,263.77,30.4,0.0
+GEANT,37,1,Greedy,9037.24,0.0,0.0
+GEANT,37,1,LocalSearch,9037.24,0.0,0.0
+GEANT,37,1,Betweenness,10371.75,14.77,0.0
+GEANT,37,1,HighDegree,10371.75,14.77,0.0
+GEANT,37,1,Random,9037.24,0.0,0.0
+GEANT,37,3,Greedy,2381.3,37.46,0.0
+GEANT,37,3,LocalSearch,1732.37,0.0,0.0
+GEANT,37,3,Betweenness,2744.36,58.42,0.0
+GEANT,37,3,HighDegree,6826.69,294.07,0.0
+GEANT,37,3,Random,2212.73,27.73,0.0
+GEANT,37,5,Greedy,812.5,2.3,0.0
+GEANT,37,5,LocalSearch,794.26,0.0,0.003
+GEANT,37,5,Betweenness,1146.82,44.39,0.0
+GEANT,37,5,HighDegree,1231.69,55.07,0.0
+GEANT,37,5,Random,1064.3,34.0,0.0
+GRnet,37,1,Greedy,2374.22,0.0,0.0
+GRnet,37,1,LocalSearch,2374.22,0.0,0.0
+GRnet,37,1,Betweenness,2374.22,0.0,0.0
+GRnet,37,1,HighDegree,2374.22,0.0,0.0
+GRnet,37,1,Random,2374.22,0.0,0.0
+GRnet,37,3,Greedy,586.86,18.68,0.0
+GRnet,37,3,LocalSearch,494.49,0.0,0.0
+GRnet,37,3,Betweenness,610.84,23.53,0.001
+GRnet,37,3,HighDegree,793.56,60.48,0.0
+GRnet,37,3,Random,615.8,24.53,0.0
+GRnet,37,5,Greedy,238.93,0.0,0.0
+GRnet,37,5,LocalSearch,242.01,1.29,0.0
+GRnet,37,5,Betweenness,295.63,23.73,0.001
+GRnet,37,5,HighDegree,501.19,109.76,0.0
+GRnet,37,5,Random,256.56,7.38,0.0
+IIJ,37,1,Greedy,23079.65,0.0,0.0
+IIJ,37,1,LocalSearch,23079.65,0.0,0.0
+IIJ,37,1,Betweenness,23963.07,3.83,0.0
+IIJ,37,1,HighDegree,23963.07,3.83,0.0
+IIJ,37,1,Random,23079.65,0.0,0.0
+IIJ,37,3,Greedy,3570.39,0.0,0.0
+IIJ,37,3,LocalSearch,3570.39,0.0,0.0
+IIJ,37,3,Betweenness,21905.28,513.53,0.0
+IIJ,37,3,HighDegree,21905.28,513.53,0.0
+IIJ,37,3,Random,4617.63,29.33,0.0
+IIJ,37,5,Greedy,1842.06,0.1,0.0
+IIJ,37,5,LocalSearch,1840.26,0.0,0.001
+IIJ,37,5,Betweenness,7622.19,314.19,0.0
+IIJ,37,5,HighDegree,7662.19,316.36,0.0
+IIJ,37,5,Random,3461.84,88.12,0.0
+Myren,37,1,Greedy,1064.97,0.0,0.0
+Myren,37,1,LocalSearch,1064.97,0.0,0.0
+Myren,37,1,Betweenness,1107.65,4.01,0.0
+Myren,37,1,HighDegree,1107.65,4.01,0.0
+Myren,37,1,Random,1064.97,0.0,0.0
+Myren,37,3,Greedy,586.75,0.0,0.001
+Myren,37,3,LocalSearch,603.27,2.81,0.0
+Myren,37,3,Betweenness,808.6,37.81,0.0
+Myren,37,3,HighDegree,808.6,37.81,0.0
+Myren,37,3,Random,711.77,21.31,0.0
+Myren,37,5,Greedy,262.14,6.29,0.0
+Myren,37,5,LocalSearch,246.63,0.0,0.001
+Myren,37,5,Betweenness,333.7,35.3,0.0
+Myren,37,5,HighDegree,333.7,35.3,0.0
+Myren,37,5,Random,353.49,43.33,0.0
+Reuna,37,1,Greedy,5933.27,0.0,0.0
+Reuna,37,1,LocalSearch,5933.27,0.0,0.0
+Reuna,37,1,Betweenness,5968.67,0.6,0.001
+Reuna,37,1,HighDegree,5933.27,0.0,0.0
+Reuna,37,1,Random,5933.27,0.0,0.0
+Reuna,37,3,Greedy,1200.62,0.0,0.0
+Reuna,37,3,LocalSearch,1200.62,0.0,0.001
+Reuna,37,3,Betweenness,2763.31,130.16,0.0
+Reuna,37,3,HighDegree,3878.34,223.03,0.0
+Reuna,37,3,Random,1344.84,12.01,0.0
+Reuna,37,5,Greedy,428.74,10.02,0.0
+Reuna,37,5,LocalSearch,389.71,0.0,0.001
+Reuna,37,5,Betweenness,1473.92,278.21,0.0
+Reuna,37,5,HighDegree,2028.67,420.57,0.0
+Reuna,37,5,Random,767.22,96.87,0.0
+KentMan,38,1,Greedy,375.29,0.0,0.0
+KentMan,38,1,LocalSearch,375.29,0.0,0.0
+KentMan,38,1,Betweenness,397.56,5.93,0.001
+KentMan,38,1,HighDegree,406.93,8.43,0.0
+KentMan,38,1,Random,375.29,0.0,0.0
+KentMan,38,3,Greedy,65.58,45.13,0.0
+KentMan,38,3,LocalSearch,45.19,0.0,0.0
+KentMan,38,3,Betweenness,56.82,25.74,0.001
+KentMan,38,3,HighDegree,56.82,25.74,0.0
+KentMan,38,3,Random,52.73,16.69,0.0
+KentMan,38,5,Greedy,19.07,9.9,0.0
+KentMan,38,5,LocalSearch,17.35,0.0,0.001
+KentMan,38,5,Betweenness,24.2,39.42,0.001
+KentMan,38,5,HighDegree,32.98,90.04,0.0
+KentMan,38,5,Random,24.46,40.95,0.0
+PIONIER,38,1,Greedy,2832.97,0.0,0.0
+PIONIER,38,1,LocalSearch,2832.97,0.0,0.0
+PIONIER,38,1,Betweenness,2990.2,5.55,0.001
+PIONIER,38,1,HighDegree,2990.2,5.55,0.0
+PIONIER,38,1,Random,2832.97,0.0,0.0
+PIONIER,38,3,Greedy,554.56,11.38,0.0
+PIONIER,38,3,LocalSearch,497.92,0.0,0.0
+PIONIER,38,3,Betweenness,1413.1,183.8,0.001
+PIONIER,38,3,HighDegree,2080.0,317.74,0.0
+PIONIER,38,3,Random,630.5,26.63,0.0
+PIONIER,38,5,Greedy,300.46,66.82,0.0
+PIONIER,38,5,LocalSearch,180.12,0.0,0.001
+PIONIER,38,5,Betweenness,539.19,199.36,0.0
+PIONIER,38,5,HighDegree,1121.37,522.58,0.0
+PIONIER,38,5,Random,258.58,43.56,0.0
+CESNET,39,1,Greedy,1539.43,0.0,0.0
+CESNET,39,1,LocalSearch,1539.43,0.0,0.0
+CESNET,39,1,Betweenness,1582.65,2.81,0.001
+CESNET,39,1,HighDegree,1582.65,2.81,0.0
+CESNET,39,1,Random,1539.43,0.0,0.0
+CESNET,39,3,Greedy,338.07,6.82,0.0
+CESNET,39,3,LocalSearch,316.48,0.0,0.0
+CESNET,39,3,Betweenness,368.65,16.49,0.0
+CESNET,39,3,HighDegree,338.07,6.82,0.0
+CESNET,39,3,Random,323.55,2.23,0.0
+CESNET,39,5,Greedy,90.21,0.0,0.0
+CESNET,39,5,LocalSearch,90.21,0.0,0.0
+CESNET,39,5,Betweenness,90.21,0.0,0.0
+CESNET,39,5,HighDegree,90.21,0.0,0.0
+CESNET,39,5,Random,97.09,7.63,0.0
+CESNET,39,1,Greedy,1539.43,0.0,0.0
+CESNET,39,1,LocalSearch,1539.43,0.0,0.0
+CESNET,39,1,Betweenness,1582.65,2.81,0.001
+CESNET,39,1,HighDegree,1582.65,2.81,0.0
+CESNET,39,1,Random,1539.43,0.0,0.0
+CESNET,39,3,Greedy,338.07,6.82,0.0
+CESNET,39,3,LocalSearch,316.48,0.0,0.0
+CESNET,39,3,Betweenness,368.65,16.49,0.001
+CESNET,39,3,HighDegree,338.07,6.82,0.0
+CESNET,39,3,Random,323.55,2.23,0.0
+CESNET,39,5,Greedy,90.21,0.0,0.0
+CESNET,39,5,LocalSearch,90.21,0.0,0.001
+CESNET,39,5,Betweenness,90.21,0.0,0.0
+CESNET,39,5,HighDegree,90.21,0.0,0.0
+CESNET,39,5,Random,97.09,7.63,0.0
+Deutsche Telekom ,39,1,Greedy,0.0,0.0,0.0
+Deutsche Telekom ,39,1,LocalSearch,0.0,0.0,0.0
+Deutsche Telekom ,39,1,Betweenness,21328.04,0.0,0.0
+Deutsche Telekom ,39,1,HighDegree,34672.19,0.0,0.0
+Deutsche Telekom ,39,1,Random,0.0,0.0,0.0
+Deutsche Telekom ,39,3,Greedy,0.0,0.0,0.0
+Deutsche Telekom ,39,3,LocalSearch,0.0,0.0,0.0
+Deutsche Telekom ,39,3,Betweenness,616.09,0.0,0.0
+Deutsche Telekom ,39,3,HighDegree,1026.55,0.0,0.0
+Deutsche Telekom ,39,3,Random,0.0,0.0,0.0
+Deutsche Telekom ,39,5,Greedy,0.0,0.0,0.0
+Deutsche Telekom ,39,5,LocalSearch,0.0,0.0,0.0
+Deutsche Telekom ,39,5,Betweenness,616.09,0.0,0.0
+Deutsche Telekom ,39,5,HighDegree,616.09,0.0,0.0
+Deutsche Telekom ,39,5,Random,0.0,0.0,0.0
+ValleyNet,39,1,Greedy,3568.93,0.0,0.0
+ValleyNet,39,1,LocalSearch,3568.93,0.0,0.0
+ValleyNet,39,1,Betweenness,3568.93,0.0,0.0
+ValleyNet,39,1,HighDegree,4656.5,30.47,0.0
+ValleyNet,39,1,Random,3568.93,0.0,0.0
+ValleyNet,39,3,Greedy,622.05,122.08,0.0
+ValleyNet,39,3,LocalSearch,280.1,0.0,0.0
+ValleyNet,39,3,Betweenness,622.05,122.08,0.001
+ValleyNet,39,3,HighDegree,4656.5,1562.43,0.0
+ValleyNet,39,3,Random,280.1,0.0,0.0
+ValleyNet,39,5,Greedy,67.71,6.4,0.0
+ValleyNet,39,5,LocalSearch,63.63,0.0,0.001
+ValleyNet,39,5,Betweenness,622.05,877.55,0.0
+ValleyNet,39,5,HighDegree,617.98,871.15,0.0
+ValleyNet,39,5,Random,183.19,187.89,0.0
+GEANT,40,1,Greedy,7538.95,0.0,0.0
+GEANT,40,1,LocalSearch,7538.95,0.0,0.0
+GEANT,40,1,Betweenness,8163.53,8.28,0.002
+GEANT,40,1,HighDegree,8163.53,8.28,0.0
+GEANT,40,1,Random,7752.42,2.83,0.0
+GEANT,40,3,Greedy,2544.44,18.29,0.0
+GEANT,40,3,LocalSearch,2150.98,0.0,0.0
+GEANT,40,3,Betweenness,2574.65,19.7,0.0
+GEANT,40,3,HighDegree,6546.79,204.36,0.0
+GEANT,40,3,Random,2150.98,0.0,0.0
+GEANT,40,5,Greedy,903.2,155.71,0.0
+GEANT,40,5,LocalSearch,353.22,0.0,0.001
+GEANT,40,5,Betweenness,1168.46,230.81,0.0
+GEANT,40,5,HighDegree,5560.05,1474.12,0.0
+GEANT,40,5,Random,1228.52,247.81,0.0
+Cernet,41,1,Greedy,4108.78,0.0,0.0
+Cernet,41,1,LocalSearch,4108.78,0.0,0.0
+Cernet,41,1,Betweenness,6790.92,65.28,0.0
+Cernet,41,1,HighDegree,6790.92,65.28,0.0
+Cernet,41,1,Random,4108.78,0.0,0.0
+Cernet,41,3,Greedy,1626.34,4.95,0.0
+Cernet,41,3,LocalSearch,1549.58,0.0,0.0
+Cernet,41,3,Betweenness,2348.15,51.53,0.0
+Cernet,41,3,HighDegree,2348.15,51.53,0.0
+Cernet,41,3,Random,1706.53,10.13,0.0
+Cernet,41,5,Greedy,524.86,0.0,0.0
+Cernet,41,5,LocalSearch,524.86,0.0,0.001
+Cernet,41,5,Betweenness,1544.71,194.31,0.0
+Cernet,41,5,HighDegree,1876.42,257.51,0.0
+Cernet,41,5,Random,1058.47,101.67,0.0
+China Telecom ,42,1,Greedy,9140.66,0.0,0.0
+China Telecom ,42,1,LocalSearch,9140.66,0.0,0.0
+China Telecom ,42,1,Betweenness,10530.72,15.21,0.0
+China Telecom ,42,1,HighDegree,10530.72,15.21,0.0
+China Telecom ,42,1,Random,9140.66,0.0,0.0
+China Telecom ,42,3,Greedy,3622.13,42.64,0.0
+China Telecom ,42,3,LocalSearch,2539.28,0.0,0.0
+China Telecom ,42,3,Betweenness,2612.95,2.9,0.0
+China Telecom ,42,3,HighDegree,2612.95,2.9,0.0
+China Telecom ,42,3,Random,3174.73,25.02,0.0
+China Telecom ,42,5,Greedy,1692.6,50.5,0.0
+China Telecom ,42,5,LocalSearch,1124.63,0.0,0.001
+China Telecom ,42,5,Betweenness,2413.84,114.63,0.001
+China Telecom ,42,5,HighDegree,2340.46,108.11,0.0
+China Telecom ,42,5,Random,1832.56,62.95,0.0
+Lambdanet ,42,1,Greedy,2410.72,0.0,0.0
+Lambdanet ,42,1,LocalSearch,2410.72,0.0,0.0
+Lambdanet ,42,1,Betweenness,2586.16,7.28,0.001
+Lambdanet ,42,1,HighDegree,2585.33,7.24,0.0
+Lambdanet ,42,1,Random,2585.33,7.24,0.0
+Lambdanet ,42,3,Greedy,226.88,187.14,0.0
+Lambdanet ,42,3,LocalSearch,79.01,0.0,0.0
+Lambdanet ,42,3,Betweenness,1252.68,1485.38,0.001
+Lambdanet ,42,3,HighDegree,1252.68,1485.38,0.0
+Lambdanet ,42,3,Random,86.78,9.83,0.0
+Lambdanet ,42,5,Greedy,32.11,84.04,0.0
+Lambdanet ,42,5,LocalSearch,17.45,0.0,0.001
+Lambdanet ,42,5,Betweenness,1252.68,7079.87,0.0
+Lambdanet ,42,5,HighDegree,274.51,1473.37,0.0
+Lambdanet ,42,5,Random,74.27,325.69,0.0
+RoEduNet,42,1,Greedy,3028.56,0.0,0.0
+RoEduNet,42,1,LocalSearch,3028.56,0.0,0.0
+RoEduNet,42,1,Betweenness,3028.56,0.0,0.0
+RoEduNet,42,1,HighDegree,3028.56,0.0,0.0
+RoEduNet,42,1,Random,3043.44,0.49,0.0
+RoEduNet,42,3,Greedy,913.95,36.95,0.0
+RoEduNet,42,3,LocalSearch,667.38,0.0,0.0
+RoEduNet,42,3,Betweenness,667.38,0.0,0.0
+RoEduNet,42,3,HighDegree,667.38,0.0,0.0
+RoEduNet,42,3,Random,693.61,3.93,0.0
+RoEduNet,42,5,Greedy,242.98,8.81,0.0
+RoEduNet,42,5,LocalSearch,223.3,0.0,0.0
+RoEduNet,42,5,Betweenness,223.3,0.0,0.001
+RoEduNet,42,5,HighDegree,223.3,0.0,0.0
+RoEduNet,42,5,Random,231.2,3.54,0.0
+SWITCH,42,1,Greedy,1037.78,0.0,0.0
+SWITCH,42,1,LocalSearch,1037.78,0.0,0.0
+SWITCH,42,1,Betweenness,1037.78,0.0,0.001
+SWITCH,42,1,HighDegree,4147.23,299.63,0.0
+SWITCH,42,1,Random,1037.78,0.0,0.0
+SWITCH,42,3,Greedy,148.18,0.0,0.0
+SWITCH,42,3,LocalSearch,148.18,0.0,0.0
+SWITCH,42,3,Betweenness,202.75,36.83,0.0
+SWITCH,42,3,HighDegree,190.15,28.33,0.0
+SWITCH,42,3,Random,151.88,2.5,0.0
+SWITCH,42,5,Greedy,92.35,0.0,0.0
+SWITCH,42,5,LocalSearch,92.35,0.0,0.002
+SWITCH,42,5,Betweenness,190.15,105.9,0.0
+SWITCH,42,5,HighDegree,150.38,62.83,0.0
+SWITCH,42,5,Random,117.57,27.31,0.0
+LITNET,43,1,Greedy,2190.09,0.0,0.0
+LITNET,43,1,LocalSearch,2190.09,0.0,0.0
+LITNET,43,1,Betweenness,2190.09,0.0,0.001
+LITNET,43,1,HighDegree,2190.09,0.0,0.0
+LITNET,43,1,Random,2190.09,0.0,0.0
+LITNET,43,3,Greedy,266.02,0.0,0.0
+LITNET,43,3,LocalSearch,266.02,0.0,0.001
+LITNET,43,3,Betweenness,620.7,133.33,0.0
+LITNET,43,3,HighDegree,327.39,23.07,0.0
+LITNET,43,3,Random,333.25,25.28,0.0
+LITNET,43,5,Greedy,35.26,0.0,0.0
+LITNET,43,5,LocalSearch,35.26,0.0,0.001
+LITNET,43,5,Betweenness,35.26,0.0,0.0
+LITNET,43,5,HighDegree,35.26,0.0,0.0
+LITNET,43,5,Random,39.46,11.91,0.0
+Renater,43,1,Greedy,1966.75,0.0,0.0
+Renater,43,1,LocalSearch,1966.75,0.0,0.0
+Renater,43,1,Betweenness,2402.08,22.13,0.0
+Renater,43,1,HighDegree,2402.08,22.13,0.0
+Renater,43,1,Random,1966.75,0.0,0.0
+Renater,43,3,Greedy,262.89,0.0,0.0
+Renater,43,3,LocalSearch,262.89,0.0,0.001
+Renater,43,3,Betweenness,987.52,275.64,0.0
+Renater,43,3,HighDegree,987.52,275.64,0.0
+Renater,43,3,Random,262.89,0.0,0.0
+Renater,43,5,Greedy,93.28,0.0,0.0
+Renater,43,5,LocalSearch,93.28,0.0,0.001
+Renater,43,5,Betweenness,987.52,958.66,0.0
+Renater,43,5,HighDegree,486.69,421.76,0.0
+Renater,43,5,Random,223.1,139.18,0.0
+SANET,43,1,Greedy,1370.62,0.0,0.0
+SANET,43,1,LocalSearch,1370.62,0.0,0.0
+SANET,43,1,Betweenness,1421.71,3.73,0.0
+SANET,43,1,HighDegree,2921.62,113.16,0.0
+SANET,43,1,Random,1374.65,0.29,0.0
+SANET,43,3,Greedy,443.11,42.52,0.0
+SANET,43,3,LocalSearch,310.91,0.0,0.0
+SANET,43,3,Betweenness,489.08,57.31,0.001
+SANET,43,3,HighDegree,469.33,50.95,0.0
+SANET,43,3,Random,408.33,31.33,0.0
+SANET,43,5,Greedy,226.15,53.4,0.0
+SANET,43,5,LocalSearch,147.43,0.0,0.001
+SANET,43,5,Betweenness,416.21,182.31,0.0
+SANET,43,5,HighDegree,458.34,210.88,0.0
+SANET,43,5,Random,218.22,48.02,0.0
+Carnet,44,1,Greedy,1831.92,0.0,0.0
+Carnet,44,1,LocalSearch,1831.92,0.0,0.0
+Carnet,44,1,Betweenness,1831.92,0.0,0.0
+Carnet,44,1,HighDegree,1831.92,0.0,0.0
+Carnet,44,1,Random,1831.95,0.0,0.0
+Carnet,44,3,Greedy,337.48,0.0,0.0
+Carnet,44,3,LocalSearch,337.48,0.0,0.0
+Carnet,44,3,Betweenness,337.48,0.0,0.0
+Carnet,44,3,HighDegree,337.48,0.0,0.0
+Carnet,44,3,Random,517.15,53.24,0.0
+Carnet,44,5,Greedy,35.23,0.0,0.0
+Carnet,44,5,LocalSearch,35.23,0.0,0.001
+Carnet,44,5,Betweenness,37.29,5.84,0.001
+Carnet,44,5,HighDegree,37.29,5.84,0.0
+Carnet,44,5,Random,40.13,13.88,0.0
+CESNET,44,1,Greedy,1691.13,0.0,0.0
+CESNET,44,1,LocalSearch,1691.13,0.0,0.0
+CESNET,44,1,Betweenness,1761.24,4.15,0.001
+CESNET,44,1,HighDegree,1761.24,4.15,0.0
+CESNET,44,1,Random,1691.13,0.0,0.0
+CESNET,44,3,Greedy,224.84,0.58,0.0
+CESNET,44,3,LocalSearch,223.55,0.0,0.002
+CESNET,44,3,Betweenness,260.22,16.41,0.0
+CESNET,44,3,HighDegree,274.07,22.6,0.0
+CESNET,44,3,Random,268.66,20.18,0.0
+CESNET,44,5,Greedy,118.39,31.0,0.0
+CESNET,44,5,LocalSearch,90.37,0.0,0.001
+CESNET,44,5,Betweenness,90.37,0.0,0.0
+CESNET,44,5,HighDegree,146.45,62.06,0.0
+CESNET,44,5,Random,101.53,12.35,0.0
+PalmettoNet ,45,1,Greedy,3485.22,0.0,0.0
+PalmettoNet ,45,1,LocalSearch,3485.22,0.0,0.0
+PalmettoNet ,45,1,Betweenness,3603.23,3.39,0.001
+PalmettoNet ,45,1,HighDegree,4673.0,34.08,0.0
+PalmettoNet ,45,1,Random,3485.22,0.0,0.0
+PalmettoNet ,45,3,Greedy,173.14,55.49,0.0
+PalmettoNet ,45,3,LocalSearch,111.35,0.0,0.001
+PalmettoNet ,45,3,Betweenness,111.35,0.0,0.0
+PalmettoNet ,45,3,HighDegree,1096.18,884.43,0.0
+PalmettoNet ,45,3,Random,173.14,55.49,0.0
+PalmettoNet ,45,5,Greedy,0.0,0.0,0.0
+PalmettoNet ,45,5,LocalSearch,0.0,0.0,0.0
+PalmettoNet ,45,5,Betweenness,111.35,0.0,0.001
+PalmettoNet ,45,5,HighDegree,1096.18,0.0,0.0
+PalmettoNet ,45,5,Random,0.37,0.0,0.0
+NTT,47,1,Greedy,0.0,0.0,0.0
+NTT,47,1,LocalSearch,0.0,0.0,0.0
+NTT,47,1,Betweenness,111006.54,0.0,0.0
+NTT,47,1,HighDegree,111006.54,0.0,0.0
+NTT,47,1,Random,0.0,0.0,0.0
+NTT,47,3,Greedy,0.0,0.0,0.0
+NTT,47,3,LocalSearch,0.0,0.0,0.0
+NTT,47,3,Betweenness,8830.2,0.0,0.0
+NTT,47,3,HighDegree,15845.68,0.0,0.0
+NTT,47,3,Random,0.0,0.0,0.0
+NTT,47,5,Greedy,0.0,0.0,0.0
+NTT,47,5,LocalSearch,0.0,0.0,0.0
+NTT,47,5,Betweenness,1685.05,0.0,0.001
+NTT,47,5,HighDegree,15845.68,0.0,0.0
+NTT,47,5,Random,0.0,0.0,0.0
+Bell Canada,48,1,Greedy,25483.8,0.0,0.0
+Bell Canada,48,1,LocalSearch,25483.8,0.0,0.0
+Bell Canada,48,1,Betweenness,32413.22,27.19,0.001
+Bell Canada,48,1,HighDegree,26477.15,3.9,0.0
+Bell Canada,48,1,Random,25483.8,0.0,0.0
+Bell Canada,48,3,Greedy,904.73,83.76,0.0
+Bell Canada,48,3,LocalSearch,492.35,0.0,0.0
+Bell Canada,48,3,Betweenness,32413.22,6483.38,0.0
+Bell Canada,48,3,HighDegree,2307.22,368.61,0.0
+Bell Canada,48,3,Random,492.35,0.0,0.0
+Bell Canada,48,5,Greedy,153.06,0.0,0.0
+Bell Canada,48,5,LocalSearch,153.06,0.0,0.002
+Bell Canada,48,5,Betweenness,3022.9,1874.97,0.001
+Bell Canada,48,5,HighDegree,259.4,69.48,0.0
+Bell Canada,48,5,Random,184.79,20.73,0.0
+NTELOS ,48,1,Greedy,0.0,0.0,0.0
+NTELOS ,48,1,LocalSearch,0.0,0.0,0.0
+NTELOS ,48,1,Betweenness,3271.51,0.0,0.0
+NTELOS ,48,1,HighDegree,3077.65,0.0,0.0
+NTELOS ,48,1,Random,3077.65,0.0,0.0
+NTELOS ,48,3,Greedy,0.0,0.0,0.0
+NTELOS ,48,3,LocalSearch,0.0,0.0,0.0
+NTELOS ,48,3,Betweenness,2214.54,0.0,0.001
+NTELOS ,48,3,HighDegree,2651.91,0.0,0.0
+NTELOS ,48,3,Random,351.88,0.0,0.0
+NTELOS ,48,5,Greedy,0.0,0.0,0.0
+NTELOS ,48,5,LocalSearch,0.0,0.0,0.001
+NTELOS ,48,5,Betweenness,2029.04,0.0,0.001
+NTELOS ,48,5,HighDegree,516.93,0.0,0.0
+NTELOS ,48,5,Random,148.16,0.0,0.0
+RoEduNet,48,1,Greedy,3316.53,0.0,0.0
+RoEduNet,48,1,LocalSearch,3316.53,0.0,0.0
+RoEduNet,48,1,Betweenness,3629.78,9.45,0.0
+RoEduNet,48,1,HighDegree,3629.78,9.45,0.0
+RoEduNet,48,1,Random,3316.53,0.0,0.0
+RoEduNet,48,3,Greedy,827.03,1.27,0.0
+RoEduNet,48,3,LocalSearch,816.64,0.0,0.0
+RoEduNet,48,3,Betweenness,2228.7,172.91,0.0
+RoEduNet,48,3,HighDegree,2021.77,147.57,0.0
+RoEduNet,48,3,Random,857.15,4.96,0.0
+RoEduNet,48,5,Greedy,466.37,12.07,0.0
+RoEduNet,48,5,LocalSearch,416.15,0.0,0.001
+RoEduNet,48,5,Betweenness,1050.06,152.33,0.001
+RoEduNet,48,5,HighDegree,1050.06,152.33,0.0
+RoEduNet,48,5,Random,461.55,10.91,0.0
+UUNET,49,1,Greedy,16425.63,0.0,0.0
+UUNET,49,1,LocalSearch,16425.63,0.0,0.0
+UUNET,49,1,Betweenness,17505.73,6.58,0.001
+UUNET,49,1,HighDegree,17505.73,6.58,0.0
+UUNET,49,1,Random,16425.63,0.0,0.0
+UUNET,49,3,Greedy,2636.02,0.0,0.0
+UUNET,49,3,LocalSearch,2636.02,0.0,0.0
+UUNET,49,3,Betweenness,15825.55,500.36,0.0
+UUNET,49,3,HighDegree,16728.64,534.62,0.0
+UUNET,49,3,Random,3118.48,18.3,0.0
+UUNET,49,5,Greedy,1364.67,10.45,0.0
+UUNET,49,5,LocalSearch,1235.59,0.0,0.001
+UUNET,49,5,Betweenness,3187.87,158.0,0.001
+UUNET,49,5,HighDegree,3187.87,158.0,0.0
+UUNET,49,5,Random,1975.23,59.86,0.0
+SURFNET,50,1,Greedy,1026.98,0.0,0.0
+SURFNET,50,1,LocalSearch,1026.98,0.0,0.0
+SURFNET,50,1,Betweenness,1026.98,0.0,0.0
+SURFNET,50,1,HighDegree,1026.98,0.0,0.0
+SURFNET,50,1,Random,1026.98,0.0,0.0
+SURFNET,50,3,Greedy,24.47,0.0,0.0
+SURFNET,50,3,LocalSearch,24.47,0.0,0.0
+SURFNET,50,3,Betweenness,929.95,3699.75,0.001
+SURFNET,50,3,HighDegree,1026.98,4096.22,0.0
+SURFNET,50,3,Random,24.47,0.0,0.0
+SURFNET,50,5,Greedy,0.0,0.0,0.0
+SURFNET,50,5,LocalSearch,0.0,0.0,0.001
+SURFNET,50,5,Betweenness,24.47,0.0,0.001
+SURFNET,50,5,HighDegree,121.51,0.0,0.0
+SURFNET,50,5,Random,0.0,0.0,0.0
+Bell South ,51,1,Greedy,5936.06,0.0,0.0
+Bell South ,51,1,LocalSearch,5936.06,0.0,0.0
+Bell South ,51,1,Betweenness,6041.06,1.77,0.001
+Bell South ,51,1,HighDegree,8198.05,38.11,0.0
+Bell South ,51,1,Random,6013.53,1.31,0.0
+Bell South ,51,3,Greedy,1955.34,2.72,0.0
+Bell South ,51,3,LocalSearch,1903.62,0.0,0.001
+Bell South ,51,3,Betweenness,4413.44,131.84,0.0
+Bell South ,51,3,HighDegree,4118.26,116.34,0.0
+Bell South ,51,3,Random,1996.38,4.87,0.0
+Bell South ,51,5,Greedy,719.89,1.44,0.0
+Bell South ,51,5,LocalSearch,709.67,0.0,0.002
+Bell South ,51,5,Betweenness,1894.35,166.93,0.0
+Bell South ,51,5,HighDegree,3980.8,460.94,0.0
+Bell South ,51,5,Random,935.69,31.85,0.0
+BT Latin America,51,1,Greedy,0.0,0.0,0.0
+BT Latin America,51,1,LocalSearch,0.0,0.0,0.0
+BT Latin America,51,1,Betweenness,57459.01,0.0,0.0
+BT Latin America,51,1,HighDegree,57459.01,0.0,0.0
+BT Latin America,51,1,Random,53269.74,0.0,0.0
+BT Latin America,51,3,Greedy,0.0,0.0,0.001
+BT Latin America,51,3,LocalSearch,0.0,0.0,0.0
+BT Latin America,51,3,Betweenness,35855.25,0.0,0.001
+BT Latin America,51,3,HighDegree,11000.13,0.0,0.0
+BT Latin America,51,3,Random,0.0,0.0,0.0
+BT Latin America,51,5,Greedy,0.0,0.0,0.0
+BT Latin America,51,5,LocalSearch,0.0,0.0,0.0
+BT Latin America,51,5,Betweenness,16005.85,0.0,0.001
+BT Latin America,51,5,HighDegree,2631.21,0.0,0.0
+BT Latin America,51,5,Random,0.0,0.0,0.0
+CUDI,51,1,Greedy,331.86,0.0,0.0
+CUDI,51,1,LocalSearch,331.86,0.0,0.001
+CUDI,51,1,Betweenness,331.86,0.0,0.0
+CUDI,51,1,HighDegree,665.34,100.49,0.0
+CUDI,51,1,Random,335.33,1.05,0.0
+CUDI,51,3,Greedy,63.04,4.66,0.0
+CUDI,51,3,LocalSearch,60.23,0.0,0.0
+CUDI,51,3,Betweenness,89.42,48.46,0.001
+CUDI,51,3,HighDegree,69.39,15.21,0.0
+CUDI,51,3,Random,61.4,1.94,0.0
+CUDI,51,5,Greedy,29.45,31.4,0.0
+CUDI,51,5,LocalSearch,22.42,0.0,0.002
+CUDI,51,5,Betweenness,80.8,260.48,0.0
+CUDI,51,5,HighDegree,31.69,41.37,0.0
+CUDI,51,5,Random,35.01,56.17,0.0
+IRIS Networks ,51,1,Greedy,3288.13,0.0,0.0
+IRIS Networks ,51,1,LocalSearch,3288.13,0.0,0.0
+IRIS Networks ,51,1,Betweenness,3288.13,0.0,0.001
+IRIS Networks ,51,1,HighDegree,3770.09,14.66,0.0
+IRIS Networks ,51,1,Random,3288.13,0.0,0.0
+IRIS Networks ,51,3,Greedy,482.12,105.44,0.0
+IRIS Networks ,51,3,LocalSearch,234.68,0.0,0.0
+IRIS Networks ,51,3,Betweenness,814.9,247.24,0.013
+IRIS Networks ,51,3,HighDegree,1373.13,485.11,0.0
+IRIS Networks ,51,3,Random,234.68,0.0,0.001
+IRIS Networks ,51,5,Greedy,107.29,65.31,0.0
+IRIS Networks ,51,5,LocalSearch,64.9,0.0,0.001
+IRIS Networks ,51,5,Betweenness,814.9,1155.59,0.001
+IRIS Networks ,51,5,HighDegree,727.25,1020.55,0.0
+IRIS Networks ,51,5,Random,107.29,65.31,0.0
+CESNET,52,1,Greedy,1921.27,0.0,0.0
+CESNET,52,1,LocalSearch,1921.27,0.0,0.0
+CESNET,52,1,Betweenness,1993.51,3.76,0.001
+CESNET,52,1,HighDegree,1993.51,3.76,0.0
+CESNET,52,1,Random,1965.13,2.28,0.0
+CESNET,52,3,Greedy,384.91,9.37,0.0
+CESNET,52,3,LocalSearch,351.93,0.0,0.0
+CESNET,52,3,Betweenness,429.31,21.99,0.001
+CESNET,52,3,HighDegree,429.31,21.99,0.0
+CESNET,52,3,Random,366.87,4.24,0.0
+CESNET,52,5,Greedy,216.13,68.45,0.0
+CESNET,52,5,LocalSearch,128.31,0.0,0.001
+CESNET,52,5,Betweenness,128.55,0.19,0.0
+CESNET,52,5,HighDegree,128.55,0.19,0.0
+CESNET,52,5,Random,153.94,19.98,0.0
+BTN ,53,1,Greedy,23371.02,0.0,0.0
+BTN ,53,1,LocalSearch,23371.02,0.0,0.0
+BTN ,53,1,Betweenness,26112.37,11.73,0.001
+BTN ,53,1,HighDegree,26112.37,11.73,0.0
+BTN ,53,1,Random,23371.02,0.0,0.001
+BTN ,53,3,Greedy,4310.38,14.92,0.001
+BTN ,53,3,LocalSearch,3750.84,0.0,0.0
+BTN ,53,3,Betweenness,21124.66,463.2,0.001
+BTN ,53,3,HighDegree,20183.46,438.1,0.0
+BTN ,53,3,Random,4490.04,19.71,0.0
+BTN ,53,5,Greedy,2190.19,1.43,0.0
+BTN ,53,5,LocalSearch,2159.24,0.0,0.002
+BTN ,53,5,Betweenness,4435.53,105.42,0.0
+BTN ,53,5,HighDegree,2912.96,34.91,0.0
+BTN ,53,5,Random,2692.29,24.69,0.0
+Tinet,53,1,Greedy,111638.7,0.0,0.0
+Tinet,53,1,LocalSearch,111638.7,0.0,0.0
+Tinet,53,1,Betweenness,112309.77,0.6,0.001
+Tinet,53,1,HighDegree,112309.77,0.6,0.0
+Tinet,53,1,Random,111638.7,0.0,0.0
+Tinet,53,3,Greedy,4633.62,87.18,0.0
+Tinet,53,3,LocalSearch,2475.43,0.0,0.001
+Tinet,53,3,Betweenness,105215.87,4150.41,0.0
+Tinet,53,3,HighDegree,112309.77,4436.99,0.0
+Tinet,53,3,Random,4633.62,87.18,0.0
+Tinet,53,5,Greedy,518.37,0.0,0.0
+Tinet,53,5,LocalSearch,518.37,0.0,0.002
+Tinet,53,5,Betweenness,105215.87,20197.27,0.0
+Tinet,53,5,HighDegree,105215.87,20197.27,0.0
+Tinet,53,5,Random,1951.53,276.47,0.0
+GARR,54,1,Greedy,4822.99,0.0,0.0
+GARR,54,1,LocalSearch,4822.99,0.0,0.0
+GARR,54,1,Betweenness,5546.22,15.0,0.001
+GARR,54,1,HighDegree,7278.69,50.92,0.0
+GARR,54,1,Random,5191.12,7.63,0.0
+GARR,54,3,Greedy,1111.21,15.66,0.0
+GARR,54,3,LocalSearch,960.75,0.0,0.0
+GARR,54,3,Betweenness,1542.08,60.51,0.001
+GARR,54,3,HighDegree,1779.96,85.27,0.0
+GARR,54,3,Random,1059.6,10.29,0.0
+GARR,54,5,Greedy,485.35,50.6,0.0
+GARR,54,5,LocalSearch,322.27,0.0,0.001
+GARR,54,5,Betweenness,741.75,130.16,0.001
+GARR,54,5,HighDegree,1540.34,377.96,0.0
+GARR,54,5,Random,600.66,86.38,0.0
+GARR,54,1,Greedy,4822.99,0.0,0.0
+GARR,54,1,LocalSearch,4822.99,0.0,0.001
+GARR,54,1,Betweenness,5546.22,15.0,0.0
+GARR,54,1,HighDegree,7278.69,50.92,0.0
+GARR,54,1,Random,5191.12,7.63,0.0
+GARR,54,3,Greedy,1111.21,15.66,0.0
+GARR,54,3,LocalSearch,960.75,0.0,0.0
+GARR,54,3,Betweenness,1542.08,60.51,0.0
+GARR,54,3,HighDegree,1779.96,85.27,0.0
+GARR,54,3,Random,1059.6,10.29,0.0
+GARR,54,5,Greedy,485.35,50.6,0.0
+GARR,54,5,LocalSearch,322.27,0.0,0.001
+GARR,54,5,Betweenness,741.75,130.16,0.0
+GARR,54,5,HighDegree,1540.34,377.96,0.0
+GARR,54,5,Random,600.66,86.38,0.0
+GARR,54,1,Greedy,4908.65,0.0,0.0
+GARR,54,1,LocalSearch,4908.65,0.0,0.0
+GARR,54,1,Betweenness,5745.82,17.06,0.001
+GARR,54,1,HighDegree,7061.35,43.86,0.0
+GARR,54,1,Random,5236.66,6.68,0.0
+GARR,54,3,Greedy,1112.51,14.55,0.0
+GARR,54,3,LocalSearch,971.23,0.0,0.0
+GARR,54,3,Betweenness,1527.25,57.25,0.001
+GARR,54,3,HighDegree,1791.64,84.47,0.0
+GARR,54,3,Random,973.58,0.24,0.0
+GARR,54,5,Greedy,482.69,55.3,0.0
+GARR,54,5,LocalSearch,310.81,0.0,0.002
+GARR,54,5,Betweenness,720.84,131.92,0.001
+GARR,54,5,HighDegree,1525.51,390.82,0.0
+GARR,54,5,Random,375.68,20.87,0.0
+GARR,54,1,Greedy,4908.65,0.0,0.0
+GARR,54,1,LocalSearch,4908.65,0.0,0.0
+GARR,54,1,Betweenness,5745.82,17.06,0.001
+GARR,54,1,HighDegree,7061.35,43.86,0.0
+GARR,54,1,Random,5236.66,6.68,0.0
+GARR,54,3,Greedy,1112.51,14.55,0.0
+GARR,54,3,LocalSearch,971.23,0.0,0.002
+GARR,54,3,Betweenness,1527.25,57.25,0.001
+GARR,54,3,HighDegree,1791.64,84.47,0.0
+GARR,54,3,Random,973.58,0.24,0.0
+GARR,54,5,Greedy,482.69,55.3,0.0
+GARR,54,5,LocalSearch,310.81,0.0,0.001
+GARR,54,5,Betweenness,720.84,131.92,0.001
+GARR,54,5,HighDegree,1525.51,390.82,0.0
+GARR,54,5,Random,375.68,20.87,0.0
+GARR,54,1,Greedy,4908.65,0.0,0.0
+GARR,54,1,LocalSearch,4908.65,0.0,0.0
+GARR,54,1,Betweenness,5745.82,17.06,0.001
+GARR,54,1,HighDegree,7061.35,43.86,0.0
+GARR,54,1,Random,5236.66,6.68,0.0
+GARR,54,3,Greedy,1112.51,14.55,0.0
+GARR,54,3,LocalSearch,971.23,0.0,0.0
+GARR,54,3,Betweenness,1527.25,57.25,0.001
+GARR,54,3,HighDegree,1791.64,84.47,0.0
+GARR,54,3,Random,973.58,0.24,0.0
+GARR,54,5,Greedy,482.69,55.3,0.0
+GARR,54,5,LocalSearch,310.81,0.0,0.002
+GARR,54,5,Betweenness,720.84,131.92,0.0
+GARR,54,5,HighDegree,1525.51,390.82,0.0
+GARR,54,5,Random,375.68,20.87,0.0
+GARR,54,1,Greedy,4908.65,0.0,0.0
+GARR,54,1,LocalSearch,4908.65,0.0,0.001
+GARR,54,1,Betweenness,5745.82,17.06,0.0
+GARR,54,1,HighDegree,7061.35,43.86,0.0
+GARR,54,1,Random,5236.66,6.68,0.0
+GARR,54,3,Greedy,1112.51,14.55,0.0
+GARR,54,3,LocalSearch,971.23,0.0,0.0
+GARR,54,3,Betweenness,1527.25,57.25,0.001
+GARR,54,3,HighDegree,1791.64,84.47,0.0
+GARR,54,3,Random,973.58,0.24,0.0
+GARR,54,5,Greedy,482.69,55.3,0.0
+GARR,54,5,LocalSearch,310.81,0.0,0.003
+GARR,54,5,Betweenness,720.84,131.92,0.001
+GARR,54,5,HighDegree,1525.51,390.82,0.0
+GARR,54,5,Random,375.68,20.87,0.0
+GARR,55,1,Greedy,4856.35,0.0,0.0
+GARR,55,1,LocalSearch,4856.35,0.0,0.0
+GARR,55,1,Betweenness,5630.29,15.94,0.001
+GARR,55,1,HighDegree,7314.21,50.61,0.0
+GARR,55,1,Random,4856.35,0.0,0.0
+GARR,55,3,Greedy,1139.0,16.56,0.0
+GARR,55,3,LocalSearch,977.16,0.0,0.001
+GARR,55,3,Betweenness,1500.11,53.52,0.001
+GARR,55,3,HighDegree,1773.21,81.47,0.0
+GARR,55,3,Random,1003.49,2.69,0.0
+GARR,55,5,Greedy,507.5,56.22,0.0
+GARR,55,5,LocalSearch,324.85,0.0,0.001
+GARR,55,5,Betweenness,727.12,123.83,0.0
+GARR,55,5,HighDegree,1498.48,361.28,0.0
+GARR,55,5,Random,686.87,111.44,0.0
+GARR,55,1,Greedy,4844.51,0.0,0.0
+GARR,55,1,LocalSearch,4844.51,0.0,0.0
+GARR,55,1,Betweenness,5606.1,15.72,0.001
+GARR,55,1,HighDegree,7342.79,51.57,0.0
+GARR,55,1,Random,4844.51,0.0,0.0
+GARR,55,3,Greedy,1144.44,16.44,0.0
+GARR,55,3,LocalSearch,982.83,0.0,0.001
+GARR,55,3,Betweenness,1500.11,52.63,0.002
+GARR,55,3,HighDegree,1775.99,80.7,0.0
+GARR,55,3,Random,1010.72,2.84,0.0
+GARR,55,5,Greedy,514.27,55.95,0.0
+GARR,55,5,LocalSearch,329.77,0.0,0.003
+GARR,55,5,Betweenness,731.56,121.84,0.001
+GARR,55,5,HighDegree,1498.48,354.4,0.0
+GARR,55,5,Random,691.56,109.71,0.0
+GARR,55,1,Greedy,4864.92,0.0,0.0
+GARR,55,1,LocalSearch,4864.92,0.0,0.0
+GARR,55,1,Betweenness,5661.24,16.37,0.0
+GARR,55,1,HighDegree,7426.17,52.65,0.0
+GARR,55,1,Random,4864.92,0.0,0.0
+GARR,55,3,Greedy,1148.31,18.46,0.0
+GARR,55,3,LocalSearch,969.37,0.0,0.001
+GARR,55,3,Betweenness,1470.69,51.72,0.0
+GARR,55,3,HighDegree,1755.85,81.13,0.0
+GARR,55,3,Random,1021.75,5.4,0.0
+GARR,55,5,Greedy,512.69,55.32,0.0
+GARR,55,5,LocalSearch,330.08,0.0,0.002
+GARR,55,5,Betweenness,733.3,122.16,0.001
+GARR,55,5,HighDegree,1469.04,345.06,0.0
+GARR,55,5,Random,690.52,109.2,0.0
+GARR,55,1,Greedy,4864.92,0.0,0.0
+GARR,55,1,LocalSearch,4864.92,0.0,0.0
+GARR,55,1,Betweenness,5661.24,16.37,0.001
+GARR,55,1,HighDegree,7426.17,52.65,0.0
+GARR,55,1,Random,4864.92,0.0,0.0
+GARR,55,3,Greedy,1148.31,18.46,0.0
+GARR,55,3,LocalSearch,969.37,0.0,0.0
+GARR,55,3,Betweenness,1470.69,51.72,0.001
+GARR,55,3,HighDegree,1755.85,81.13,0.0
+GARR,55,3,Random,1021.75,5.4,0.0
+GARR,55,5,Greedy,512.69,55.32,0.0
+GARR,55,5,LocalSearch,330.08,0.0,0.002
+GARR,55,5,Betweenness,733.3,122.16,0.001
+GARR,55,5,HighDegree,1469.04,345.06,0.0
+GARR,55,5,Random,690.52,109.2,0.0
+Hibernia Atlantic ,55,1,Greedy,53493.47,0.0,0.0
+Hibernia Atlantic ,55,1,LocalSearch,53493.47,0.0,0.0
+Hibernia Atlantic ,55,1,Betweenness,53493.47,0.0,0.001
+Hibernia Atlantic ,55,1,HighDegree,57249.54,7.02,0.0
+Hibernia Atlantic ,55,1,Random,53493.47,0.0,0.0
+Hibernia Atlantic ,55,3,Greedy,3327.32,112.83,0.0
+Hibernia Atlantic ,55,3,LocalSearch,1563.35,0.0,0.001
+Hibernia Atlantic ,55,3,Betweenness,47865.63,2961.74,0.001
+Hibernia Atlantic ,55,3,HighDegree,56612.63,3521.24,0.0
+Hibernia Atlantic ,55,3,Random,2147.7,37.38,0.0
+Hibernia Atlantic ,55,5,Greedy,1070.49,40.02,0.0
+Hibernia Atlantic ,55,5,LocalSearch,764.53,0.0,0.002
+Hibernia Atlantic ,55,5,Betweenness,5985.79,682.93,0.001
+Hibernia Atlantic ,55,5,HighDegree,52295.81,6740.22,0.0
+Hibernia Atlantic ,55,5,Random,1290.69,68.82,0.0
+GARR,56,1,Greedy,4849.27,0.0,0.0
+GARR,56,1,LocalSearch,4849.27,0.0,0.0
+GARR,56,1,Betweenness,5776.46,19.12,0.001
+GARR,56,1,HighDegree,7186.52,48.2,0.0
+GARR,56,1,Random,4849.27,0.0,0.0
+GARR,56,3,Greedy,1165.05,17.43,0.0
+GARR,56,3,LocalSearch,992.11,0.0,0.001
+GARR,56,3,Betweenness,1480.63,49.24,0.0
+GARR,56,3,HighDegree,1768.93,78.3,0.0
+GARR,56,3,Random,1346.17,35.69,0.0
+GARR,56,5,Greedy,535.94,60.51,0.0
+GARR,56,5,LocalSearch,333.9,0.0,0.003
+GARR,56,5,Betweenness,728.47,118.17,0.001
+GARR,56,5,HighDegree,1479.02,342.96,0.0
+GARR,56,5,Random,690.76,106.88,0.0
+GARR,56,1,Greedy,4849.27,0.0,0.0
+GARR,56,1,LocalSearch,4849.27,0.0,0.0
+GARR,56,1,Betweenness,5776.46,19.12,0.001
+GARR,56,1,HighDegree,7186.52,48.2,0.0
+GARR,56,1,Random,4849.27,0.0,0.0
+GARR,56,3,Greedy,1165.05,17.43,0.0
+GARR,56,3,LocalSearch,992.11,0.0,0.0
+GARR,56,3,Betweenness,1480.63,49.24,0.0
+GARR,56,3,HighDegree,1768.93,78.3,0.0
+GARR,56,3,Random,1346.17,35.69,0.0
+GARR,56,5,Greedy,535.94,60.51,0.0
+GARR,56,5,LocalSearch,333.9,0.0,0.001
+GARR,56,5,Betweenness,728.47,118.17,0.0
+GARR,56,5,HighDegree,1479.02,342.96,0.0
+GARR,56,5,Random,690.76,106.88,0.0
+GARR,56,1,Greedy,4849.27,0.0,0.0
+GARR,56,1,LocalSearch,4849.27,0.0,0.0
+GARR,56,1,Betweenness,5776.46,19.12,0.0
+GARR,56,1,HighDegree,7186.52,48.2,0.0
+GARR,56,1,Random,4849.27,0.0,0.0
+GARR,56,3,Greedy,1165.05,17.43,0.0
+GARR,56,3,LocalSearch,992.11,0.0,0.0
+GARR,56,3,Betweenness,1480.63,49.24,0.0
+GARR,56,3,HighDegree,1768.93,78.3,0.0
+GARR,56,3,Random,1346.17,35.69,0.0
+GARR,56,5,Greedy,535.94,60.51,0.0
+GARR,56,5,LocalSearch,333.9,0.0,0.001
+GARR,56,5,Betweenness,728.47,118.17,0.001
+GARR,56,5,HighDegree,1479.02,342.96,0.0
+GARR,56,5,Random,690.76,106.88,0.0
+GARR,57,1,Greedy,5081.03,0.0,0.0
+GARR,57,1,LocalSearch,5081.03,0.0,0.0
+GARR,57,1,Betweenness,5892.87,15.98,0.0
+GARR,57,1,HighDegree,7656.62,50.69,0.0
+GARR,57,1,Random,5081.03,0.0,0.0
+GARR,57,3,Greedy,1149.41,15.32,0.0
+GARR,57,3,LocalSearch,996.75,0.0,0.0
+GARR,57,3,Betweenness,1609.72,61.5,0.0
+GARR,57,3,HighDegree,1900.76,90.7,0.0
+GARR,57,3,Random,1063.88,6.74,0.0
+GARR,57,5,Greedy,491.19,49.19,0.0
+GARR,57,5,LocalSearch,329.25,0.0,0.002
+GARR,57,5,Betweenness,702.41,113.34,0.001
+GARR,57,5,HighDegree,1608.07,388.4,0.0
+GARR,57,5,Random,671.99,104.1,0.0
+DFN,58,1,Greedy,3350.84,0.0,0.0
+DFN,58,1,LocalSearch,3350.84,0.0,0.0
+DFN,58,1,Betweenness,3739.06,11.59,0.001
+DFN,58,1,HighDegree,3739.06,11.59,0.0
+DFN,58,1,Random,3350.84,0.0,0.0
+DFN,58,3,Greedy,541.79,0.0,0.0
+DFN,58,3,LocalSearch,541.79,0.0,0.001
+DFN,58,3,Betweenness,541.79,0.0,0.001
+DFN,58,3,HighDegree,541.79,0.0,0.0
+DFN,58,3,Random,783.58,44.63,0.0
+DFN,58,5,Greedy,174.93,0.0,0.0
+DFN,58,5,LocalSearch,174.93,0.0,0.002
+DFN,58,5,Betweenness,488.31,179.15,0.0
+DFN,58,5,HighDegree,488.31,179.15,0.0
+DFN,58,5,Random,296.18,69.31,0.0
+GARR,58,1,Greedy,5166.41,0.0,0.0
+GARR,58,1,LocalSearch,5166.41,0.0,0.0
+GARR,58,1,Betweenness,6067.15,17.43,0.001
+GARR,58,1,HighDegree,7539.84,45.94,0.0
+GARR,58,1,Random,5514.52,6.74,0.0
+GARR,58,3,Greedy,1173.56,18.37,0.0
+GARR,58,3,LocalSearch,991.42,0.0,0.001
+GARR,58,3,Betweenness,1622.81,63.69,0.0
+GARR,58,3,HighDegree,1905.94,92.24,0.0
+GARR,58,3,Random,1069.79,7.9,0.0
+GARR,58,5,Greedy,487.06,46.77,0.0
+GARR,58,5,LocalSearch,331.86,0.0,0.001
+GARR,58,5,Betweenness,705.07,112.46,0.001
+GARR,58,5,HighDegree,1621.2,388.52,0.0
+GARR,58,5,Random,354.1,6.7,0.0
+GARR,59,1,Greedy,5002.78,0.0,0.0
+GARR,59,1,LocalSearch,5002.78,0.0,0.0
+GARR,59,1,Betweenness,5918.82,18.31,0.0
+GARR,59,1,HighDegree,7257.96,45.08,0.0
+GARR,59,1,Random,5374.21,7.42,0.0
+GARR,59,3,Greedy,1207.89,25.24,0.0
+GARR,59,3,LocalSearch,964.45,0.0,0.0
+GARR,59,3,Betweenness,1647.27,70.8,0.001
+GARR,59,3,HighDegree,1647.27,70.8,0.0
+GARR,59,3,Random,1122.46,16.38,0.0
+GARR,59,5,Greedy,500.24,48.54,0.0
+GARR,59,5,LocalSearch,336.78,0.0,0.002
+GARR,59,5,Betweenness,403.12,19.7,0.001
+GARR,59,5,HighDegree,1645.68,388.65,0.0
+GARR,59,5,Random,581.96,72.8,0.0
+GARR,59,1,Greedy,5065.98,0.0,0.0
+GARR,59,1,LocalSearch,5065.98,0.0,0.0
+GARR,59,1,Betweenness,5940.31,17.26,0.001
+GARR,59,1,HighDegree,7538.89,48.81,0.0
+GARR,59,1,Random,5468.45,7.94,0.0
+GARR,59,3,Greedy,1228.63,27.92,0.0
+GARR,59,3,LocalSearch,960.49,0.0,0.0
+GARR,59,3,Betweenness,1626.95,69.39,0.001
+GARR,59,3,HighDegree,1626.95,69.39,0.0
+GARR,59,3,Random,1149.75,19.7,0.0
+GARR,59,5,Greedy,511.87,50.59,0.0
+GARR,59,5,LocalSearch,339.9,0.0,0.002
+GARR,59,5,Betweenness,401.18,18.03,0.001
+GARR,59,5,HighDegree,1625.34,378.18,0.0
+GARR,59,5,Random,582.37,71.33,0.0
+GARR,59,1,Greedy,5065.98,0.0,0.0
+GARR,59,1,LocalSearch,5065.98,0.0,0.0
+GARR,59,1,Betweenness,5940.31,17.26,0.001
+GARR,59,1,HighDegree,7538.89,48.81,0.0
+GARR,59,1,Random,5468.45,7.94,0.0
+GARR,59,3,Greedy,1228.63,27.92,0.0
+GARR,59,3,LocalSearch,960.49,0.0,0.001
+GARR,59,3,Betweenness,1626.95,69.39,0.0
+GARR,59,3,HighDegree,1626.95,69.39,0.0
+GARR,59,3,Random,1149.75,19.7,0.0
+GARR,59,5,Greedy,511.87,50.59,0.0
+GARR,59,5,LocalSearch,339.9,0.0,0.001
+GARR,59,5,Betweenness,401.18,18.03,0.001
+GARR,59,5,HighDegree,1625.34,378.18,0.0
+GARR,59,5,Random,582.37,71.33,0.0
+GARR,59,1,Greedy,5065.98,0.0,0.0
+GARR,59,1,LocalSearch,5065.98,0.0,0.0
+GARR,59,1,Betweenness,5940.31,17.26,0.001
+GARR,59,1,HighDegree,7538.89,48.81,0.0
+GARR,59,1,Random,5468.45,7.94,0.0
+GARR,59,3,Greedy,1228.63,27.92,0.0
+GARR,59,3,LocalSearch,960.49,0.0,0.001
+GARR,59,3,Betweenness,1626.95,69.39,0.0
+GARR,59,3,HighDegree,1626.95,69.39,0.0
+GARR,59,3,Random,1149.75,19.7,0.0
+GARR,59,5,Greedy,511.87,50.59,0.0
+GARR,59,5,LocalSearch,339.9,0.0,0.002
+GARR,59,5,Betweenness,401.18,18.03,0.013
+GARR,59,5,HighDegree,1625.34,378.18,0.0
+GARR,59,5,Random,582.37,71.33,0.0
+GARR,59,1,Greedy,5065.31,0.0,0.0
+GARR,59,1,LocalSearch,5065.31,0.0,0.0
+GARR,59,1,Betweenness,5939.48,17.26,0.001
+GARR,59,1,HighDegree,7538.94,48.83,0.0
+GARR,59,1,Random,5467.97,7.95,0.0
+GARR,59,3,Greedy,1228.6,27.9,0.0
+GARR,59,3,LocalSearch,960.57,0.0,0.001
+GARR,59,3,Betweenness,1626.96,69.37,0.0
+GARR,59,3,HighDegree,1626.96,69.37,0.0
+GARR,59,3,Random,1145.39,19.24,0.0
+GARR,59,5,Greedy,511.95,50.59,0.0
+GARR,59,5,LocalSearch,339.96,0.0,0.002
+GARR,59,5,Betweenness,406.02,19.43,0.0
+GARR,59,5,HighDegree,1625.35,378.1,0.0
+GARR,59,5,Random,582.45,71.33,0.0
+GARR,59,1,Greedy,5065.31,0.0,0.0
+GARR,59,1,LocalSearch,5065.31,0.0,0.0
+GARR,59,1,Betweenness,5939.48,17.26,0.001
+GARR,59,1,HighDegree,7538.94,48.83,0.0
+GARR,59,1,Random,5467.97,7.95,0.0
+GARR,59,3,Greedy,1228.6,27.9,0.0
+GARR,59,3,LocalSearch,960.57,0.0,0.001
+GARR,59,3,Betweenness,1626.96,69.37,0.001
+GARR,59,3,HighDegree,1626.96,69.37,0.0
+GARR,59,3,Random,1145.39,19.24,0.0
+GARR,59,5,Greedy,511.95,50.59,0.0
+GARR,59,5,LocalSearch,339.96,0.0,0.003
+GARR,59,5,Betweenness,406.02,19.43,0.0
+GARR,59,5,HighDegree,1625.35,378.1,0.0
+GARR,59,5,Random,582.45,71.33,0.0
+GARR,60,1,Greedy,5497.57,0.0,0.001
+GARR,60,1,LocalSearch,5497.57,0.0,0.0
+GARR,60,1,Betweenness,6041.27,9.89,0.0
+GARR,60,1,HighDegree,7686.42,39.81,0.0
+GARR,60,1,Random,5497.57,0.0,0.0
+GARR,60,3,Greedy,1115.46,19.02,0.0
+GARR,60,3,LocalSearch,937.21,0.0,0.001
+GARR,60,3,Betweenness,1568.43,67.35,0.001
+GARR,60,3,HighDegree,1568.43,67.35,0.0
+GARR,60,3,Random,1043.89,11.38,0.0
+GARR,60,5,Greedy,378.42,18.45,0.0
+GARR,60,5,LocalSearch,319.47,0.0,0.002
+GARR,60,5,Betweenness,383.88,20.16,0.001
+GARR,60,5,HighDegree,662.89,107.5,0.0
+GARR,60,5,Random,434.58,36.03,0.0
+GARR,61,1,Greedy,5715.89,0.0,0.0
+GARR,61,1,LocalSearch,5715.89,0.0,0.0
+GARR,61,1,Betweenness,5964.8,4.35,0.0
+GARR,61,1,HighDegree,8098.81,41.69,0.0
+GARR,61,1,Random,5715.89,0.0,0.0
+GARR,61,3,Greedy,1165.86,13.93,0.0
+GARR,61,3,LocalSearch,1023.3,0.0,0.001
+GARR,61,3,Betweenness,1729.71,69.03,0.001
+GARR,61,3,HighDegree,1729.71,69.03,0.0
+GARR,61,3,Random,1349.39,31.87,0.0
+GARR,61,5,Greedy,399.41,25.39,0.0
+GARR,61,5,LocalSearch,318.53,0.0,0.001
+GARR,61,5,Betweenness,403.26,26.6,0.0
+GARR,61,5,HighDegree,978.06,207.05,0.0
+GARR,61,5,Random,401.34,26.0,0.0
+GARR,61,1,Greedy,5715.89,0.0,0.0
+GARR,61,1,LocalSearch,5715.89,0.0,0.0
+GARR,61,1,Betweenness,5964.8,4.35,0.0
+GARR,61,1,HighDegree,8098.81,41.69,0.0
+GARR,61,1,Random,5715.89,0.0,0.0
+GARR,61,3,Greedy,1165.86,13.93,0.002
+GARR,61,3,LocalSearch,1023.3,0.0,0.0
+GARR,61,3,Betweenness,1729.71,69.03,0.0
+GARR,61,3,HighDegree,1729.71,69.03,0.0
+GARR,61,3,Random,1349.39,31.87,0.0
+GARR,61,5,Greedy,399.41,25.39,0.0
+GARR,61,5,LocalSearch,318.53,0.0,0.002
+GARR,61,5,Betweenness,403.26,26.6,0.001
+GARR,61,5,HighDegree,978.06,207.05,0.0
+GARR,61,5,Random,401.34,26.0,0.0
+FORTHNET,62,1,Greedy,3575.66,0.0,0.0
+FORTHNET,62,1,LocalSearch,3575.66,0.0,0.0
+FORTHNET,62,1,Betweenness,3575.66,0.0,0.0
+FORTHNET,62,1,HighDegree,3575.66,0.0,0.0
+FORTHNET,62,1,Random,3586.72,0.31,0.0
+FORTHNET,62,3,Greedy,908.34,0.0,0.0
+FORTHNET,62,3,LocalSearch,908.34,0.0,0.001
+FORTHNET,62,3,Betweenness,917.52,1.01,0.001
+FORTHNET,62,3,HighDegree,1333.97,46.86,0.0
+FORTHNET,62,3,Random,944.02,3.93,0.0
+FORTHNET,62,5,Greedy,195.98,0.0,0.0
+FORTHNET,62,5,LocalSearch,195.98,0.0,0.0
+FORTHNET,62,5,Betweenness,195.98,0.0,0.001
+FORTHNET,62,5,HighDegree,682.55,248.28,0.0
+FORTHNET,62,5,Random,228.36,16.53,0.0
+US Signal,63,1,Greedy,0.0,0.0,0.0
+US Signal,63,1,LocalSearch,0.0,0.0,0.0
+US Signal,63,1,Betweenness,3757.2,0.0,0.001
+US Signal,63,1,HighDegree,5148.17,0.0,0.0
+US Signal,63,1,Random,3757.2,0.0,0.0
+US Signal,63,3,Greedy,0.0,0.0,0.0
+US Signal,63,3,LocalSearch,0.0,0.0,0.0
+US Signal,63,3,Betweenness,3043.42,0.0,0.001
+US Signal,63,3,HighDegree,1118.35,0.0,0.0
+US Signal,63,3,Random,0.0,0.0,0.0
+US Signal,63,5,Greedy,0.0,0.0,0.0
+US Signal,63,5,LocalSearch,0.0,0.0,0.001
+US Signal,63,5,Betweenness,2940.14,0.0,0.001
+US Signal,63,5,HighDegree,678.02,0.0,0.0
+US Signal,63,5,Random,0.0,0.0,0.0
+ASNET-AM,65,1,Greedy,207.64,0.0,0.0
+ASNET-AM,65,1,LocalSearch,207.64,0.0,0.0
+ASNET-AM,65,1,Betweenness,208.89,0.6,0.001
+ASNET-AM,65,1,HighDegree,208.89,0.6,0.0
+ASNET-AM,65,1,Random,208.89,0.6,0.0
+ASNET-AM,65,3,Greedy,74.21,2.34,0.0
+ASNET-AM,65,3,LocalSearch,72.52,0.0,0.001
+ASNET-AM,65,3,Betweenness,171.19,136.08,0.001
+ASNET-AM,65,3,HighDegree,171.19,136.08,0.0
+ASNET-AM,65,3,Random,79.75,9.97,0.0
+ASNET-AM,65,5,Greedy,43.7,2.07,0.0
+ASNET-AM,65,5,LocalSearch,42.81,0.0,0.003
+ASNET-AM,65,5,Betweenness,46.3,8.16,0.001
+ASNET-AM,65,5,HighDegree,46.3,8.16,0.0
+ASNET-AM,65,5,Random,62.79,46.68,0.0
+Internode,66,1,Greedy,72010.28,0.0,0.0
+Internode,66,1,LocalSearch,72010.28,0.0,0.0
+Internode,66,1,Betweenness,76816.69,6.67,0.001
+Internode,66,1,HighDegree,385534.14,435.39,0.0
+Internode,66,1,Random,72010.28,0.0,0.0
+Internode,66,3,Greedy,19473.51,5.48,0.0
+Internode,66,3,LocalSearch,18461.72,0.0,0.001
+Internode,66,3,Betweenness,34831.23,88.67,0.001
+Internode,66,3,HighDegree,34831.23,88.67,0.0
+Internode,66,3,Random,20990.31,13.7,0.0
+Internode,66,5,Greedy,11628.51,15.75,0.0
+Internode,66,5,LocalSearch,10046.45,0.0,0.003
+Internode,66,5,Betweenness,22710.73,126.06,0.0
+Internode,66,5,HighDegree,22710.73,126.06,0.0
+Internode,66,5,Random,14362.31,42.96,0.0
+GlobeNet,67,1,Greedy,89230.01,0.0,0.0
+GlobeNet,67,1,LocalSearch,89230.01,0.0,0.0
+GlobeNet,67,1,Betweenness,117233.6,31.38,0.001
+GlobeNet,67,1,HighDegree,91327.11,2.35,0.0
+GlobeNet,67,1,Random,98299.94,10.16,0.0
+GlobeNet,67,3,Greedy,10123.9,0.0,0.0
+GlobeNet,67,3,LocalSearch,10123.9,0.0,0.001
+GlobeNet,67,3,Betweenness,42526.18,320.06,0.001
+GlobeNet,67,3,HighDegree,22038.18,117.68,0.0
+GlobeNet,67,3,Random,13913.73,37.43,0.0
+GlobeNet,67,5,Greedy,5194.07,21.63,0.0
+GlobeNet,67,5,LocalSearch,4270.25,0.0,0.001
+GlobeNet,67,5,Betweenness,27709.52,548.9,0.001
+GlobeNet,67,5,HighDegree,19568.09,358.24,0.0
+GlobeNet,67,5,Random,7680.06,79.85,0.0
+Missouri Network Alliance ,67,1,Greedy,2296.83,0.0,0.0
+Missouri Network Alliance ,67,1,LocalSearch,2296.83,0.0,0.0
+Missouri Network Alliance ,67,1,Betweenness,3481.76,51.59,0.001
+Missouri Network Alliance ,67,1,HighDegree,5791.34,152.15,0.0
+Missouri Network Alliance ,67,1,Random,2522.47,9.82,0.0
+Missouri Network Alliance ,67,3,Greedy,757.56,3.4,0.0
+Missouri Network Alliance ,67,3,LocalSearch,732.64,0.0,0.001
+Missouri Network Alliance ,67,3,Betweenness,1304.14,78.01,0.0
+Missouri Network Alliance ,67,3,HighDegree,2116.53,188.89,0.0
+Missouri Network Alliance ,67,3,Random,938.08,28.04,0.0
+Missouri Network Alliance ,67,5,Greedy,357.16,14.77,0.0
+Missouri Network Alliance ,67,5,LocalSearch,311.19,0.0,0.001
+Missouri Network Alliance ,67,5,Betweenness,997.59,220.57,0.001
+Missouri Network Alliance ,67,5,HighDegree,609.6,95.9,0.0
+Missouri Network Alliance ,67,5,Random,359.9,15.65,0.0
+ESnet,68,1,Greedy,49208.85,0.0,0.0
+ESnet,68,1,LocalSearch,49208.85,0.0,0.0
+ESnet,68,1,Betweenness,57394.39,16.63,0.002
+ESnet,68,1,HighDegree,72002.84,46.32,0.0
+ESnet,68,1,Random,49233.94,0.05,0.0
+ESnet,68,3,Greedy,5080.42,0.33,0.0
+ESnet,68,3,LocalSearch,5063.49,0.0,0.001
+ESnet,68,3,Betweenness,6338.63,25.18,0.0
+ESnet,68,3,HighDegree,6338.63,25.18,0.0
+ESnet,68,3,Random,5255.71,3.8,0.0
+ESnet,68,5,Greedy,2049.54,0.83,0.0
+ESnet,68,5,LocalSearch,2032.61,0.0,0.003
+ESnet,68,5,Betweenness,3285.24,61.63,0.001
+ESnet,68,5,HighDegree,4511.24,121.94,0.0
+ESnet,68,5,Random,3400.12,67.28,0.0
+LATNET,69,1,Greedy,689.76,0.0,0.0
+LATNET,69,1,LocalSearch,689.76,0.0,0.0
+LATNET,69,1,Betweenness,689.76,0.0,0.001
+LATNET,69,1,HighDegree,689.76,0.0,0.0
+LATNET,69,1,Random,690.3,0.08,0.0
+LATNET,69,3,Greedy,305.19,0.48,0.0
+LATNET,69,3,LocalSearch,303.73,0.0,0.0
+LATNET,69,3,Betweenness,676.59,122.76,0.001
+LATNET,69,3,HighDegree,542.83,78.73,0.0
+LATNET,69,3,Random,326.87,7.62,0.0
+LATNET,69,5,Greedy,178.47,1.17,0.0
+LATNET,69,5,LocalSearch,176.4,0.0,0.002
+LATNET,69,5,Betweenness,633.96,259.39,0.001
+LATNET,69,5,HighDegree,259.43,47.07,0.0
+LATNET,69,5,Random,253.4,43.65,0.0
+Uninett,69,1,Greedy,7145.9,0.0,0.0
+Uninett,69,1,LocalSearch,7145.9,0.0,0.0
+Uninett,69,1,Betweenness,7528.19,5.35,0.0
+Uninett,69,1,HighDegree,8470.17,18.53,0.0
+Uninett,69,1,Random,7528.19,5.35,0.001
+Uninett,69,3,Greedy,2001.29,67.47,0.0
+Uninett,69,3,LocalSearch,1195.02,0.0,0.001
+Uninett,69,3,Betweenness,2380.41,99.19,0.001
+Uninett,69,3,HighDegree,2380.41,99.19,0.0
+Uninett,69,3,Random,1609.54,34.69,0.0
+Uninett,69,5,Greedy,887.24,95.26,0.0
+Uninett,69,5,LocalSearch,454.38,0.0,0.001
+Uninett,69,5,Betweenness,2380.41,423.88,0.001
+Uninett,69,5,HighDegree,2130.18,368.81,0.0
+Uninett,69,5,Random,712.99,56.91,0.0
+Columbus Networks,70,1,Greedy,21528.31,0.0,0.0
+Columbus Networks,70,1,LocalSearch,21528.31,0.0,0.0
+Columbus Networks,70,1,Betweenness,24774.11,15.08,0.0
+Columbus Networks,70,1,HighDegree,24774.11,15.08,0.0
+Columbus Networks,70,1,Random,24062.83,11.77,0.0
+Columbus Networks,70,3,Greedy,6138.31,39.14,0.0
+Columbus Networks,70,3,LocalSearch,4411.57,0.0,0.001
+Columbus Networks,70,3,Betweenness,9637.74,118.47,0.001
+Columbus Networks,70,3,HighDegree,6615.84,49.97,0.0
+Columbus Networks,70,3,Random,5260.12,19.23,0.0
+Columbus Networks,70,5,Greedy,1897.83,155.72,0.0
+Columbus Networks,70,5,LocalSearch,742.14,0.0,0.001
+Columbus Networks,70,5,Betweenness,9613.23,1195.33,0.001
+Columbus Networks,70,5,HighDegree,5655.34,662.03,0.0
+Columbus Networks,70,5,Random,3165.46,326.53,0.0
+Intellifiber,73,1,Greedy,8187.22,0.0,0.0
+Intellifiber,73,1,LocalSearch,8187.22,0.0,0.0
+Intellifiber,73,1,Betweenness,9990.02,22.02,0.001
+Intellifiber,73,1,HighDegree,9990.02,22.02,0.0
+Intellifiber,73,1,Random,8187.22,0.0,0.0
+Intellifiber,73,3,Greedy,1651.74,59.14,0.0
+Intellifiber,73,3,LocalSearch,1037.91,0.0,0.0
+Intellifiber,73,3,Betweenness,2842.21,173.84,0.001
+Intellifiber,73,3,HighDegree,2876.39,177.13,0.0
+Intellifiber,73,3,Random,1604.21,54.56,0.0
+Intellifiber,73,5,Greedy,475.22,15.6,0.0
+Intellifiber,73,5,LocalSearch,411.09,0.0,0.002
+Intellifiber,73,5,Betweenness,1972.34,379.79,0.001
+Intellifiber,73,5,HighDegree,2341.06,469.48,0.0
+Intellifiber,73,5,Random,803.85,95.54,0.0
+Tecove (level3),73,1,Greedy,0.0,0.0,0.0
+Tecove (level3),73,1,LocalSearch,0.0,0.0,0.0
+Tecove (level3),73,1,Betweenness,14132.78,0.0,0.002
+Tecove (level3),73,1,HighDegree,14132.78,0.0,0.0
+Tecove (level3),73,1,Random,0.0,0.0,0.0
+Tecove (level3),73,3,Greedy,0.0,0.0,0.0
+Tecove (level3),73,3,LocalSearch,0.0,0.0,0.0
+Tecove (level3),73,3,Betweenness,1281.63,0.0,0.001
+Tecove (level3),73,3,HighDegree,1281.63,0.0,0.0
+Tecove (level3),73,3,Random,0.0,0.0,0.0
+Tecove (level3),73,5,Greedy,0.0,0.0,0.0
+Tecove (level3),73,5,LocalSearch,0.0,0.0,0.001
+Tecove (level3),73,5,Betweenness,1098.15,0.0,0.001
+Tecove (level3),73,5,HighDegree,690.53,0.0,0.0
+Tecove (level3),73,5,Random,0.0,0.0,0.0
+Sinet,74,1,Greedy,5591.71,0.0,0.0
+Sinet,74,1,LocalSearch,5591.71,0.0,0.0
+Sinet,74,1,Betweenness,7178.99,28.39,0.001
+Sinet,74,1,HighDegree,7178.99,28.39,0.0
+Sinet,74,1,Random,5591.71,0.0,0.0
+Sinet,74,3,Greedy,874.48,10.3,0.0
+Sinet,74,3,LocalSearch,792.8,0.0,0.0
+Sinet,74,3,Betweenness,3626.99,357.49,0.002
+Sinet,74,3,HighDegree,1980.37,149.79,0.0
+Sinet,74,3,Random,962.85,21.45,0.0
+Sinet,74,5,Greedy,497.17,0.0,0.0
+Sinet,74,5,LocalSearch,497.17,0.0,0.003
+Sinet,74,5,Betweenness,1806.52,263.36,0.001
+Sinet,74,5,HighDegree,703.92,41.59,0.0
+Sinet,74,5,Random,706.49,42.1,0.0
+SWITCH,74,1,Greedy,2440.0,0.0,0.0
+SWITCH,74,1,LocalSearch,2440.0,0.0,0.0
+SWITCH,74,1,Betweenness,2895.99,18.69,0.001
+SWITCH,74,1,HighDegree,5773.76,136.63,0.0
+SWITCH,74,1,Random,2459.18,0.79,0.0
+SWITCH,74,3,Greedy,686.66,25.52,0.0
+SWITCH,74,3,LocalSearch,547.07,0.0,0.001
+SWITCH,74,3,Betweenness,1552.46,183.78,0.001
+SWITCH,74,3,HighDegree,1450.15,165.07,0.0
+SWITCH,74,3,Random,686.66,25.52,0.0
+SWITCH,74,5,Greedy,210.62,8.96,0.0
+SWITCH,74,5,LocalSearch,193.31,0.0,0.003
+SWITCH,74,5,Betweenness,1432.61,641.1,0.002
+SWITCH,74,5,HighDegree,539.76,179.22,0.0
+SWITCH,74,5,Random,239.07,23.67,0.0
+Syringa Networks,74,1,Greedy,6853.54,0.0,0.0
+Syringa Networks,74,1,LocalSearch,6853.54,0.0,0.0
+Syringa Networks,74,1,Betweenness,9477.14,38.28,0.001
+Syringa Networks,74,1,HighDegree,9477.14,38.28,0.0
+Syringa Networks,74,1,Random,6853.54,0.0,0.0
+Syringa Networks,74,3,Greedy,1046.99,4.16,0.0
+Syringa Networks,74,3,LocalSearch,1005.15,0.0,0.001
+Syringa Networks,74,3,Betweenness,9334.03,828.62,0.001
+Syringa Networks,74,3,HighDegree,1802.76,79.35,0.0
+Syringa Networks,74,3,Random,1254.17,24.77,0.0
+Syringa Networks,74,5,Greedy,645.83,29.09,0.0
+Syringa Networks,74,5,LocalSearch,500.32,0.0,0.005
+Syringa Networks,74,5,Betweenness,5596.86,1018.67,0.001
+Syringa Networks,74,5,HighDegree,908.18,81.52,0.0
+Syringa Networks,74,5,Random,707.37,41.38,0.0
+Uninett,74,1,Greedy,9762.61,0.0,0.0
+Uninett,74,1,LocalSearch,9762.61,0.0,0.0
+Uninett,74,1,Betweenness,10385.92,6.38,0.014
+Uninett,74,1,HighDegree,10385.92,6.38,0.0
+Uninett,74,1,Random,9762.61,0.0,0.0
+Uninett,74,3,Greedy,2037.48,60.49,0.0
+Uninett,74,3,LocalSearch,1269.56,0.0,0.001
+Uninett,74,3,Betweenness,6735.91,430.57,0.001
+Uninett,74,3,HighDegree,6733.12,430.35,0.0
+Uninett,74,3,Random,1272.97,0.27,0.0
+Uninett,74,5,Greedy,626.35,162.25,0.0
+Uninett,74,5,LocalSearch,238.84,0.0,0.004
+Uninett,74,5,Betweenness,1467.0,514.22,0.001
+Uninett,74,5,HighDegree,5124.78,2045.71,0.0
+Uninett,74,5,Random,668.63,179.95,0.0
+TW Telecom,76,1,Greedy,0.0,0.0,0.0
+TW Telecom,76,1,LocalSearch,0.0,0.0,0.0
+TW Telecom,76,1,Betweenness,27038.68,0.0,0.001
+TW Telecom,76,1,HighDegree,27038.68,0.0,0.0
+TW Telecom,76,1,Random,26490.74,0.0,0.0
+TW Telecom,76,3,Greedy,0.0,0.0,0.0
+TW Telecom,76,3,LocalSearch,0.0,0.0,0.0
+TW Telecom,76,3,Betweenness,16434.64,0.0,0.002
+TW Telecom,76,3,HighDegree,16434.64,0.0,0.0
+TW Telecom,76,3,Random,0.0,0.0,0.0
+TW Telecom,76,5,Greedy,0.0,0.0,0.0
+TW Telecom,76,5,LocalSearch,0.0,0.0,0.001
+TW Telecom,76,5,Betweenness,1818.11,0.0,0.001
+TW Telecom,76,5,HighDegree,1698.43,0.0,0.0
+TW Telecom,76,5,Random,0.0,0.0,0.0
+ULAKNET,82,1,Greedy,2870.58,0.0,0.0
+ULAKNET,82,1,LocalSearch,2870.58,0.0,0.0
+ULAKNET,82,1,Betweenness,2870.58,0.0,0.001
+ULAKNET,82,1,HighDegree,2870.58,0.0,0.0
+ULAKNET,82,1,Random,2870.58,0.0,0.0
+ULAKNET,82,3,Greedy,697.62,0.0,0.0
+ULAKNET,82,3,LocalSearch,697.62,0.0,0.001
+ULAKNET,82,3,Betweenness,697.62,0.0,0.0
+ULAKNET,82,3,HighDegree,697.62,0.0,0.0
+ULAKNET,82,3,Random,697.69,0.01,0.0
+ULAKNET,82,5,Greedy,576.27,0.0,0.0
+ULAKNET,82,5,LocalSearch,576.27,0.0,0.002
+ULAKNET,82,5,Betweenness,697.62,21.06,0.003
+ULAKNET,82,5,HighDegree,697.62,21.06,0.0
+ULAKNET,82,5,Random,618.51,7.33,0.0
+Bestel ,84,1,Greedy,13627.56,0.0,0.0
+Bestel ,84,1,LocalSearch,13627.56,0.0,0.0
+Bestel ,84,1,Betweenness,15107.3,10.86,0.001
+Bestel ,84,1,HighDegree,14466.94,6.16,0.0
+Bestel ,84,1,Random,13627.56,0.0,0.0
+Bestel ,84,3,Greedy,3690.62,6.65,0.0
+Bestel ,84,3,LocalSearch,3460.46,0.0,0.001
+Bestel ,84,3,Betweenness,12879.58,272.19,0.001
+Bestel ,84,3,HighDegree,11825.98,241.75,0.0
+Bestel ,84,3,Random,3686.96,6.55,0.0
+Bestel ,84,5,Greedy,672.67,0.0,0.0
+Bestel ,84,5,LocalSearch,672.67,0.0,0.005
+Bestel ,84,5,Betweenness,12434.45,1748.52,0.002
+Bestel ,84,5,HighDegree,11083.87,1547.74,0.0
+Bestel ,84,5,Random,2498.19,271.38,0.0
+Viatel,88,1,Greedy,10596.89,0.0,0.0
+Viatel,88,1,LocalSearch,10596.89,0.0,0.0
+Viatel,88,1,Betweenness,10596.89,0.0,0.002
+Viatel,88,1,HighDegree,10596.89,0.0,0.0
+Viatel,88,1,Random,10627.34,0.29,0.0
+Viatel,88,3,Greedy,2138.69,13.19,0.0
+Viatel,88,3,LocalSearch,1889.45,0.0,0.001
+Viatel,88,3,Betweenness,10298.97,445.08,0.001
+Viatel,88,3,HighDegree,5355.02,183.42,0.0
+Viatel,88,3,Random,2386.67,26.32,0.001
+Viatel,88,5,Greedy,987.47,4.17,0.0
+Viatel,88,5,LocalSearch,947.92,0.0,0.005
+Viatel,88,5,Betweenness,9357.9,887.2,0.002
+Viatel,88,5,HighDegree,3187.78,236.29,0.0
+Viatel,88,5,Random,1321.9,39.45,0.0
+Viatel,92,1,Greedy,12484.14,0.0,0.0
+Viatel,92,1,LocalSearch,12484.14,0.0,0.0
+Viatel,92,1,Betweenness,12521.78,0.3,0.002
+Viatel,92,1,HighDegree,12521.78,0.3,0.0
+Viatel,92,1,Random,12484.14,0.0,0.0
+Viatel,92,3,Greedy,2520.64,33.64,0.0
+Viatel,92,3,LocalSearch,1886.18,0.0,0.001
+Viatel,92,3,Betweenness,12391.13,556.94,0.002
+Viatel,92,3,HighDegree,6924.27,267.11,0.0
+Viatel,92,3,Random,2250.99,19.34,0.0
+Viatel,92,5,Greedy,1314.28,19.33,0.0
+Viatel,92,5,LocalSearch,1101.38,0.0,0.009
+Viatel,92,5,Betweenness,11853.37,976.22,0.002
+Viatel,92,5,HighDegree,3878.95,252.19,0.0
+Viatel,92,5,Random,1253.23,13.79,0.0
+OTEGlobe ,93,1,Greedy,0.0,0.0,0.0
+OTEGlobe ,93,1,LocalSearch,0.0,0.0,0.0
+OTEGlobe ,93,1,Betweenness,13363.76,0.0,0.001
+OTEGlobe ,93,1,HighDegree,36695.63,0.0,0.0
+OTEGlobe ,93,1,Random,10885.53,0.0,0.001
+OTEGlobe ,93,3,Greedy,0.0,0.0,0.0
+OTEGlobe ,93,3,LocalSearch,0.0,0.0,0.001
+OTEGlobe ,93,3,Betweenness,10804.05,0.0,0.001
+OTEGlobe ,93,3,HighDegree,4056.56,0.0,0.0
+OTEGlobe ,93,3,Random,0.0,0.0,0.0
+OTEGlobe ,93,5,Greedy,0.0,0.0,0.0
+OTEGlobe ,93,5,LocalSearch,0.0,0.0,0.001
+OTEGlobe ,93,5,Betweenness,3457.77,0.0,0.002
+OTEGlobe ,93,5,HighDegree,3083.94,0.0,0.0
+OTEGlobe ,93,5,Random,0.0,0.0,0.0
+Interroute ,110,1,Greedy,13321.7,0.0,0.0
+Interroute ,110,1,LocalSearch,13321.7,0.0,0.001
+Interroute ,110,1,Betweenness,21286.51,59.79,0.002
+Interroute ,110,1,HighDegree,29673.73,122.75,0.0
+Interroute ,110,1,Random,13321.7,0.0,0.001
+Interroute ,110,3,Greedy,4238.2,0.0,0.0
+Interroute ,110,3,LocalSearch,4238.2,0.0,0.001
+Interroute ,110,3,Betweenness,9857.65,132.59,0.003
+Interroute ,110,3,HighDegree,9762.81,130.35,0.0
+Interroute ,110,3,Random,5158.52,21.71,0.0
+Interroute ,110,5,Greedy,1178.3,0.0,0.0
+Interroute ,110,5,LocalSearch,1178.3,0.0,0.005
+Interroute ,110,5,Betweenness,9857.65,736.6,0.003
+Interroute ,110,5,HighDegree,3802.54,222.71,0.0
+Interroute ,110,5,Random,3825.17,224.63,0.0
+ITC Deltacom ,113,1,Greedy,7061.99,0.0,0.0
+ITC Deltacom ,113,1,LocalSearch,7061.99,0.0,0.0
+ITC Deltacom ,113,1,Betweenness,7061.99,0.0,0.003
+ITC Deltacom ,113,1,HighDegree,7061.99,0.0,0.0
+ITC Deltacom ,113,1,Random,7061.99,0.0,0.0
+ITC Deltacom ,113,3,Greedy,249.68,0.0,0.0
+ITC Deltacom ,113,3,LocalSearch,249.68,0.0,0.001
+ITC Deltacom ,113,3,Betweenness,6895.73,2661.87,0.002
+ITC Deltacom ,113,3,HighDegree,6895.73,2661.87,0.0
+ITC Deltacom ,113,3,Random,267.73,7.23,0.0
+ITC Deltacom ,113,5,Greedy,41.49,0.0,0.0
+ITC Deltacom ,113,5,LocalSearch,41.49,0.0,0.002
+ITC Deltacom ,113,5,Betweenness,6895.73,16518.85,0.002
+ITC Deltacom ,113,5,HighDegree,6895.73,16518.85,0.0
+ITC Deltacom ,113,5,Random,239.92,478.21,0.001
+ION,125,1,Greedy,12565.87,0.0,0.0
+ION,125,1,LocalSearch,12565.87,0.0,0.001
+ION,125,1,Betweenness,14561.46,15.88,0.001
+ION,125,1,HighDegree,17521.04,39.43,0.0
+ION,125,1,Random,12565.87,0.0,0.0
+ION,125,3,Greedy,2270.92,0.0,0.0
+ION,125,3,LocalSearch,2270.92,0.0,0.003
+ION,125,3,Betweenness,4163.79,83.35,0.003
+ION,125,3,HighDegree,5436.44,139.39,0.0
+ION,125,3,Random,2802.42,23.4,0.0
+ION,125,5,Greedy,1410.82,17.52,0.0
+ION,125,5,LocalSearch,1200.51,0.0,0.006
+ION,125,5,Betweenness,2976.32,147.92,0.003
+ION,125,5,HighDegree,2193.64,82.73,0.0
+ION,125,5,Random,1733.81,44.42,0.0
+PERN,127,1,Greedy,17878.65,0.0,0.0
+PERN,127,1,LocalSearch,17878.65,0.0,0.001
+PERN,127,1,Betweenness,18262.59,2.15,0.002
+PERN,127,1,HighDegree,69459.4,288.5,0.0
+PERN,127,1,Random,18516.58,3.57,0.0
+PERN,127,3,Greedy,1615.97,0.0,0.0
+PERN,127,3,LocalSearch,1615.97,0.0,0.001
+PERN,127,3,Betweenness,2963.41,83.38,0.013
+PERN,127,3,HighDegree,1980.6,22.56,0.0
+PERN,127,3,Random,1620.17,0.26,0.0
+PERN,127,5,Greedy,418.36,0.0,0.002
+PERN,127,5,LocalSearch,418.36,0.0,0.01
+PERN,127,5,Betweenness,743.32,77.67,0.003
+PERN,127,5,HighDegree,1329.39,217.76,0.0
+PERN,127,5,Random,939.15,124.48,0.0
+TATA,145,1,Greedy,48344.77,0.0,0.0
+TATA,145,1,LocalSearch,48344.77,0.0,0.0
+TATA,145,1,Betweenness,53310.72,10.27,0.006
+TATA,145,1,HighDegree,61258.55,26.71,0.0
+TATA,145,1,Random,49540.48,2.47,0.0
+TATA,145,3,Greedy,4889.81,1.22,0.0
+TATA,145,3,LocalSearch,4830.91,0.0,0.007
+TATA,145,3,Betweenness,32453.49,571.79,0.007
+TATA,145,3,HighDegree,4830.91,0.0,0.0
+TATA,145,3,Random,5354.74,10.84,0.0
+TATA,145,5,Greedy,2944.21,14.02,0.0
+TATA,145,5,LocalSearch,2582.25,0.0,0.018
+TATA,145,5,Betweenness,27095.99,949.32,0.004
+TATA,145,5,HighDegree,3470.45,34.4,0.0
+TATA,145,5,Random,3515.55,36.14,0.0
+GTS CE,149,1,Greedy,18191.13,0.0,0.0
+GTS CE,149,1,LocalSearch,18191.13,0.0,0.0
+GTS CE,149,1,Betweenness,18191.13,0.0,0.005
+GTS CE,149,1,HighDegree,18191.13,0.0,0.0
+GTS CE,149,1,Random,18191.13,0.0,0.0
+GTS CE,149,3,Greedy,5395.11,0.0,0.0
+GTS CE,149,3,LocalSearch,5395.11,0.0,0.003
+GTS CE,149,3,Betweenness,15110.13,180.07,0.005
+GTS CE,149,3,HighDegree,7326.16,35.79,0.0
+GTS CE,149,3,Random,5846.68,8.37,0.0
+GTS CE,149,5,Greedy,2523.58,3.3,0.0
+GTS CE,149,5,LocalSearch,2442.9,0.0,0.016
+GTS CE,149,5,Betweenness,10933.69,347.57,0.005
+GTS CE,149,5,HighDegree,7256.99,197.06,0.0
+GTS CE,149,5,Random,3687.08,50.93,0.0
+Colt Telecom ,153,1,Greedy,18198.66,0.0,0.0
+Colt Telecom ,153,1,LocalSearch,18198.66,0.0,0.0
+Colt Telecom ,153,1,Betweenness,21347.62,17.3,0.005
+Colt Telecom ,153,1,HighDegree,29747.08,63.46,0.0
+Colt Telecom ,153,1,Random,21090.89,15.89,0.0
+Colt Telecom ,153,3,Greedy,6361.88,32.91,0.0
+Colt Telecom ,153,3,LocalSearch,4786.59,0.0,0.005
+Colt Telecom ,153,3,Betweenness,10670.28,122.92,0.006
+Colt Telecom ,153,3,HighDegree,7590.88,58.59,0.0
+Colt Telecom ,153,3,Random,5455.37,13.97,0.0
+Colt Telecom ,153,5,Greedy,2921.08,17.89,0.0
+Colt Telecom ,153,5,LocalSearch,2477.82,0.0,0.017
+Colt Telecom ,153,5,Betweenness,8653.2,249.23,0.005
+Colt Telecom ,153,5,HighDegree,4966.42,100.44,0.0
+Colt Telecom ,153,5,Random,4009.42,61.81,0.0
+US Carrier,158,1,Greedy,20491.99,0.0,0.0
+US Carrier,158,1,LocalSearch,20491.99,0.0,0.0
+US Carrier,158,1,Betweenness,20673.09,0.88,0.005
+US Carrier,158,1,HighDegree,23882.55,16.55,0.0
+US Carrier,158,1,Random,20491.99,0.0,0.0
+US Carrier,158,3,Greedy,5873.74,46.0,0.0
+US Carrier,158,3,LocalSearch,4023.1,0.0,0.004
+US Carrier,158,3,Betweenness,16476.47,309.55,0.005
+US Carrier,158,3,HighDegree,13515.0,235.94,0.0
+US Carrier,158,3,Random,5806.42,44.33,0.0
+US Carrier,158,5,Greedy,774.85,22.44,0.001
+US Carrier,158,5,LocalSearch,632.82,0.0,0.024
+US Carrier,158,5,Betweenness,16476.47,2503.66,0.005
+US Carrier,158,5,HighDegree,10550.24,1567.18,0.0
+US Carrier,158,5,Random,2697.13,326.21,0.0
+Dial Telecom ,193,1,Greedy,0.0,0.0,0.0
+Dial Telecom ,193,1,LocalSearch,0.0,0.0,0.0
+Dial Telecom ,193,1,Betweenness,8797.68,0.0,0.004
+Dial Telecom ,193,1,HighDegree,8614.65,0.0,0.0
+Dial Telecom ,193,1,Random,0.0,0.0,0.001
+Dial Telecom ,193,3,Greedy,0.0,0.0,0.001
+Dial Telecom ,193,3,LocalSearch,0.0,0.0,0.002
+Dial Telecom ,193,3,Betweenness,7172.85,0.0,0.004
+Dial Telecom ,193,3,HighDegree,6171.26,0.0,0.0
+Dial Telecom ,193,3,Random,0.0,0.0,0.0
+Dial Telecom ,193,5,Greedy,0.0,0.0,0.0
+Dial Telecom ,193,5,LocalSearch,0.0,0.0,0.005
+Dial Telecom ,193,5,Betweenness,4683.96,0.0,0.004
+Dial Telecom ,193,5,HighDegree,4134.64,0.0,0.0
+Dial Telecom ,193,5,Random,0.0,0.0,0.0
+Cogent ,197,1,Greedy,255987.84,0.0,0.0
+Cogent ,197,1,LocalSearch,255987.84,0.0,0.0
+Cogent ,197,1,Betweenness,263337.08,2.87,0.009
+Cogent ,197,1,HighDegree,263337.08,2.87,0.0
+Cogent ,197,1,Random,255987.84,0.0,0.0
+Cogent ,197,3,Greedy,13035.37,37.49,0.001
+Cogent ,197,3,LocalSearch,9480.82,0.0,0.005
+Cogent ,197,3,Betweenness,15768.21,66.32,0.009
+Cogent ,197,3,HighDegree,15842.92,67.11,0.0
+Cogent ,197,3,Random,10453.64,10.26,0.0
+Cogent ,197,5,Greedy,6762.46,25.71,0.0
+Cogent ,197,5,LocalSearch,5379.38,0.0,0.028
+Cogent ,197,5,Betweenness,12862.69,139.11,0.007
+Cogent ,197,5,HighDegree,13120.43,143.9,0.0
+Cogent ,197,5,Random,8128.49,51.1,0.0
+Kentucky Datalink ,754,1,Greedy,77052.35,0.0,0.001
+Kentucky Datalink ,754,1,LocalSearch,77052.35,0.0,0.005
+Kentucky Datalink ,754,1,Betweenness,81053.0,5.19,0.15
+Kentucky Datalink ,754,1,HighDegree,81053.0,5.19,0.0
+Kentucky Datalink ,754,1,Random,91096.2,18.23,0.0
+Kentucky Datalink ,754,3,Greedy,27996.31,42.68,0.003
+Kentucky Datalink ,754,3,LocalSearch,19622.03,0.0,0.118
+Kentucky Datalink ,754,3,Betweenness,62613.7,219.1,0.205
+Kentucky Datalink ,754,3,HighDegree,68810.56,250.68,0.0
+Kentucky Datalink ,754,3,Random,22104.92,12.65,0.0
+Kentucky Datalink ,754,5,Greedy,14132.67,12.34,0.003
+Kentucky Datalink ,754,5,LocalSearch,12579.94,0.0,0.42
+Kentucky Datalink ,754,5,Betweenness,37543.9,198.44,0.592
+Kentucky Datalink ,754,5,HighDegree,38536.07,206.33,0.0
+Kentucky Datalink ,754,5,Random,15551.18,23.62,0.001
