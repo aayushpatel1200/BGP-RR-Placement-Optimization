@@ -1,7 +1,5 @@
 # Optimal BGP Route Reflector Placement in ISP Networks
 
-## CPSC 4110/5110 — Facility Location Optimization — Course Project
-
 ---
 
 ## Overview
